@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief — February 26, 2026</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; --rule: #b0c4b4; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; }
+    .masthead { padding: 52px 56px 44px; border-bottom: 2px solid var(--black); display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+    .masthead-wordmark { font-size: clamp(56px, 11vw, 108px); font-weight: 700; letter-spacing: -0.045em; line-height: 0.88; text-transform: uppercase; }
+    .masthead-wordmark .dim { color: var(--muted); }
+    .masthead-right { text-align: right; padding-bottom: 6px; }
+    .masthead-date { font-family: 'Space Mono', monospace; font-size: 11px; line-height: 2; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+    .snav { display: flex; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--rule); }
+    .snav::-webkit-scrollbar { display: none; }
+    .snav a { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 12px 18px; border-right: 1px solid var(--rule); white-space: nowrap; flex-shrink: 0; transition: background 0.12s, color 0.12s; }
+    .snav a:hover { background: rgba(0,0,0,0.06); color: var(--black); }
+    .content { max-width: 1060px; margin: 0 auto; padding: 0 56px 120px; }
+    .section { border-bottom: 1px solid var(--rule); }
+    .section-bar { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .section-bar-label { display: flex; flex-direction: column; gap: 5px; }
+    .section-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .section-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
+    .section-bar-meta { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); flex-shrink: 0; padding-bottom: 4px; }
+    .articles { padding: 0; }
+    .article-row { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .article-row { grid-template-columns: 1fr; gap: 16px; } }
+    .article-left { padding-top: 4px; }
+    .article-source { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); line-height: 1.8; }
+    .article-right { display: flex; flex-direction: column; gap: 14px; }
+    .article-title { font-size: clamp(18px, 2.8vw, 26px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; }
+    .article-title a { color: var(--black); text-decoration: none; }
+    .article-title a:hover { text-decoration: underline; }
+    .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
+    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); max-width: 75ch; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
+    @media (max-width: 680px) { .masthead { padding: 32px 24px 28px; } .content { padding: 0 24px 80px; } .section-bar { padding-top: 28px; } .footer { padding: 22px 24px; } }
+  </style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-wordmark">Morning<br><span class="dim">Brief</span></div>
+  <div class="masthead-right">
+    <div class="masthead-date">Thursday<br>Feb 26, 2026<br>5 sections<br>6 items</div>
+  </div>
+</header>
+
+<nav class="snav">
+  <a href="#craft">The Craft</a>
+  <a href="#purpose">The Purpose</a>
+  <a href="#deep">The Deep</a>
+  <a href="#ground">The Ground</a>
+  <a href="#andalso">And also...</a>
+</nav>
+
+<div class="content">
+
+  <div class="through-line">
+    <div class="through-line-label">Today's thread</div>
+    <div class="through-line-text">Something runs through today's brief that systems theorists would recognise: the whole differs meaningfully from the sum of its parts. A school practicing mindfulness school-wide is not just a school with mindfulness added. A consciousness that Damasio and Seth can't fully explain is not just a brain with extra steps. And a body that thinks is not just a brain with extra luggage.</div>
+  </div>
+
+  <section class="section" id="craft">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Web, Work &amp; AI</div>
+        <div class="section-bar-name">The Craft</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Highforge<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.highforge.com/when-marketers-go-too-far-with-ai-how-to-balance-automation-with-authenticity-in-2025/" target="_blank">When Marketers Go Too Far with AI: How to Balance Automation With Authenticity</a></div>
+          <div class="article-pitch">A web agency writing honestly about the failure mode: AI-generated content that is technically competent and perceptibly hollow. The piece names the specific damage — not just underperformance but active reputation harm from content that signals inattention — and proposes a practical framework for where AI generates and where humans shape, edit, and inject lived experience. More useful than the usual "balance AI and creativity" discourse because it stays concrete.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="purpose">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Growing mindful thinkers</div>
+        <div class="section-bar-name">The Purpose</div>
+      </div>
+      <div class="section-bar-meta">2 articles</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Scientific Reports<br>Nature<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.nature.com/articles/s41598-025-95491-z" target="_blank">Curriculum Planning and Implementation for Mindfulness Education and Diversified Humanism</a></div>
+          <div class="article-pitch">A 2025 study in Nature's open-access Scientific Reports tracks the measurable outcomes of a mindfulness-integrated curriculum: not just wellbeing improvements but gains in focus, creativity, self-confidence, and teamwork. The finding worth sitting with is that mindfulness education, when designed carefully rather than grafted on, changes the fundamental quality of student engagement — not just how students feel, but how they participate.</div>
+        </div>
+      </div>
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Frontiers in<br>Education<br>2024</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1272545/full" target="_blank">System-wide School Mindfulness: Addressing Elementary Students' Social-Emotional Learning and Wellbeing</a></div>
+          <div class="article-pitch">What happens when mindfulness isn't a class or an add-on but a property of the whole school? A Frontiers in Education study traces the difference between mindfulness as programme and mindfulness as culture — and finds that the systemic version produces qualitatively different results. Teachers change their practice, children carry the skills between contexts, and the improvements in resilience compound across the school day rather than appearing only in dedicated sessions.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="deep">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Science of Mind &amp; Philosophy</div>
+        <div class="section-bar-name">The Deep</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Frontiers in<br>Complex Systems<br>December 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2025.1667670/full" target="_blank">Emergence as a Science</a></div>
+          <div class="article-pitch">A December 2025 paper in Frontiers in Complex Systems argues that emergence is not just a concept but a discipline — one that needs its own frameworks and methods rather than borrowing piecemeal from physics, biology, and philosophy. The author identifies nine distinct emergence "prototypes," each with different properties and implications. Worth reading alongside AI development: whether LLM capabilities "emerge" or are gradually acquired is one of the live debates in machine learning right now.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="ground">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Mindfulness &amp; Wellbeing</div>
+        <div class="section-bar-name">The Ground</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Nautilus<br>May 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://nautil.us/whats-so-hard-about-understanding-consciousness-238421/" target="_blank">What's So Hard About Understanding Consciousness?</a></div>
+          <div class="article-pitch">Nautilus brought Damasio and Anil Seth into dialogue on the hard problem — and the conversation is more honest about uncertainty than most consciousness science writing. Both are serious, both have theories, neither claims to have resolved the question. What makes the piece useful for a practitioner is the implicit message: the science and the practice are asking different versions of the same question, and neither has arrived.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="andalso">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Something unexpected</div>
+        <div class="section-bar-name">And also...</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>November 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/why-you-need-your-whole-body-from-head-to-toes-to-think" target="_blank">Why You Need Your Whole Body — From Head to Toes — to Think</a></div>
+          <div class="article-pitch">A November 2025 Aeon essay attacking brain-centrism at its root. The author, a cognitive scientist, argues that cognition doesn't happen in the brain — it happens in the body, and the brain is one organ among many that participates in the process. The evidence builds from cellular biology upward: even single cells without nervous systems solve the fundamental problem of staying alive. What we call "thinking" may be a property of the whole organism, not the organ.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-l">Morning Brief — Feb 26, 2026</div>
+  <div class="footer-r">Curated by Claude &nbsp;·&nbsp; Feedback shapes next week's brief</div>
+</footer>
+
+</body>
+</html>

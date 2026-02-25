@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief — February 25, 2026</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; --rule: #b0c4b4; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; }
+    .masthead { padding: 52px 56px 44px; border-bottom: 2px solid var(--black); display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+    .masthead-wordmark { font-size: clamp(56px, 11vw, 108px); font-weight: 700; letter-spacing: -0.045em; line-height: 0.88; text-transform: uppercase; }
+    .masthead-wordmark .dim { color: var(--muted); }
+    .masthead-right { text-align: right; padding-bottom: 6px; }
+    .masthead-date { font-family: 'Space Mono', monospace; font-size: 11px; line-height: 2; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+    .snav { display: flex; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--rule); }
+    .snav::-webkit-scrollbar { display: none; }
+    .snav a { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 12px 18px; border-right: 1px solid var(--rule); white-space: nowrap; flex-shrink: 0; transition: background 0.12s, color 0.12s; }
+    .snav a:hover { background: rgba(0,0,0,0.06); color: var(--black); }
+    .content { max-width: 1060px; margin: 0 auto; padding: 0 56px 120px; }
+    .section { border-bottom: 1px solid var(--rule); }
+    .section-bar { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .section-bar-label { display: flex; flex-direction: column; gap: 5px; }
+    .section-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .section-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
+    .section-bar-meta { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); flex-shrink: 0; padding-bottom: 4px; }
+    .articles { padding: 0; }
+    .article-row { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .article-row { grid-template-columns: 1fr; gap: 16px; } }
+    .article-left { padding-top: 4px; }
+    .article-source { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); line-height: 1.8; }
+    .article-right { display: flex; flex-direction: column; gap: 14px; }
+    .article-title { font-size: clamp(18px, 2.8vw, 26px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; }
+    .article-title a { color: var(--black); text-decoration: none; }
+    .article-title a:hover { text-decoration: underline; }
+    .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
+    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); max-width: 75ch; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
+    @media (max-width: 680px) { .masthead { padding: 32px 24px 28px; } .content { padding: 0 24px 80px; } .section-bar { padding-top: 28px; } .footer { padding: 22px 24px; } }
+  </style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-wordmark">Morning<br><span class="dim">Brief</span></div>
+  <div class="masthead-right">
+    <div class="masthead-date">Wednesday<br>Feb 25, 2026<br>5 sections<br>6 items</div>
+  </div>
+</header>
+
+<nav class="snav">
+  <a href="#craft">The Craft</a>
+  <a href="#purpose">The Purpose</a>
+  <a href="#deep">The Deep</a>
+  <a href="#ground">The Ground</a>
+  <a href="#andalso">And also...</a>
+</nav>
+
+<div class="content">
+
+  <div class="through-line">
+    <div class="through-line-label">Today's thread</div>
+    <div class="through-line-text">Today the brief circles one question from several angles: what gets delegated, what gets taught, and what remains irreducibly alive. From the management of AI agents to the education of a young mind to the peculiar persistence of microbes that barely breathe, something about vitality resists being handed off.</div>
+  </div>
+
+  <section class="section" id="craft">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Web, Work &amp; AI</div>
+        <div class="section-bar-name">The Craft</div>
+      </div>
+      <div class="section-bar-meta">2 articles</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Leanware<br>2026</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.leanware.co/insights/claude-cowork-ai-productivity" target="_blank">Claude Cowork: Why It's Changing the Way We Work</a></div>
+          <div class="article-pitch">Claude Cowork launched as a research preview in January 2026, and the early picture is more interesting than another AI productivity tool. This piece maps the specific workflows where Cowork creates genuine leverage — file organisation at scale, research synthesis, turning rough notes into polished outputs — and asks what it means to have an AI that executes rather than just responds. A useful orientation for anyone thinking about how to delegate meaningfully.</div>
+        </div>
+      </div>
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Harvard Business<br>School<br>Working Knowledge</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.library.hbs.edu/working-knowledge/what-leadership-looks-like-in-an-agentic-ai-world" target="_blank">What Leadership Looks Like in an Agentic AI World</a></div>
+          <div class="article-pitch">HBS Working Knowledge examines what changes when AI agents take on multi-step work rather than just answering questions. The argument centres on delegation: the skills needed to hand off outcomes to an agent — specifying goals clearly, knowing when to intervene, owning the result — turn out to look more like management than prompting. A reframe of the human-AI relationship that has concrete implications for how anyone works with these tools.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="purpose">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Growing mindful thinkers</div>
+        <div class="section-bar-name">The Purpose</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Nord Anglia<br>Education<br>Feb 19, 2026</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.nordangliaeducation.com/news/2026/02/19/teaching-children-to-think-with-ai-and-learn-the-skills-ai-cant-replace" target="_blank">Teaching Children to Think with AI. And Learn the Skills AI Can't Replace.</a></div>
+          <div class="article-pitch">Published last week, this piece from Nord Anglia's education network argues that AI literacy for children shouldn't start with generative tools — it should start with the habits that make AI meaningful to use: questioning, verifying, scepticism. The framing is precise: children who thrive won't be those who use AI most, but those who use it well. The harder question — what those skills actually are and how to build them in a classroom — is where the piece does its best work.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="deep">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Science of Mind &amp; Philosophy</div>
+        <div class="section-bar-name">The Deep</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>February 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/imagination-isnt-the-icing-on-the-cake-of-human-cognition" target="_blank">Imagination Isn't the Icing on the Cake of Human Cognition</a></div>
+          <div class="article-pitch">If imagination is both our most distinctive cognitive faculty and one of the least studied, that asymmetry deserves more attention than it gets. This Aeon essay makes the case that imagination — not language, not reasoning — may be the most authentically human capacity, and that its near-invisibility in cognitive science is a revealing gap. The more we understand what machines cannot do, the sharper this argument becomes.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="ground">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Mindfulness &amp; Wellbeing</div>
+        <div class="section-bar-name">The Ground</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">The Science of<br>Meditation<br>April 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://thescienceofmeditation.org/2025/04/09/why-everything-you-know-might-be-wrong-duality-nonduality-and-integration/" target="_blank">Why Everything You Know Might Be Wrong: Duality, Nonduality and Integration</a></div>
+          <div class="article-pitch">A pointed argument: mainstream psychology has largely excluded nonduality from its models, treating it as fringe or spiritual, when it may be fundamental to how consciousness actually works. The author traces how Western mindfulness research systematically stripped the nondual dimension from the traditions it borrowed from — and what that omission costs both the science and the practice. A useful companion to anyone coming at this from the inside.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="andalso">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Something unexpected</div>
+        <div class="section-bar-name">And also...</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>December 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/the-discovery-of-aeonophiles-expands-our-definition-of-life" target="_blank">The Discovery of Aeonophiles Expands Our Definition of Life</a></div>
+          <div class="article-pitch">Deep beneath the ocean floor lives a class of microbes that survive on 0.00001% of the energy required for any other known form of cell life — growing so slowly they can barely be said to grow at all. A December 2025 Aeon essay asks what they reveal about the definition of life itself. The answer is stranger than expected: aliveness, it turns out, may be a spectrum rather than a threshold.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-l">Morning Brief — Feb 25, 2026</div>
+  <div class="footer-r">Curated by Claude &nbsp;·&nbsp; Feedback shapes next week's brief</div>
+</footer>
+
+</body>
+</html>

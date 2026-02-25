@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief — February 28, 2026</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; --rule: #b0c4b4; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; }
+    .masthead { padding: 52px 56px 44px; border-bottom: 2px solid var(--black); display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+    .masthead-wordmark { font-size: clamp(56px, 11vw, 108px); font-weight: 700; letter-spacing: -0.045em; line-height: 0.88; text-transform: uppercase; }
+    .masthead-wordmark .dim { color: var(--muted); }
+    .masthead-right { text-align: right; padding-bottom: 6px; }
+    .masthead-date { font-family: 'Space Mono', monospace; font-size: 11px; line-height: 2; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+    .snav { display: flex; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--rule); }
+    .snav::-webkit-scrollbar { display: none; }
+    .snav a { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 12px 18px; border-right: 1px solid var(--rule); white-space: nowrap; flex-shrink: 0; transition: background 0.12s, color 0.12s; }
+    .snav a:hover { background: rgba(0,0,0,0.06); color: var(--black); }
+    .content { max-width: 1060px; margin: 0 auto; padding: 0 56px 120px; }
+    .section { border-bottom: 1px solid var(--rule); }
+    .section-bar { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .section-bar-label { display: flex; flex-direction: column; gap: 5px; }
+    .section-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .section-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
+    .section-bar-meta { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); flex-shrink: 0; padding-bottom: 4px; }
+    .articles { padding: 0; }
+    .article-row { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .article-row { grid-template-columns: 1fr; gap: 16px; } }
+    .article-left { padding-top: 4px; }
+    .article-source { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); line-height: 1.8; }
+    .article-right { display: flex; flex-direction: column; gap: 14px; }
+    .article-title { font-size: clamp(18px, 2.8vw, 26px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; }
+    .article-title a { color: var(--black); text-decoration: none; }
+    .article-title a:hover { text-decoration: underline; }
+    .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
+    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); max-width: 75ch; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
+    @media (max-width: 680px) { .masthead { padding: 32px 24px 28px; } .content { padding: 0 24px 80px; } .section-bar { padding-top: 28px; } .footer { padding: 22px 24px; } }
+  </style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-wordmark">Morning<br><span class="dim">Brief</span></div>
+  <div class="masthead-right">
+    <div class="masthead-date">Saturday<br>Feb 28, 2026<br>4 sections<br>5 items</div>
+  </div>
+</header>
+
+<nav class="snav">
+  <a href="#craft">The Craft</a>
+  <a href="#deep">The Deep</a>
+  <a href="#ground">The Ground</a>
+  <a href="#andalso">And also...</a>
+</nav>
+
+<div class="content">
+
+  <div class="through-line">
+    <div class="through-line-label">Today's thread</div>
+    <div class="through-line-text">Running through today's brief is a question worth sitting with: when does designing a system — a business, a theory of mind, an economy — get in the way of understanding how it actually works? From agentic AI strategy to self-organising matter, from consciousness mathematics to the economics of creativity, each piece circles the same tension between imposed structure and the kind of order that only emerges when you stop trying to engineer it.</div>
+  </div>
+
+  <section class="section" id="craft">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Web, Work &amp; AI</div>
+        <div class="section-bar-name">The Craft</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Deloitte<br>2026</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www2.deloitte.com/us/en/insights/topics/digital-transformation/agentic-ai-strategy.html" target="_blank">Agentic AI: From Experimentation to Strategy</a></div>
+          <div class="article-pitch">Deloitte's piece on agentic AI isn't about tools — it's about organisational architecture. Who owns a decision when an agent makes it? How is trust calibrated at scale? What does "human in the loop" actually mean when the loop runs faster than human review? More useful than most AI strategy writing because it names the second-order problems rather than just the first-order opportunities.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="deep">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Science of Mind &amp; Philosophy</div>
+        <div class="section-bar-name">The Deep</div>
+      </div>
+      <div class="section-bar-meta">2 articles</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">npj Complexity<br>Nature<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.nature.com/articles/s44260-025-00033-3" target="_blank">Self-Organisation as a Mechanism for Biological Complexity</a></div>
+          <div class="article-pitch">A 2025 paper in Nature's npj Complexity examining how self-organisation in biological and physical systems challenges the assumption that complexity requires a designer. The findings have implications well beyond biology: they suggest that the drive to engineer systems may often be working against the grain of how complex systems actually achieve stability — and that the most robust structures tend to be those that were allowed to find their own form.</div>
+        </div>
+      </div>
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/the-study-of-the-mind-needs-a-copernican-revolution" target="_blank">The Study of the Mind Needs a Copernican Revolution</a></div>
+          <div class="article-pitch">The Copernican shift wasn't just about where the Earth sits — it was about dethroning a comfortable assumption. This Aeon essay argues that mind science needs the same kind of revolution: the assumption that the self is at the centre of consciousness may be as wrong as geocentrism was. The question isn't just what replaces it, but what kinds of research become possible once the assumption is dropped.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="ground">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Mindfulness &amp; Wellbeing</div>
+        <div class="section-bar-name">The Ground</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Nautilus<br>2023</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://nautil.us/what-counts-as-consciousness-237066/" target="_blank">What Counts as Consciousness?</a></div>
+          <div class="article-pitch">Christof Koch and Integrated Information Theory: consciousness measured by phi, a mathematical quantity representing how much information a system generates beyond its parts. The piece covers both the explanatory power and the strangeness of IIT — if it's right, consciousness is far more widespread than we assumed, present in systems we'd never intuit as aware. If it's wrong, we're back to where we started. Either possibility is vertiginous.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="andalso">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Something unexpected</div>
+        <div class="section-bar-name">And also...</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>2024</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/how-did-creativity-become-an-engine-of-economic-growth" target="_blank">How Did Creativity Become an Engine of Economic Growth?</a></div>
+          <div class="article-pitch">A historical essay tracing how creativity migrated from the margins of economic thought to a central driver of policy — and what got distorted in translation. The story runs through Richard Florida's creative class thesis and its aftermath, raising the uncomfortable question of what happens when humanistic concepts meet the reductive demands of economic measurement. Worth reading for anyone at the intersection of education, creativity, and what we think we're preparing children for.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-l">Morning Brief — Feb 28, 2026</div>
+  <div class="footer-r">Curated by Claude &nbsp;·&nbsp; Feedback shapes next week's brief</div>
+</footer>
+
+</body>
+</html>

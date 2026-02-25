@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief — March 1, 2026</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; --rule: #b0c4b4; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; }
+    .masthead { padding: 52px 56px 44px; border-bottom: 2px solid var(--black); display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+    .masthead-wordmark { font-size: clamp(56px, 11vw, 108px); font-weight: 700; letter-spacing: -0.045em; line-height: 0.88; text-transform: uppercase; }
+    .masthead-wordmark .dim { color: var(--muted); }
+    .masthead-right { text-align: right; padding-bottom: 6px; }
+    .masthead-date { font-family: 'Space Mono', monospace; font-size: 11px; line-height: 2; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+    .snav { display: flex; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--rule); }
+    .snav::-webkit-scrollbar { display: none; }
+    .snav a { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 12px 18px; border-right: 1px solid var(--rule); white-space: nowrap; flex-shrink: 0; transition: background 0.12s, color 0.12s; }
+    .snav a:hover { background: rgba(0,0,0,0.06); color: var(--black); }
+    .content { max-width: 1060px; margin: 0 auto; padding: 0 56px 120px; }
+    .section { border-bottom: 1px solid var(--rule); }
+    .section-bar { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .section-bar-label { display: flex; flex-direction: column; gap: 5px; }
+    .section-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .section-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
+    .section-bar-meta { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); flex-shrink: 0; padding-bottom: 4px; }
+    .articles { padding: 0; }
+    .article-row { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .article-row { grid-template-columns: 1fr; gap: 16px; } }
+    .article-left { padding-top: 4px; }
+    .article-source { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); line-height: 1.8; }
+    .article-right { display: flex; flex-direction: column; gap: 14px; }
+    .article-title { font-size: clamp(18px, 2.8vw, 26px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; }
+    .article-title a { color: var(--black); text-decoration: none; }
+    .article-title a:hover { text-decoration: underline; }
+    .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
+    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); max-width: 75ch; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
+    @media (max-width: 680px) { .masthead { padding: 32px 24px 28px; } .content { padding: 0 24px 80px; } .section-bar { padding-top: 28px; } .footer { padding: 22px 24px; } }
+  </style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-wordmark">Morning<br><span class="dim">Brief</span></div>
+  <div class="masthead-right">
+    <div class="masthead-date">Sunday<br>Mar 1, 2026<br>3 sections<br>4 items</div>
+  </div>
+</header>
+
+<nav class="snav">
+  <a href="#purpose">The Purpose</a>
+  <a href="#ground">The Ground</a>
+  <a href="#andalso">And also...</a>
+</nav>
+
+<div class="content">
+
+  <div class="through-line">
+    <div class="through-line-label">Today's thread</div>
+    <div class="through-line-text">What runs through today's reading is a quiet insistence that we are not what our dominant models say we are. Children are not passive recipients of AI's future — they are stakeholders. The brain does not "rewire" like a circuit — the metaphor conceals more than it reveals. And the self is not an individual entity — the Japanese concept of ningen locates identity in the between, in relation. Education, neuroscience, and philosophy arriving at the same correction from different directions, on a Sunday morning.</div>
+  </div>
+
+  <section class="section" id="purpose">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Growing mindful thinkers</div>
+        <div class="section-bar-name">The Purpose</div>
+      </div>
+      <div class="section-bar-meta">2 articles</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">World Economic<br>Forum<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.weforum.org/stories/2025/01/why-children-need-to-be-included-in-discussions-about-ai/" target="_blank">Why Children Need to Be Included in Discussions About AI</a></div>
+          <div class="article-pitch">A WEF essay making the case that children are the largest group of humans who will spend their entire adult lives shaped by AI decisions made today — without their input. The argument isn't about child-proofing AI but about recognising children as stakeholders with distinct perspectives on the world they're being handed. The piece is more ethically serious than most EdTech discourse, and harder to dismiss.</div>
+        </div>
+      </div>
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">World Economic<br>Forum<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.weforum.org/stories/2025/04/ai-and-education-why-human-connection-and-care-are-key/" target="_blank">AI and Education: Why Human Connection and Care Are Key</a></div>
+          <div class="article-pitch">A pushback on the assumption that AI in education is primarily about personalisation and efficiency. The author argues that what schools do which AI cannot is create genuine conditions for care — and that optimising around AI's strengths may systematically erode the most irreplaceable thing education provides. A useful counterweight to default EdTech enthusiasm, and directly relevant to the question of what Codebloom is actually for.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="ground">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Mindfulness &amp; Wellbeing</div>
+        <div class="section-bar-name">The Ground</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/what-the-metaphor-of-rewiring-gets-wrong-about-neuroplasticity" target="_blank">What the Metaphor of 'Rewiring' Gets Wrong About Neuroplasticity</a></div>
+          <div class="article-pitch">The brain-as-circuit metaphor has become so pervasive that we mistake it for description. This Aeon essay dismantles it carefully — tracing where the metaphor illuminates, where it distorts, and why the distortions matter for how we think about learning, habit change, and the kind of identity that practice shapes. The alternative isn't a better metaphor but a more honest reckoning with what neuroplasticity actually is and isn't.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="andalso">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Something unexpected</div>
+        <div class="section-bar-name">And also...</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>November 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/the-japanese-ethics-of-ningen-dethrones-the-western-self" target="_blank">The Japanese Ethics of 'Ningen' Dethrones the Western Self</a></div>
+          <div class="article-pitch">Ningen (人間) translates roughly as "human" but more precisely as "the being between beings" — the self as constituted by relation rather than existing prior to it. This essay unpacks the ethical and philosophical implications: if identity is relational rather than bounded, the Western tradition's focus on individual rights and autonomous choice may be solving the wrong problem. A quiet but significant challenge to the assumptions underneath most Western philosophy of mind.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-l">Morning Brief — Mar 1, 2026</div>
+  <div class="footer-r">Curated by Claude &nbsp;·&nbsp; Feedback shapes next week's brief</div>
+</footer>
+
+</body>
+</html>

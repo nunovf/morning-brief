@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&family=Space+Mono&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+    .message { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+  </style>
+  <script>
+    const pad = n => String(n).padStart(2, '0');
+    const d = new Date();
+    const date = `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+    window.location.href = `brief-${date}.html`;
+  </script>
+</head>
+<body>
+  <p class="message">Loading today's brief...</p>
+</body>
+</html>

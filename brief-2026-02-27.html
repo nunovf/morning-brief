@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief — February 27, 2026</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; --rule: #b0c4b4; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; }
+    .masthead { padding: 52px 56px 44px; border-bottom: 2px solid var(--black); display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+    .masthead-wordmark { font-size: clamp(56px, 11vw, 108px); font-weight: 700; letter-spacing: -0.045em; line-height: 0.88; text-transform: uppercase; }
+    .masthead-wordmark .dim { color: var(--muted); }
+    .masthead-right { text-align: right; padding-bottom: 6px; }
+    .masthead-date { font-family: 'Space Mono', monospace; font-size: 11px; line-height: 2; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+    .snav { display: flex; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--rule); }
+    .snav::-webkit-scrollbar { display: none; }
+    .snav a { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 12px 18px; border-right: 1px solid var(--rule); white-space: nowrap; flex-shrink: 0; transition: background 0.12s, color 0.12s; }
+    .snav a:hover { background: rgba(0,0,0,0.06); color: var(--black); }
+    .content { max-width: 1060px; margin: 0 auto; padding: 0 56px 120px; }
+    .section { border-bottom: 1px solid var(--rule); }
+    .section-bar { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .section-bar-label { display: flex; flex-direction: column; gap: 5px; }
+    .section-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .section-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
+    .section-bar-meta { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); flex-shrink: 0; padding-bottom: 4px; }
+    .articles { padding: 0; }
+    .article-row { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .article-row { grid-template-columns: 1fr; gap: 16px; } }
+    .article-left { padding-top: 4px; }
+    .article-source { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); line-height: 1.8; }
+    .article-right { display: flex; flex-direction: column; gap: 14px; }
+    .article-title { font-size: clamp(18px, 2.8vw, 26px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; }
+    .article-title a { color: var(--black); text-decoration: none; }
+    .article-title a:hover { text-decoration: underline; }
+    .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
+    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); max-width: 75ch; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
+    @media (max-width: 680px) { .masthead { padding: 32px 24px 28px; } .content { padding: 0 24px 80px; } .section-bar { padding-top: 28px; } .footer { padding: 22px 24px; } }
+  </style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-wordmark">Morning<br><span class="dim">Brief</span></div>
+  <div class="masthead-right">
+    <div class="masthead-date">Friday<br>Feb 27, 2026<br>5 sections<br>6 items</div>
+  </div>
+</header>
+
+<nav class="snav">
+  <a href="#craft">The Craft</a>
+  <a href="#purpose">The Purpose</a>
+  <a href="#deep">The Deep</a>
+  <a href="#ground">The Ground</a>
+  <a href="#andalso">And also...</a>
+</nav>
+
+<div class="content">
+
+  <div class="through-line">
+    <div class="through-line-label">Today's thread</div>
+    <div class="through-line-text">Three unanswered questions anchor today's reading: whether designing for AI and designing for humans are becoming different tasks, whether making "AI literacy" testable is a category error, and whether consciousness — after a famous 25-year wager — is any closer to being explained. The day offers no resolution. That's the point.</div>
+  </div>
+
+  <section class="section" id="craft">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Web, Work &amp; AI</div>
+        <div class="section-bar-name">The Craft</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Kryzalid<br>2026</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://kryzalid.net/en/web-marketing-blog/web-trends-2026/" target="_blank">Web Trends 2026: AI, Adaptive Design and Strategic Minimalism</a></div>
+          <div class="article-pitch">A design agency's synthesis of where the web is actually heading — not just visual trends but structural shifts in how sites function. AI is changing what "adaptive design" means at a fundamental level, and strategic minimalism is emerging as a principled response to content overload rather than an aesthetic choice. Worth reading for anyone questioning whether their current design assumptions will age well.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="purpose">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Growing mindful thinkers</div>
+        <div class="section-bar-name">The Purpose</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Phys.org<br>September 2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://phys.org/news/2025-09-skeptical-hasty-global-year-olds.html" target="_blank">Why We Should Be Skeptical of the Hasty Global Push to Test 15-Year-Olds' AI Literacy in 2029</a></div>
+          <div class="article-pitch">A researcher's argument that rushing to standardize AI literacy assessment for teenagers may be premature — not because the skill doesn't matter, but because there is still no consensus on what it actually means. The uncomfortable implication: education systems that move first to measure may be encoding the wrong thing, in the wrong way, at exactly the wrong time.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="deep">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Science of Mind &amp; Philosophy</div>
+        <div class="section-bar-name">The Deep</div>
+      </div>
+      <div class="section-bar-meta">2 articles</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Nautilus<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://nautil.us/inside-the-big-bet-on-consciousness-1207750/" target="_blank">Inside the Big Bet on Consciousness</a></div>
+          <div class="article-pitch">In 1998, David Chalmers bet Christof Koch that consciousness would be neurally explained within 25 years. Koch lost in 2023. Nautilus reconstructs the wager — and what its failure reveals about the current state of consciousness science. The hard problem didn't get easier; the science got better at seeing how hard it actually is.</div>
+        </div>
+      </div>
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward" target="_blank">Complex Systems Science Allows Us to See New Paths Forward</a></div>
+          <div class="article-pitch">An essay arguing that complexity science isn't merely descriptive — it is generative. By changing the questions (from "what controls this?" to "what conditions allow this to emerge?"), it opens paths that reductive approaches close off. The piece traces how this shift plays out across economics, ecology, and mind, making the case that the framework is itself the discovery.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="ground">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Mindfulness &amp; Wellbeing</div>
+        <div class="section-bar-name">The Ground</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Neuroscience<br>of Consciousness<br>Oxford<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://academic.oup.com/nc/article/2025/1/niaf013/8152225" target="_blank">Meditation and Complexity</a></div>
+          <div class="article-pitch">A 2025 paper treating meditation not as relaxation or attention training but as a practice that changes the complexity dynamics of mind. Using nonlinear analysis, the researchers find that experienced meditators show measurably different complexity signatures in neural activity — which raises the question of what "a more complex mind" actually means for perception, cognition, and the nature of the self that is allegedly doing the meditating.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="andalso">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Something unexpected</div>
+        <div class="section-bar-name">And also...</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>2025</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://aeon.co/essays/why-we-need-a-new-kind-of-education-imagination-studies" target="_blank">Why We Need a New Kind of Education: Imagination Studies</a></div>
+          <div class="article-pitch">An argument for treating imagination not as a soft skill or creative flourish but as a distinct cognitive capacity that education consistently fails to develop — and that AI cannot replicate. The author proposes "imagination studies" as a discipline with its own methods and standards, making the case that without imagination, both AI literacy and creativity training are missing their foundation entirely.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-l">Morning Brief — Feb 27, 2026</div>
+  <div class="footer-r">Curated by Claude &nbsp;·&nbsp; Feedback shapes next week's brief</div>
+</footer>
+
+</body>
+</html>
