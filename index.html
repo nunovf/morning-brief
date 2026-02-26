@@ -18,7 +18,13 @@
     const pad = n => String(n).padStart(2, '0');
     const d = new Date();
     const date = `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
-    window.location.replace(`brief-${date}.html`);
+    fetch(`brief-${date}.html`)
+      .then(r => r.text())
+      .then(html => {
+        document.open();
+        document.write(html);
+        document.close();
+      });
   </script>
 </head>
 <body>
