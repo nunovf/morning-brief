@@ -206,33 +206,64 @@
 
 <script>
   const BRIEF_DATE = 'test';
+  const articleState = {};
+
+  function getState(url) {
+    if (!articleState[url]) articleState[url] = { rating: null, saved: false };
+    return articleState[url];
+  }
 
   function sendFeedback(btn, action, url, title) {
     const row = btn.closest('.article-actions');
-    const buttons = row.querySelectorAll('.action-btn');
+    const s = getState(url);
+    let serverAction = action;
 
-    buttons.forEach(b => b.disabled = true);
+    if (action === 'thumbs_up' || action === 'thumbs_down') {
+      if (s.rating === action) {
+        serverAction = 'undo_rating';
+        s.rating = null;
+      } else {
+        s.rating = action;
+      }
+    } else if (action === 'save') {
+      if (s.saved) {
+        serverAction = 'undo_save';
+        s.saved = false;
+      } else {
+        s.saved = true;
+      }
+    }
+
+    updateButtons(row, s);
 
     fetch('/morning-brief/feedback.php', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ action, url, title, brief_date: BRIEF_DATE })
+      body: JSON.stringify({ action: serverAction, url, title, brief_date: BRIEF_DATE })
     })
     .then(r => r.json())
     .then(data => {
       if (data.success) {
-        buttons.forEach(b => { b.classList.remove('active', 'active-up', 'active-down', 'active-save'); b.disabled = true; });
-        btn.classList.add('active');
-        if (action === 'thumbs_up')   btn.classList.add('active-up');
-        if (action === 'thumbs_down') btn.classList.add('active-down');
-        if (action === 'save')        btn.classList.add('active-save');
-        showToast(action === 'save' ? 'Saved to knowledge inbox' : 'Feedback recorded');
+        let msg;
+        if (serverAction === 'undo_rating')   msg = 'Feedback removed';
+        else if (serverAction === 'undo_save') msg = 'Removed from saved';
+        else if (serverAction === 'save')      msg = 'Saved to knowledge inbox';
+        else                                   msg = 'Feedback recorded';
+        showToast(msg);
       }
     })
-    .catch(() => {
-      buttons.forEach(b => b.disabled = false);
-      showToast('Something went wrong — try again');
+    .catch(() => showToast('Something went wrong — try again'));
+  }
+
+  function updateButtons(row, s) {
+    const [upBtn, downBtn, saveBtn] = row.querySelectorAll('.action-btn');
+    [upBtn, downBtn, saveBtn].forEach(b => {
+      b.classList.remove('active', 'active-up', 'active-down', 'active-save');
+      b.disabled = false;
     });
+    if (s.rating === 'thumbs_up')   upBtn.classList.add('active', 'active-up');
+    if (s.rating === 'thumbs_down') downBtn.classList.add('active', 'active-down');
+    if (s.saved)                    saveBtn.classList.add('active', 'active-save');
   }
 
   function showToast(msg) {

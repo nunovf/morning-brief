@@ -23,7 +23,7 @@ if (!$input || !isset($input['action']) || !isset($input['url'])) {
     exit();
 }
 
-$allowed_actions = ['thumbs_up', 'thumbs_down', 'save'];
+$allowed_actions = ['thumbs_up', 'thumbs_down', 'save', 'undo_rating', 'undo_save'];
 if (!in_array($input['action'], $allowed_actions)) {
     http_response_code(400);
     echo json_encode(['error' => 'Invalid action']);
