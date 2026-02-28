@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief — Test</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20,400,0,0" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; --rule: #b0c4b4; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; }
+    .masthead { padding: 52px 56px 44px; border-bottom: 2px solid var(--black); display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+    .masthead-wordmark { font-size: clamp(56px, 11vw, 108px); font-weight: 700; letter-spacing: -0.045em; line-height: 0.88; text-transform: uppercase; }
+    .masthead-wordmark .dim { color: var(--muted); }
+    .masthead-right { text-align: right; padding-bottom: 6px; }
+    .masthead-date { font-family: 'Space Mono', monospace; font-size: 11px; line-height: 2; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+    .snav { display: flex; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--rule); }
+    .snav::-webkit-scrollbar { display: none; }
+    .snav a { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 12px 18px; border-right: 1px solid var(--rule); white-space: nowrap; flex-shrink: 0; transition: background 0.12s, color 0.12s; }
+    .snav a:hover { background: rgba(0,0,0,0.06); color: var(--black); }
+    .content { max-width: 1060px; margin: 0 auto; padding: 0 56px 120px; }
+    .section { border-bottom: 1px solid var(--rule); }
+    .section-bar { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .section-bar-label { display: flex; flex-direction: column; gap: 5px; }
+    .section-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .section-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
+    .section-bar-meta { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); flex-shrink: 0; padding-bottom: 4px; }
+    .articles { padding: 0; }
+    .article-row { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .article-row { grid-template-columns: 1fr; gap: 16px; } }
+    .article-left { padding-top: 4px; }
+    .article-source { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); line-height: 1.8; }
+    .article-right { display: flex; flex-direction: column; gap: 14px; }
+    .article-title { font-size: clamp(18px, 2.8vw, 26px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; }
+    .article-title a { color: var(--black); text-decoration: none; }
+    .article-title a:hover { text-decoration: underline; }
+    .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
+    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); max-width: 75ch; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
+    @media (max-width: 680px) { .masthead { padding: 32px 24px 28px; } .content { padding: 0 24px 80px; } .section-bar { padding-top: 28px; } .footer { padding: 22px 24px; } }
+
+    /* Feedback buttons */
+    .article-actions { display: flex; gap: 6px; align-items: center; margin-top: 4px; }
+    .action-btn {
+      background: none;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      padding: 4px 10px 4px 7px;
+      cursor: pointer;
+      color: var(--muted);
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-family: 'Space Mono', monospace;
+      font-size: 9px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: all 0.12s;
+    }
+    .action-btn:hover { background: rgba(0,0,0,0.06); color: var(--black); border-color: var(--muted); }
+    .action-btn.active { cursor: default; }
+    .action-btn.active-up   { border-color: #4a7c59; color: #4a7c59; background: rgba(74,124,89,0.1); }
+    .action-btn.active-down { border-color: #8b4a4a; color: #8b4a4a; background: rgba(139,74,74,0.1); }
+    .action-btn.active-save { border-color: #4a5e7c; color: #4a5e7c; background: rgba(74,94,124,0.1); }
+    .material-symbols-outlined { font-size: 14px; line-height: 1; }
+    .feedback-toast {
+      position: fixed; bottom: 28px; left: 50%; transform: translateX(-50%);
+      background: var(--black); color: #dce8df;
+      font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 0.08em;
+      padding: 10px 20px; border-radius: 4px;
+      opacity: 0; transition: opacity 0.2s;
+      pointer-events: none;
+    }
+    .feedback-toast.show { opacity: 1; }
+  </style>
+</head>
+<body>
+
+<div class="feedback-toast" id="toast"></div>
+
+<header class="masthead">
+  <div class="masthead-wordmark">Morning<br><span class="dim">Brief</span></div>
+  <div class="masthead-right">
+    <div class="masthead-date">Test Edition<br>Feedback UI<br>2 sections<br>3 items</div>
+  </div>
+</header>
+
+<nav class="snav">
+  <a href="#craft">The Craft</a>
+  <a href="#deep">The Deep</a>
+</nav>
+
+<div class="content">
+
+  <div class="through-line">
+    <div class="through-line-label">Today's thread</div>
+    <div class="through-line-text">This is a test edition of the Morning Brief to trial the article feedback buttons. Use the thumbs up, thumbs down, and save icons below each article to record your reaction. Ratings are stored on the server and reviewed on Sundays.</div>
+  </div>
+
+  <section class="section" id="craft">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Web, Work &amp; AI</div>
+        <div class="section-bar-name">The Craft</div>
+      </div>
+      <div class="section-bar-meta">1 article</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Deloitte<br>Analysis</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title">
+            <a href="https://www2.deloitte.com/us/en/insights/topics/digital-transformation/agentic-ai-the-next-frontier-in-ai.html" target="_blank">Agentic AI: The next frontier in AI</a>
+          </div>
+          <div class="article-pitch">Deloitte maps the shift from AI that responds to AI that acts — multi-step, multi-system, with humans progressively stepping back. Clear taxonomy, honest about the governance gap.</div>
+          <div class="article-actions">
+            <button class="action-btn" onclick="sendFeedback(this, 'thumbs_up', 'https://www2.deloitte.com/us/en/insights/topics/digital-transformation/agentic-ai-the-next-frontier-in-ai.html', 'Agentic AI: The next frontier in AI')">
+              <span class="material-symbols-outlined">thumb_up</span> Interesting
+            </button>
+            <button class="action-btn" onclick="sendFeedback(this, 'thumbs_down', 'https://www2.deloitte.com/us/en/insights/topics/digital-transformation/agentic-ai-the-next-frontier-in-ai.html', 'Agentic AI: The next frontier in AI')">
+              <span class="material-symbols-outlined">thumb_down</span> Pass
+            </button>
+            <button class="action-btn" onclick="sendFeedback(this, 'save', 'https://www2.deloitte.com/us/en/insights/topics/digital-transformation/agentic-ai-the-next-frontier-in-ai.html', 'Agentic AI: The next frontier in AI')">
+              <span class="material-symbols-outlined">bookmark_add</span> Save
+            </button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section" id="deep">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Science &amp; Ideas</div>
+        <div class="section-bar-name">The Deep</div>
+      </div>
+      <div class="section-bar-meta">2 articles</div>
+    </div>
+    <div class="articles">
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Nature npj<br>Complexity</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title">
+            <a href="https://www.nature.com/articles/s41467-024-45822-x" target="_blank">Self-organisation in complex systems</a>
+          </div>
+          <div class="article-pitch">How order emerges from disorder without central control — from ant colonies to neural networks. A rigorous look at the mathematics of spontaneous structure.</div>
+          <div class="article-actions">
+            <button class="action-btn" onclick="sendFeedback(this, 'thumbs_up', 'https://www.nature.com/articles/s41467-024-45822-x', 'Self-organisation in complex systems')">
+              <span class="material-symbols-outlined">thumb_up</span> Interesting
+            </button>
+            <button class="action-btn" onclick="sendFeedback(this, 'thumbs_down', 'https://www.nature.com/articles/s41467-024-45822-x', 'Self-organisation in complex systems')">
+              <span class="material-symbols-outlined">thumb_down</span> Pass
+            </button>
+            <button class="action-btn" onclick="sendFeedback(this, 'save', 'https://www.nature.com/articles/s41467-024-45822-x', 'Self-organisation in complex systems')">
+              <span class="material-symbols-outlined">bookmark_add</span> Save
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Aeon<br>Essay</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title">
+            <a href="https://aeon.co/essays/the-copernican-moment-in-the-science-of-mind" target="_blank">The Copernican moment in the science of mind</a>
+          </div>
+          <div class="article-pitch">What if the mind isn't the centre of its own story? A philosopher argues that consciousness research needs its own paradigm shift — not just better tools, but a different frame entirely.</div>
+          <div class="article-actions">
+            <button class="action-btn" onclick="sendFeedback(this, 'thumbs_up', 'https://aeon.co/essays/the-copernican-moment-in-the-science-of-mind', 'The Copernican moment in the science of mind')">
+              <span class="material-symbols-outlined">thumb_up</span> Interesting
+            </button>
+            <button class="action-btn" onclick="sendFeedback(this, 'thumbs_down', 'https://aeon.co/essays/the-copernican-moment-in-the-science-of-mind', 'The Copernican moment in the science of mind')">
+              <span class="material-symbols-outlined">thumb_down</span> Pass
+            </button>
+            <button class="action-btn" onclick="sendFeedback(this, 'save', 'https://aeon.co/essays/the-copernican-moment-in-the-science-of-mind', 'The Copernican moment in the science of mind')">
+              <span class="material-symbols-outlined">bookmark_add</span> Save
+            </button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-l">Morning Brief</div>
+  <div class="footer-r">Test Edition — Feedback UI</div>
+</footer>
+
+<script>
+  const BRIEF_DATE = 'test';
+
+  function sendFeedback(btn, action, url, title) {
+    const row = btn.closest('.article-actions');
+    const buttons = row.querySelectorAll('.action-btn');
+
+    buttons.forEach(b => b.disabled = true);
+
+    fetch('/morning-brief/feedback.php', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ action, url, title, brief_date: BRIEF_DATE })
+    })
+    .then(r => r.json())
+    .then(data => {
+      if (data.success) {
+        buttons.forEach(b => { b.classList.remove('active', 'active-up', 'active-down', 'active-save'); b.disabled = true; });
+        btn.classList.add('active');
+        if (action === 'thumbs_up')   btn.classList.add('active-up');
+        if (action === 'thumbs_down') btn.classList.add('active-down');
+        if (action === 'save')        btn.classList.add('active-save');
+        showToast(action === 'save' ? 'Saved to knowledge inbox' : 'Feedback recorded');
+      }
+    })
+    .catch(() => {
+      buttons.forEach(b => b.disabled = false);
+      showToast('Something went wrong — try again');
+    });
+  }
+
+  function showToast(msg) {
+    const toast = document.getElementById('toast');
+    toast.textContent = msg;
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 2200);
+  }
+</script>
+
+</body>
+</html>
