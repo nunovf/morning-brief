@@ -44,6 +44,9 @@
     .through-line-quote-attr { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--rule); margin-top: 8px; }
     .through-line-right { display: flex; flex-direction: column; gap: 14px; }
     .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .greeting-bar { display: flex; flex-direction: column; gap: 5px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .greeting-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .greeting-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
     .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
     .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
     .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
@@ -101,6 +104,11 @@
 </nav>
 
 <div class="content">
+
+  <div class="greeting-bar">
+    <div class="greeting-bar-subtitle" id="greeting-day"></div>
+    <div class="greeting-bar-name" id="greeting-text"></div>
+  </div>
 
   <div class="through-line">
     <div class="through-line-left">
@@ -217,6 +225,35 @@
 </footer>
 
 <script>
+  const GREETINGS = [
+    "Good morning, Nuno.",
+    "Ready for another day?",
+    "Still curious? Good.",
+    "Start here.",
+    "Make it count.",
+    "Something worth knowing.",
+    "The world kept moving.",
+    "Let's begin.",
+    "A good morning for ideas.",
+    "You showed up.",
+    "Coffee first, then this.",
+    "Not everything. Just the good stuff.",
+    "Another day, another thread.",
+    "Slow down. Read well.",
+    "The brief is ready.",
+    "Here's what's worth your time.",
+    "Morning, curious mind.",
+    "Today's worth showing up for.",
+    "Let's see what's good.",
+    "The reading starts now.",
+  ];
+
+  const DAYS = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  const now = new Date();
+  const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
+  document.getElementById('greeting-day').textContent = DAYS[now.getDay()];
+  document.getElementById('greeting-text').textContent = GREETINGS[dayOfYear % GREETINGS.length];
+
   const BRIEF_DATE = 'test';
   const articleState = {};
 
