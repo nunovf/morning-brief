@@ -30,13 +30,10 @@ if (!in_array($input['action'], $allowed_actions)) {
     exit();
 }
 
-$entry = [
-    'action'     => $input['action'],
-    'url'        => $input['url'],
-    'title'      => $input['title'] ?? '',
-    'brief_date' => $input['brief_date'] ?? '',
-    'timestamp'  => date('c'),
-];
+$url        = $input['url'];
+$action     = $input['action'];
+$title      = $input['title'] ?? '';
+$brief_date = $input['brief_date'] ?? '';
 
 $log_file = __DIR__ . '/feedback.json';
 $log = [];
@@ -46,7 +43,34 @@ if (file_exists($log_file)) {
     $log = json_decode($existing, true) ?? [];
 }
 
-$log[] = $entry;
+// Initialise entry for this URL if it doesn't exist
+if (!isset($log[$url])) {
+    $log[$url] = [
+        'title'      => $title,
+        'brief_date' => $brief_date,
+        'rating'     => null,
+        'saved'      => false,
+        'last_updated' => date('c'),
+    ];
+}
+
+// Apply action
+if ($action === 'thumbs_up' || $action === 'thumbs_down') {
+    $log[$url]['rating'] = $action;
+} elseif ($action === 'undo_rating') {
+    $log[$url]['rating'] = null;
+} elseif ($action === 'save') {
+    $log[$url]['saved'] = true;
+} elseif ($action === 'undo_save') {
+    $log[$url]['saved'] = false;
+}
+
+$log[$url]['last_updated'] = date('c');
+
+// Remove entry entirely if no rating and not saved
+if ($log[$url]['rating'] === null && $log[$url]['saved'] === false) {
+    unset($log[$url]);
+}
 
 file_put_contents($log_file, json_encode($log, JSON_PRETTY_PRINT));
 
