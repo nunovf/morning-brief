@@ -36,8 +36,13 @@
     .article-title a { color: var(--black); text-decoration: none; }
     .article-title a:hover { text-decoration: underline; }
     .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
-    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); max-width: 75ch; }
-    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .through-line { grid-template-columns: 1fr; gap: 20px; } }
+    .through-line-left { padding-top: 4px; display: flex; flex-direction: column; gap: 12px; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .through-line-quote { font-family: 'Space Mono', monospace; font-size: 10px; font-style: italic; line-height: 1.85; color: var(--muted); }
+    .through-line-quote-attr { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--rule); margin-top: 8px; }
+    .through-line-right { display: flex; flex-direction: column; justify-content: center; }
     .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
     .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
     .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
@@ -98,8 +103,15 @@
 <div class="content">
 
   <div class="through-line">
-    <div class="through-line-label">Today's thread</div>
-    <div class="through-line-text">This is a test edition of the Morning Brief to trial the article feedback buttons. Use the thumbs up, thumbs down, and save icons below each article to record your reaction. Ratings are stored on the server and reviewed on Sundays.</div>
+    <div class="through-line-left">
+      <div class="through-line-label">Today's quote</div>
+      <div class="through-line-quote">"The ability to perceive or think differently is more important than the knowledge gained."</div>
+      <div class="through-line-quote-attr">— David Bohm</div>
+    </div>
+    <div class="through-line-right">
+      <div class="through-line-label">Today's thread</div>
+      <div class="through-line-text">This is a test edition of the Morning Brief to trial the article feedback buttons. Use the thumbs up, thumbs down, and save icons below each article to record your reaction. Ratings are stored on the server and reviewed on Sundays.</div>
+    </div>
   </div>
 
   <section class="section" id="craft">
