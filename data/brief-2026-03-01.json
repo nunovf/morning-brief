@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-01",
+  "day_name": "Sunday",
+  "display_date": "March 1, 2026",
+  "section_count": 3,
+  "item_count": 4,
+  "quote": "The child is both a hope and a promise for mankind.",
+  "quote_attr": "Maria Montessori",
+  "through_line": "Running through today's brief is a question about relational identity — who we are in relation to those we raise, those we learn from, and those whose thinking we inherit. From children navigating AI to the neuroscience of rewiring the self, to a Japanese ethics of collective being, the thread is the same: identity is never fully individual.",
+  "sections": [
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "World Economic",
+          "source_line2": "Forum",
+          "title": "How to raise children in the age of AI",
+          "url": "https://www.weforum.org/stories/2024/02/how-to-raise-children-in-the-age-of-ai/",
+          "pitch": "The WEF lays out what parents and educators actually need to do — not fear AI, but build the capacities that AI can't replicate: curiosity, ethical reasoning, and emotional intelligence. Practical without being prescriptive."
+        },
+        {
+          "source_line1": "World Economic",
+          "source_line2": "Forum",
+          "title": "Children and AI: growing up with intelligent machines",
+          "url": "https://www.weforum.org/stories/2024/01/children-ai-growing-up-intelligent-machines/",
+          "pitch": "A companion piece looking at how children are already forming relationships with AI systems — and what that means for their development, their sense of agency, and their understanding of what it means to be human."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Your brain is not a computer",
+          "url": "https://aeon.co/essays/your-brain-is-not-a-computer",
+          "pitch": "Against the dominant metaphor of mind as processor, this essay argues that the brain is better understood as a constantly rewiring biological system — one whose plasticity is not a feature but its fundamental nature. Quietly radical."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Ningen: the Japanese concept of being human together",
+          "url": "https://aeon.co/essays/ningen-the-japanese-concept-of-being-human-together",
+          "pitch": "In Japanese philosophy, personhood is not something you have but something that happens between people. Ningen — literally 'human space' — offers a relational ethics that sits in quiet contrast to Western individualism."
+        }
+      ]
+    }
+  ]
+}
