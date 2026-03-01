@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-08",
+  "day_name": "Sunday",
+  "display_date": "March 8, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+  "quote_attr": "Marcel Proust",
+  "through_line": "The week closes on a through-line about what we see and what we miss. Travel marketers reading macro trends, curriculum designers adapting to uncertainty, consciousness researchers confronting their own biases, a practitioner using ritual as a precision tool — all finding that what you bring to the problem shapes what the problem looks like.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Noble",
+          "source_line2": "Studios",
+          "title": "Travel and Tourism Marketing Trends for 2026",
+          "url": "https://noblestudios.com/travel-tourism/travel-tourism-marketing-trends-2026/",
+          "pitch": "Noble Studios' annual survey of travel and tourism marketing trends for 2026 is strong on the 'why this is different now' dimension: AI Overviews, zero-click search, and the shift from traffic metrics to share of voice in AI-generated recommendations. A clear map of where destination marketing is headed and what destinations need to do about it."
+        },
+        {
+          "source_line1": "Frontiers",
+          "source_line2": "Computer Science",
+          "title": "Exploring creativity in human\u2013AI co-creation: a comparative study across design experience",
+          "url": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2025.1672735/full",
+          "pitch": "A comparative study across designers with different levels of experience finds that human-AI creative co-creation works very differently depending on the depth of the human's design understanding. The findings complicate the assumption that AI democratises creativity — and suggest that expertise still profoundly shapes what AI collaboration can produce."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Educator",
+          "source_line2": "Forever",
+          "title": "Trends in Curriculum Development for 2025",
+          "url": "https://www.educatorforever.com/blog/trends-in-curriculum-development-2025",
+          "pitch": "A curriculum practitioner surveys what is genuinely shifting in how educators approach learning design in 2025 — with attention to competency-based approaches, project-based learning, and the integration of social-emotional development. Grounded and specific; not a trend piece but a practitioner's map of where the field is actually moving."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "source_line2": "",
+          "title": "Why Psychological Biases Could Confuse the Study of Consciousness",
+          "url": "https://nautil.us/consciousness-has-a-psychology-problem-1164162/",
+          "pitch": "A psychologist of perception argues that our intuitions about consciousness — what it is, where it lives, what counts as having it — are systematically misleading, and that consciousness research has been building on flawed foundations as a result. The argument for methodological humility is sharp and somewhat uncomfortable."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "How Buddhist ritual helped me ride out the storm of OCD",
+          "url": "https://aeon.co/essays/how-buddhist-ritual-helped-me-ride-out-the-storm-of-ocd",
+          "pitch": "A practitioner who uses Buddhist ritual practice — not meditation in the therapeutic sense, but the specific, repetitive discipline of ritual — to navigate OCD describes what the practice actually does, mechanically and experientially. An unusually precise first-person account of how practice works when it works."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "We cooperate to survive. But, if no one\u2019s looking, we compete",
+          "url": "https://aeon.co/essays/we-cooperate-to-survive-but-if-no-ones-looking-we-compete",
+          "pitch": "Research on cooperation reveals a persistent and awkward finding: social organisms cooperate reliably when watched, and defect with nearly equal reliability when they are not. The essay works through what this means for our optimistic stories about prosocial behaviour, and what it suggests about the conditions that actually sustain cooperation."
+        }
+      ]
+    }
+  ]
+}

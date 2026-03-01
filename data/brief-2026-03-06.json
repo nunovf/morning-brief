@@ -1,0 +1,75 @@
+{
+  "date": "2026-03-06",
+  "day_name": "Friday",
+  "display_date": "March 6, 2026",
+  "section_count": 4,
+  "item_count": 5,
+  "quote": "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.",
+  "quote_attr": "Zen proverb",
+  "through_line": "The DMO dashboards are always on, the motion feeds never stop — but today's brief pauses on what it means to actually engage, what a life of deliberate practice looks like from the inside, and what extremophilic microbes found in Earth's crust quietly suggest about the definition of life.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Sojern",
+          "source_line2": "",
+          "title": "Smarter, Faster, Always-On: The U.S. Destination Marketers\u2019 Approach to 2025",
+          "url": "https://www.sojern.com/blog/smarter-faster-always-on-the-u-s-destination-marketers-approach-to-2025",
+          "pitch": "Sojern's annual snapshot of how U.S. destination marketers are approaching their work leads with a finding that feels counterintuitive: the 'always-on' mindset is less about quantity and more about intelligence — knowing when to be present, in which channels, for which moments. Practical and directional."
+        },
+        {
+          "source_line1": "Natha",
+          "source_line2": "Studio",
+          "title": "Web Animation Trends in 2025: Captivating Users with Motion Design",
+          "url": "https://nathatype.com/web-animation-trends-in-2025-captivating-users-with-motion-design/",
+          "pitch": "A design studio's survey of where web animation is heading in 2025, with specific attention to the shift from decorative motion to motion that communicates. The examples are specific and the design rationale is clear — a useful counterpoint to the more technical focus of the Smashing series earlier this week."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Discovery",
+          "source_line2": "Education",
+          "title": "Engagement Fuels Learning, But Is It Misunderstood?",
+          "url": "https://www.discoveryeducation.com/blog/educational-leadership/2025-26-education-insights-report/",
+          "pitch": "A national research study finds that while nearly all educators believe engagement is critical to learning, most are uncertain what it actually looks like in practice — and systematically overlook quieter, inward forms of engagement in favour of visible, measurable ones. The implications for how learning experiences get designed are significant and immediately applicable."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "From French anarchist to Zen teacher: a journey of meditation",
+          "url": "https://aeon.co/essays/from-french-anarchist-to-zen-teacher-a-journey-of-meditation",
+          "pitch": "A personal essay by someone who went from French anarchist to ordained Zen teacher — and the account is neither evangelical nor sentimental. What comes through is the discipline of it: the patient accumulation of practice, the non-dramatic way it reshapes how you see and respond. A Friday read."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "The discovery of aeonophiles expands our definition of life",
+          "url": "https://aeon.co/essays/the-discovery-of-aeonophiles-expands-our-definition-of-life",
+          "pitch": "Aeonophiles — microbes found in Earth's crust that live at almost impossibly slow metabolic rates — expand what we mean by 'life' in ways that quietly unsettle every assumption we carry. Written by the researcher who named them, this essay is as much philosophical as scientific."
+        }
+      ]
+    }
+  ]
+}

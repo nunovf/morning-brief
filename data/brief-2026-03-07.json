@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-07",
+  "day_name": "Saturday",
+  "display_date": "March 7, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "A complex system that works is invariably found to have evolved from a simple system that worked.",
+  "quote_attr": "John Gall",
+  "through_line": "How active are the agents in any system — whether a curriculum, a digital tool, an organism, or an aware mind? Saturday looks at what it means to shape the environment that in turn shapes you, from DMO traffic strategies to evolutionary theory to non-dual awareness.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Seeker",
+          "source_line2": "Explore",
+          "title": "12 Essential Tools for DMOs to Grow Website Traffic in 2025",
+          "url": "https://explore.seeker.io/blog/guide-to-growing-website-traffic-dmo",
+          "pitch": "A practical guide to the specific tools — from structured data platforms to AI-driven content management — that are moving the needle for DMO websites in 2025. Less a listicle and more a ranked toolkit, oriented toward what actually drives organic traffic growth for destination organisations operating with real constraints."
+        },
+        {
+          "source_line1": "RGD",
+          "source_line2": "",
+          "title": "AI tools for designers in 2026: supporting creativity and responsible workflows",
+          "url": "https://rgd.ca/articles/2026-amplifying-creativity-with-ai-tools-for-designers-in-2026",
+          "pitch": "Canada's association of Royal Designers looks at how design practitioners are integrating AI into their creative workflows — not as a replacement for judgement, but as a way of amplifying it. The emphasis on responsible workflows and creative accountability makes this more thoughtful than most AI-tools coverage."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Kiddom",
+          "source_line2": "",
+          "title": "4 Curriculum Implementation Trends We\u2019re Seeing for the 2025\u201326 School Year",
+          "url": "https://www.kiddom.co/insights/4-curriculum-implementation-trends-were-seeing-for-the-2025-26-school-year",
+          "pitch": "Kiddom's survey of what's actually shifting in curriculum implementation for 2025–26 finds that the most significant changes are less about content and more about structure: job-embedded learning, curriculum-specific coaching, and a move away from one-size-fits-all professional development. Useful for anyone thinking about how to adapt and improve a teaching practice."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Why the best way to understand the self is to build a robot one",
+          "url": "https://aeon.co/essays/why-the-best-way-to-understand-the-self-is-to-build-a-robot-one",
+          "pitch": "A philosopher of mind suggests that the best way to understand the dual nature of the self — as both perceiver and content of its own perception — might be to try to build one artificially. The robot thought experiment is more rigorous than it sounds, and the essay ends somewhere genuinely surprising."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Frontiers",
+          "source_line2": "Psychology",
+          "title": "Knowing the Knowing. Non-dual Meditative Practice From an Enactive Perspective",
+          "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.778817/full",
+          "pitch": "An exploration of non-dual meditative practice from the enactive perspective — a framework that locates mind not in the brain alone but in the dynamic between organism and environment. The paper examines what 'awareness knowing itself' actually means, drawing on Zen, Mah\u0101mudr\u0101, and Dzogchen alongside cognitive science."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Organisms are not passive recipients of evolutionary forces",
+          "url": "https://aeon.co/essays/organisms-are-not-passive-recipients-of-evolutionary-forces",
+          "pitch": "A biologist makes the case that the standard picture of evolution — passive organisms shaped by external pressures — misses a fundamental dynamic: organisms actively construct the environments that then select for their traits. The implications for how we think about adaptation, agency, and directionality in nature are significant."
+        }
+      ]
+    }
+  ]
+}

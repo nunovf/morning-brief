@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-04",
+  "day_name": "Wednesday",
+  "display_date": "March 4, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "It is not the answer that enlightens, but the question.",
+  "quote_attr": "Eug\u00e8ne Ionesco",
+  "through_line": "From interactive websites to AI trip planners to coding education to consciousness research to biology — Wednesday's thread is the question of what we are actually optimising for, once the syntax changes and the underlying goal is exposed.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Codrops",
+          "source_line2": "",
+          "title": "How to Create Interactive and Animated WordPress Websites in 2026 And Why It Matters",
+          "url": "https://tympanus.net/codrops/2025/12/22/how-to-create-interactive-and-animated-wordpress-websites-in-2026-and-why-it-matters/",
+          "pitch": "Codrops explores what making a truly interactive, animated website looks like in 2026 — not the flashy kind, but the purposefully designed kind. The article bridges technical implementation with design intent, and makes the case that interactivity is increasingly a baseline expectation, not a differentiator."
+        },
+        {
+          "source_line1": "Madden",
+          "source_line2": "Media",
+          "title": "Navigating the AI Era: How DMOs Can Thrive with Google's AI Trip Planner",
+          "url": "https://maddenmedia.com/navigating-the-ai-era-how-dmos-can-thrive-with-googles-ai-trip-planner/",
+          "pitch": "Google's AI Trip Planner is already reshaping how travellers discover destinations — and this piece explains specifically what DMOs need to do to show up in those AI-mediated recommendations. Structured data, authoritative content, and conversational formats all feature as practical strategies."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Bruce",
+          "source_line2": "Elgort",
+          "title": "From Syntax to Strategy: Rethinking Coding Education in the Age of AI",
+          "url": "https://bruceelgort.com/2025/07/25/from-syntax-to-strategy-rethinking-coding-education-in-the-age-of-ai/",
+          "pitch": "A practitioner-educator argues that the shift from teaching syntax to teaching strategy is not optional — it is what the AI era demands. The essay reframes what good coding education actually looks like when the hard part isn't writing the code anymore, with specific implications for curriculum design that any coding teacher can act on."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "To say what consciousness is, science explores where it isn't",
+          "url": "https://aeon.co/essays/to-say-what-consciousness-is-science-explores-where-it-isnt",
+          "pitch": "Consciousness researchers have made progress partly by studying what's left when it goes — patients in minimally conscious states, people under anaesthesia, infants. This essay explores the productive paradox that studying the absence of something is sometimes the most reliable way to understand what the thing actually is."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "The metaphysical claims behind the injunction to be in the now",
+          "url": "https://aeon.co/essays/the-metaphysical-claims-behind-the-injunction-to-be-in-the-now",
+          "pitch": "The injunction to 'be present' turns out to rest on a stack of metaphysical claims that most practitioners never examine. This essay distinguishes between different types of present-moment practice — some grounded, some not — and asks what we are actually committing to when we follow a teacher's instruction to attend to now."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "The biological research putting purpose back into life",
+          "url": "https://aeon.co/essays/the-biological-research-putting-purpose-back-into-life",
+          "pitch": "A quiet revolution in biology is challenging the idea that organisms are shaped purely by external selection pressures. New research suggests organisms have something like internal goals — and that purpose, long expelled from science, might need to be quietly invited back. A piece at the edge of where biology and philosophy of mind converge."
+        }
+      ]
+    }
+  ]
+}

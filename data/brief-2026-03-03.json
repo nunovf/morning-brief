@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-03",
+  "day_name": "Tuesday",
+  "display_date": "March 3, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "Attention is the beginning of devotion.",
+  "quote_attr": "Mary Oliver",
+  "through_line": "Today's brief circles back, again and again, to a single quiet question: what is it to attend? Animation that earns its motion, DMOs measuring real impact, soft skills that can't be automated, a self that might just be what's doing the looking — and a mathematics hiding inside the poem you already knew.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Smashing",
+          "source_line2": "Magazine",
+          "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
+          "url": "https://www.smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+          "pitch": "The follow-up to Clarke's ambient animations series moves from principles into practice, showing exactly how these subtle, looping motions get built and applied in real sites. The gap between 'I like this effect' and 'I know how to build it' shrinks considerably over these pages."
+        },
+        {
+          "source_line1": "Destinations",
+          "source_line2": "International",
+          "title": "How Destination Organizations Are Using AI & Measuring Its Impact",
+          "url": "https://destinationsinternational.org/blog/how-destination-organizations-are-using-ai-measuring-its-impact",
+          "pitch": "A survey of how DMOs are actually implementing AI — not how they plan to, but what has been deployed, what is being measured, and what the early results look like. The honesty about measurement challenges makes this more useful than most AI-adoption write-ups."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "World Economic",
+          "source_line2": "Forum",
+          "title": "Surfing the future: why education needs to embrace AI, soft skills and self-awareness",
+          "url": "https://www.weforum.org/stories/2025/06/education-future-skills-ai/",
+          "pitch": "The World Economic Forum argues that the most important skills for the AI era aren't technical — they're the ones that make us irreducibly human: self-awareness, emotional intelligence, and the capacity to navigate ambiguity. Less generic than it sounds; the framing gives it practical structure for educators thinking about what a curriculum should actually build."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "What is the self if not that which pays attention?",
+          "url": "https://aeon.co/essays/what-is-the-self-if-not-that-which-pays-attention",
+          "pitch": "What if the self isn't an entity but a process — specifically, the process of attending? This essay works through the philosophy of Robert Kane alongside attention research, arriving at the unsettling and clarifying idea that who we are is, in some sense, what we choose to notice."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Paying close attention is an art and an act of the spirit",
+          "url": "https://aeon.co/essays/paying-close-attention-is-an-art-and-an-act-of-the-spirit",
+          "pitch": "An essay on attention as a spiritual and artistic act, drawing on everything from photography to prayer. It argues that genuine attentiveness is not passive — it is an act of will, of generosity, of showing up for the world as it actually is. The kind of piece that changes how you look at the rest of the day."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Why poetry is a variety of mathematical experience",
+          "url": "https://aeon.co/essays/why-poetry-is-a-variety-of-mathematical-experience",
+          "pitch": "A poet-philosopher makes the counterintuitive case that the experience of reading a good poem is a variety of mathematical experience — not metaphorically, but in the precision, structure, and surprise that both operate with. The essay opens something up rather than closing it down."
+        }
+      ]
+    }
+  ]
+}

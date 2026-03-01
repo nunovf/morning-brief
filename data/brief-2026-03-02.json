@@ -1,0 +1,75 @@
+{
+  "date": "2026-03-02",
+  "day_name": "Monday",
+  "display_date": "March 2, 2026",
+  "section_count": 4,
+  "item_count": 5,
+  "quote": "We shape our tools and thereafter our tools shape us.",
+  "quote_attr": "Marshall McLuhan",
+  "through_line": "Animation craft, AI in destination marketing, coding education — each is wrestling right now with where the tool ends and the intention begins. Monday opens on that gap, which turns out to be where most of the interesting questions live.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Smashing",
+          "source_line2": "Magazine",
+          "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
+          "url": "https://www.smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
+          "pitch": "Andy Clarke's series on ambient animations opens with a deceptively simple idea: motion that belongs to a space rather than demanding attention from it. For practitioners working in web design, this reframes animation from decoration to atmosphere — and the implementation details (CSS, SVG, layering) are immediately usable. A rare piece that advances both craft understanding and design philosophy at once."
+        },
+        {
+          "source_line1": "Destinations",
+          "source_line2": "International",
+          "title": "Five Things DMO Marketers Need to Know About AI Technology",
+          "url": "https://destinationsinternational.org/blog/five-things-dmo-marketers-need-know-about-ai-technology",
+          "pitch": "Destinations International distils what DMO marketers actually need to understand about AI — not the hype, but the five operational realities that are already reshaping how destinations get discovered and selected. Practitioner-focused and specific, this is the kind of field-level intelligence that translates directly into strategy decisions."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Raspberry Pi",
+          "source_line2": "Foundation",
+          "title": "Why kids still need to learn to code in the age of AI",
+          "url": "https://www.raspberrypi.org/blog/why-kids-still-need-to-learn-to-code-in-the-age-of-ai/",
+          "pitch": "The Raspberry Pi Foundation makes a clear, evidence-grounded case for why coding education matters more in an AI world, not less — but shifts the argument from syntax to the deeper cognitive habits that coding develops. Written for educators and makers, it offers a practical reframe of what 'learning to code' actually means when AI can generate the code."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Mindfulness is loaded with (troubling) metaphysical assumptions",
+          "url": "https://aeon.co/essays/mindfulness-is-loaded-with-troubling-metaphysical-assumptions",
+          "pitch": "Drawing on Buddhist philosophy and contemporary mindfulness research, this essay surfaces what the secular mindfulness movement quietly inherits from its roots — and what it tends to suppress. The author's argument is careful and pointed: mindfulness as currently taught is not philosophically neutral. A serious practitioner will find this either confirming or clarifying."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "Sure, AI can 'do' writing. But memoir? Not so much",
+          "url": "https://aeon.co/essays/sure-ai-can-do-writing-but-memoir-not-so-much",
+          "pitch": "A novelist makes the case that memoir — not poetry, not fiction — is the one form where AI consistently fails. The argument turns on what 'surprise' actually means: something that can only arise from the irreducibly individual, unarchived life. Brief, sharp, and quietly essential."
+        }
+      ]
+    }
+  ]
+}

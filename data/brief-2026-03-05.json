@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-05",
+  "day_name": "Thursday",
+  "display_date": "March 5, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "The unconscious is not stupid. It just doesn't talk.",
+  "quote_attr": "Cormac McCarthy",
+  "through_line": "Whether in a child making something unexpected, a writer grappling with what AI cannot do, a meditator reaching beyond duality, or a chemist dreaming of a ring — genuine creative insight resists formula. Thursday sits with that irreducibility.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Destinations",
+          "source_line2": "International",
+          "title": "4 Ways AI Can Streamline Your DMO's Workload",
+          "url": "https://destinationsinternational.org/blog/4-ways-ai-can-streamline-your-dmos-workload",
+          "pitch": "Destinations International offers four concrete, operational ways AI is reducing workload for DMO teams — from content generation to data analysis to chatbot deployment. The value here is specificity: not 'AI can help' but 'here is how teams are actually using it this year'."
+        },
+        {
+          "source_line1": "Think Digital",
+          "source_line2": "Travel",
+          "title": "Strategic AI Grounding: A Framework for DMO Digital Transformation",
+          "url": "https://www.thinkdigital.travel/opinion/strategic-ai-grounding-a-framework-for-dmo-digital-transformation",
+          "pitch": "A framework for DMO digital transformation that takes the long view: AI adoption that isn't grounded in clear strategy and organisational readiness tends to produce noise rather than signal. The 'grounding' metaphor is well-chosen — this is about anchoring AI capability to actual destination goals rather than chasing the technology itself."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "4 Ways to Develop Creativity in Students",
+          "url": "https://www.edutopia.org/article/4-ways-develop-creativity-students/",
+          "pitch": "Edutopia distils research on what actually builds creative capacity in young people — and the answers are more structural than inspirational. Safe-to-fail environments, intrinsic motivation, and regular practice at open-ended problems emerge as the recurring variables. Concrete and immediately usable for anyone planning learning experiences."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "source_line2": "",
+          "title": "Consciousness, Creativity, and Godlike AI",
+          "url": "https://nautil.us/consciousness-creativity-and-godlike-ai-571558/",
+          "pitch": "Writer Meghan O'Gieblyn — whose essays on AI and consciousness rank among the best of the last decade — reflects on what gets lost when creativity is understood as a statistical output rather than a meaning-making act between minds. Brief, concentrated, and worth sitting with slowly."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Frontiers",
+          "source_line2": "Psychology",
+          "title": "Beyond mindfulness: how Buddhist meditation transforms consciousness through distinct psychological pathways",
+          "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1649564/full",
+          "pitch": "A 2025 paper in Frontiers in Psychology maps what happens psychologically when Buddhist meditation practice goes beyond conventional mindfulness — examining equanimity, non-conceptual awareness, and the distinctive pathways different traditions activate. More readable than most academic work; the distinctions it draws are genuinely useful for serious practitioners."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "source_line2": "",
+          "title": "The Kekul\u00e9 Problem",
+          "url": "https://nautil.us/the-kekul-problem-236574/",
+          "pitch": "Cormac McCarthy — in one of his only works of non-fiction — takes up the question of why the unconscious refuses to communicate in language. His answer involves evolutionary timescales, the age of language versus the age of thought, and why Kekul\u00e9 dreamed of a snake instead of just knowing the molecule was a ring. A short, strange, and remarkable piece."
+        }
+      ]
+    }
+  ]
+}
