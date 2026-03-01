@@ -156,13 +156,13 @@ if (!file_exists($data_file)) {
         </div>
         <div class="article-pitch"><?php echo htmlspecialchars($article['pitch']); ?></div>
         <div class="article-actions">
-          <button class="action-btn" onclick="sendFeedback(this,'thumbs_up',<?php echo json_encode($article['url']); ?>,<?php echo json_encode($article['title']); ?>)">
+          <button class="action-btn" onclick="sendFeedback(this,'thumbs_up',<?php echo htmlspecialchars(json_encode($article['url'])); ?>,<?php echo htmlspecialchars(json_encode($article['title'])); ?>)">
             <span class="material-symbols-outlined">thumb_up</span> Interesting
           </button>
-          <button class="action-btn" onclick="sendFeedback(this,'thumbs_down',<?php echo json_encode($article['url']); ?>,<?php echo json_encode($article['title']); ?>)">
+          <button class="action-btn" onclick="sendFeedback(this,'thumbs_down',<?php echo htmlspecialchars(json_encode($article['url'])); ?>,<?php echo htmlspecialchars(json_encode($article['title'])); ?>)">
             <span class="material-symbols-outlined">thumb_down</span> Pass
           </button>
-          <button class="action-btn" onclick="sendFeedback(this,'save',<?php echo json_encode($article['url']); ?>,<?php echo json_encode($article['title']); ?>)">
+          <button class="action-btn" onclick="sendFeedback(this,'save',<?php echo htmlspecialchars(json_encode($article['url'])); ?>,<?php echo htmlspecialchars(json_encode($article['title'])); ?>)">
             <span class="material-symbols-outlined">bookmark_add</span> Save
           </button>
         </div>
