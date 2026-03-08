@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-15",
+  "day_name": "Sunday",
+  "display_date": "March 15, 2026",
+  "section_count": 4,
+  "item_count": 4,
+  "quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+  "quote_attr": "Marcel Proust",
+  "through_line": "The week ends where it started: with the question of what we're navigating toward. Destination marketing, after all its reinvention, still depends on someone wanting to go somewhere they haven't been. And what drives a four-year-old to keep exploring after a wrong answer — what researchers call learning progress — turns out to be the same thing that drives a serious practitioner deeper. Not certainty. The pull of what isn't yet understood.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Madden Media",
+          "title": "What is destination marketing in 2025 and beyond? DMO meaning and evolution for the future",
+          "url": "https://maddenmedia.com/what-is-destination-marketing-the-role-of-dmos-in-2025/",
+          "pitch": "As AI reshapes every layer of the travel discovery process, this piece asks a foundational question: what does destination marketing actually mean now? Madden Media traces how the DMO role has evolved — from print guides to digital content to something more resembling place stewardship in an era of algorithmic travel planning."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "PMC",
+          "source_line2": "Child Development",
+          "title": "Exploration in 4-year-old children is guided by learning progress and novelty",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11693834/",
+          "pitch": "A 2025 study found that young children don't just chase novelty — they actively select activities that offer the most learning progress, and their interest in growing correlates with stronger actual outcomes. It quietly reframes curiosity as something more than exploration: a drive toward the edge of understanding, where the most real learning lives."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "PMC",
+          "source_line2": "Frontiers in Psychology",
+          "title": "Biology, Buddhism, and AI: Care as the driver of intelligence",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9140411/",
+          "pitch": "An unusual convergence paper: the author argues that what makes minds intelligent — in organisms, in practice, and potentially in AI — is not processing power but care. Drawing on Buddhist philosophy and enactivist biology, it frames intelligence as inherently relational and oriented toward the alleviation of suffering. A piece that sits differently after a week of reading."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "title": "The brain's hidden drain",
+          "url": "https://nautil.us/the-brains-hidden-drain-1246822/",
+          "pitch": "The brain's glymphatic system — its waste-clearance infrastructure — is most active during rest, flushing the metabolic byproducts of a busy mind. New research suggests what's called the resting brain is doing something far more than cleanup: it's processing in ways the working brain simply cannot. A quiet piece that changes the way you read a pause."
+        }
+      ]
+    }
+  ]
+}

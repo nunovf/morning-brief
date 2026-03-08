@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-09",
+  "day_name": "Monday",
+  "display_date": "March 9, 2026",
+  "section_count": 4,
+  "item_count": 5,
+  "quote": "We shape our tools, and thereafter our tools shape us.",
+  "quote_attr": "Marshall McLuhan",
+  "through_line": "When an AI agent can plan, book, and personalise a trip without visiting a single destination website, the question isn't what to do with your website — it's what a website is for. A designer documents a week of actually working with AI on real deliverables; a destination marketer confronts what agentic AI means for the entire foundation of DMO strategy. The tool is changing the question.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Smashing Magazine",
+          "title": "A Week In The Life Of An AI-Augmented Designer",
+          "url": "https://www.smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
+          "pitch": "A working designer documents a full week of integrating AI across real client deliverables — not as abstract capability, but as daily practice. The piece is honest about where AI accelerates, where it confuses, and where human judgment remains non-negotiable. Useful precisely because it doesn't flatten the experience into either evangelism or alarm."
+        },
+        {
+          "source_line1": "Destinations International",
+          "title": "Agentic AI: Love, Trust, and the Future of Tourism",
+          "url": "https://destinationsinternational.org/blog/agentic-ai-love-trust-and-future-tourism",
+          "pitch": "When AI agents handle trip planning autonomously — browsing, comparing, booking — destination websites face a structural question: who is the actual audience? This piece explores what agentic AI means for destination trust, content strategy, and the human relationship at the centre of travel marketing."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Raspberry Pi Foundation",
+          "title": "Integrating generative AI into introductory programming classes",
+          "url": "https://www.raspberrypi.org/blog/integrating-generative-ai-into-introductory-programming-classes/",
+          "pitch": "The question isn't whether to include AI in programming education — it's how to do it without short-circuiting the thinking it's meant to develop. Raspberry Pi Foundation researchers examined what happens in introductory classes when students have access to generative AI, and what it means for the mental models that make real learning possible."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Frontiers in Human Neuroscience",
+          "title": "Long-term mindfulness meditation increases occurrence of sensory and attention brain states",
+          "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1482353/full",
+          "pitch": "A 2024 neuroimaging study found that long-term meditators spend measurably more time in brain states characterised by heightened sensory presence and attentional focus — and less time in the default self-referential mode. The data provides rigorous support for what practitioners report: sustained practice doesn't just calm the mind, it shifts what the mind does when left to itself."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "title": "Here's What's Happening in the Brain When You're Improvising",
+          "url": "https://nautil.us/heres-whats-happening-in-the-brain-when-youre-improvising-1258457/",
+          "pitch": "When jazz pianists improvise, their brains look less like planning machines and more like fluent social conversation. More creative freedom brought more surprise, more embodiment, more reward — and less prediction. A piece that quietly reframes creativity not as a mode of production but as a mode of being."
+        }
+      ]
+    }
+  ]
+}

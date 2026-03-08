@@ -1,0 +1,85 @@
+{
+  "date": "2026-03-12",
+  "day_name": "Thursday",
+  "display_date": "March 12, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "All conditioned things are impermanent. When one sees this with wisdom, one turns away from suffering.",
+  "quote_attr": "The Dhammapada",
+  "through_line": "Dependent origination — nothing exists independently of its conditions — runs through today's pieces at three scales. The AI travel planning ecosystem depends on destination data it didn't create. The three-year-old's computational thinking depends on scaffolding from a teacher. And Buddhist philosophy argues that AI's most provocative feature isn't its intelligence, but the light it shines on the absence of fixed self.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Simpleview",
+          "title": "The rise of AI in travel planning: What DMOs need to know",
+          "url": "https://www.simpleviewinc.com/blog/stories/post/the-rise-of-ai-in-travel-planning-what-dmos-need-to-know/",
+          "pitch": "A clear, practitioner-focused breakdown of what AI trip planning tools actually mean for destination organisations — from conversational search to itinerary generators to autonomous booking. Simpleview is one of the leading DMO technology platforms, so the perspective comes from inside the industry's infrastructure rather than from the sidelines."
+        },
+        {
+          "source_line1": "Mirko Lalli",
+          "source_line2": "Founder, Travel Appeal",
+          "title": "The AI disruption: Why destination marketing organisations must reinvent themselves now",
+          "url": "https://medium.com/@mkl/the-ai-disruption-why-destination-marketing-organisations-must-reinvent-themselves-now-760346bf8649",
+          "pitch": "Mirko Lalli writes with unusual directness about what AI disruption actually means for DMOs: not a technology upgrade, but a fundamental reconsideration of what a destination marketing organisation exists to do. The argument is structural, not tactical — and worth reading slowly."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Frontiers in Education",
+          "title": "Integrating computational thinking in children aged 3 to 6: challenges and opportunities in early childhood education",
+          "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1535135/full",
+          "pitch": "A 2025 review of what computational thinking looks like at its earliest developmental stage — ages three to six — and what actually works in early childhood contexts. For anyone designing coding education for young learners, the findings on sequencing, debugging, and age-appropriate abstraction offer a genuinely useful framework, translated from research into practice."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Templeton World Charity Foundation",
+          "title": "What Buddhism can teach us about artificial intelligence and ourselves",
+          "url": "https://www.templetonworldcharity.org/blog/what-buddhism-can-teach-us-about-artificial-intelligence-and-ourselves",
+          "pitch": "A thoughtful exploration of what Buddhist philosophy — particularly its accounts of dependent origination, impermanence, and the constructed self — brings to the conversation about AI. Rather than using Buddhist ideas as metaphor, the piece takes them seriously as philosophical claims that happen to resonate with the most puzzling features of the systems we're building."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "PMC",
+          "source_line2": "Psychonomic Bulletin & Review",
+          "title": "Mindfulness, cognition, and long-term meditators: Toward a science of advanced meditation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12330868/",
+          "pitch": "A 2025 review synthesises what longitudinal research tells us about how cognition changes with advanced meditation practice — not just attention, but metacognition, the structure of self-referential processing, and states that fall outside standard psychological categories. Structured accessibly, and serious enough for practitioners who want science that matches what they experience."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "title": "The search for where consciousness lives in the brain",
+          "url": "https://nautil.us/the-search-for-where-consciousness-lives-in-the-brain-1261596/",
+          "pitch": "Researchers are using transcranial focused ultrasound — precise and non-invasive — to map which regions of the brain are necessary for conscious experience. The approach chips away at the hard problem of consciousness not by solving it but by finding, systematically, where it isn't. A piece that makes the science feel both rigorous and genuinely strange."
+        }
+      ]
+    }
+  ]
+}

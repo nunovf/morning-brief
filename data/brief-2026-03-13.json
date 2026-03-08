@@ -1,0 +1,77 @@
+{
+  "date": "2026-03-13",
+  "day_name": "Friday",
+  "display_date": "March 13, 2026",
+  "section_count": 5,
+  "item_count": 5,
+  "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+  "quote_attr": "Alan Watts",
+  "through_line": "Non-attachment as strategic intelligence. The destinations that survive AI disruption may be those that stop clinging to what a website used to do. The AI researchers who draw on Buddhist philosophy may build systems that hold knowledge without crystallising it. And the practitioners who go furthest tend to be those who let go of their models of the path. Today's thread is about what releasing fixed assumptions makes possible.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Simpleview",
+          "title": "Transformative travel and tourism trends: A 2026 guide for future-focused DMOs",
+          "url": "https://www.simpleviewinc.com/blog/stories/post/transformative-travel-and-tourism-trends-a-2026-guide-for-future-focused-dmos/",
+          "pitch": "A forward-looking synthesis from one of the DMO industry's leading technology platforms — covering what's actually changing in visitor expectations, digital strategy, and organisational structure as AI reshapes the travel landscape. Less hype than most trend pieces; more architecture than prediction."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Raspberry Pi Foundation",
+          "title": "Using generative AI to teach computing: insights from research",
+          "url": "https://www.raspberrypi.org/blog/using-generative-ai-to-teach-computing-insights-from-research/",
+          "pitch": "What does the research actually say about using generative AI as a teaching tool in computing education? The Raspberry Pi Foundation surveys the evidence — where AI supports learning, where it undermines it, and what conditions make the difference. Grounded in classroom reality rather than promotional optimism."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Buddhistdoor Global",
+          "title": "Defining consciousness: how Buddhism can inform AI",
+          "url": "https://www.buddhistdoor.net/features/defining-consciousness-how-buddhism-can-inform-ai/",
+          "pitch": "A careful exploration of how Buddhist philosophy's account of consciousness — as dependently arisen, relational, and ultimately empty of fixed essence — challenges the substrate-independence assumptions most AI consciousness arguments rely on. Accessible, serious, and willing to stay in the difficulty without rushing to resolution."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Frontiers in Psychology",
+          "title": "The spiritual core of the hard problem: consciousness as foundational, not emergent",
+          "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1659944/full",
+          "pitch": "A 2025 paper directly challenges the standard scientific assumption that consciousness is produced by the brain — proposing instead that consciousness is the foundational reality from which both mind and matter arise. Written for a scientific audience but structured accessibly, it converges with Advaita and Buddhist traditions that have made this argument for millennia."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "title": "What is your brain doing on psychedelics?",
+          "url": "https://nautil.us/what-is-your-brain-doing-on-psychedelics-1242605/",
+          "pitch": "A neuroscientist walks through what happens to the brain's default mode network, sensory processing, and self-models under psychedelics — and why the findings keep surprising researchers who expected simple amplification of activity. What emerges is a picture of the mind that meditation researchers find oddly familiar."
+        }
+      ]
+    }
+  ]
+}

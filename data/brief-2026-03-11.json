@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-11",
+  "day_name": "Wednesday",
+  "display_date": "March 11, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "Technology is neither good nor bad; nor is it neutral.",
+  "quote_attr": "Melvin Kranzberg",
+  "through_line": "What looks like a question about sustainability turns out to be a question about attention. What looks like a question about AI compassion turns out to be a question about how we project mind onto machines — and what that reveals about our own. Today's pieces circle the same underlying issue from different altitudes: what are we paying for when efficiency becomes effortless?",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Destinations International",
+          "title": "Embracing the Future of Search",
+          "url": "https://destinationsinternational.org/blog/embracing-future-search",
+          "pitch": "As AI-powered answer engines reshape how travellers find destinations, organic search is evolving rather than dying — and DMOs that understand the new logic are positioned to become the authoritative sources that AI systems actively cite. This piece lays out the practical steps: content structure, E-E-A-T signals, and the new KPIs that matter in the zero-click era."
+        },
+        {
+          "source_line1": "Smashing Magazine",
+          "title": "The Double-Edged Sustainability Sword Of AI In Web Design",
+          "url": "https://www.smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
+          "pitch": "AI tools dramatically reduce a designer's time-to-output — and in doing so, can dramatically increase the volume of work produced. This piece asks the sharper question: when efficiency is effortless, what disciplines us? The environmental framing opens into something more fundamental about what we're actually optimising for."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Child Mind Institute",
+          "title": "Mindfulness in the Classroom",
+          "url": "https://childmind.org/article/mindfulness-in-the-classroom/",
+          "pitch": "Practical without being prescriptive — the Child Mind Institute walks through what classroom mindfulness actually looks like, why it works for focus and emotional regulation, and what separates programmes that make a real difference from those that remain decorative. Written for educators rather than researchers, with the clarity of a trusted translator."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Frontiers in Psychology",
+          "title": "The anthropomorphization of AI and the concept of Buddhist compassion in human-machine interaction",
+          "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1583565/full",
+          "pitch": "A 2025 paper examines what happens when people attribute compassionate intent to AI systems, reading Buddhist notions of karuṇā through the lens of human-machine interaction. The finding reveals how deeply dependent our ethical orientations are on the models of mind we project onto other entities — artificial or otherwise."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Frontiers in Psychology",
+          "title": "Consciousness, mindfulness, and introspection: integrating first- and second-person phenomenological inquiry with experimental and EEG data to study the mind",
+          "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1558453/full",
+          "pitch": "A 2025 paper makes the methodological case for treating first-person contemplative reports as data, not anecdote — integrating them with EEG measures to study the mind from within. For practitioners, it offers a rigorous scientific partner to what the traditions have always argued: understanding mind requires attending to experience from inside it."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "title": "Here's What Happens to Your Brain When Your Mind Goes Blank",
+          "url": "https://nautil.us/heres-what-happens-to-your-brain-when-your-mind-goes-blank-1258738/",
+          "pitch": "A study found that mind-blanking — those brief windows of complete cognitive silence — corresponds to measurable changes in brain activity: certain regions appear to take micro-naps. The finding raises an unexpectedly interesting question about what's happening, or not happening, in the gaps between thoughts."
+        }
+      ]
+    }
+  ]
+}

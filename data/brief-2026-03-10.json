@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-10",
+  "day_name": "Tuesday",
+  "display_date": "March 10, 2026",
+  "section_count": 4,
+  "item_count": 5,
+  "quote": "The ability to perceive or think differently is more important than the knowledge gained.",
+  "quote_attr": "David Bohm",
+  "through_line": "Whether it's a product designer learning to collaborate with AI on real deliverables, or a child learning to decompose a problem before writing a single line of code, the underlying skill is the same: knowing what to hold onto and what to let the tool handle. Attention is the discipline that makes AI useful — and the thing Buddhist philosophy suggests AI most conspicuously lacks.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Smashing Magazine",
+          "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Design Use Cases",
+          "url": "https://www.smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
+          "pitch": "Rather than theory about AI's impact on design, this piece gets into specific techniques experienced product designers are actually using — where AI excels in ideation and variation, where it needs heavy curation, and what the workflow looks like when AI is properly integrated rather than bolted on."
+        },
+        {
+          "source_line1": "Noble Studios",
+          "title": "The AI Impact on Travel Search and SEO: What DMOs Need to Know",
+          "url": "https://noblestudios.com/travel-tourism/ai-impact-on-travel-search-and-seo/",
+          "pitch": "Noble Studios maps how AI-driven search is reshaping the visibility landscape for destination websites — from the collapse of old SEO metrics to the new signals that determine whether a destination gets cited in an AI-generated answer. Concrete and practical for anyone managing a DMO's digital presence."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Raspberry Pi Foundation",
+          "title": "Integrating computational thinking into primary teaching",
+          "url": "https://www.raspberrypi.org/blog/integrating-computational-thinking-into-primary-teaching/",
+          "pitch": "Computational thinking isn't a subject — it's a disposition. This piece looks at how primary teachers can weave decomposition, pattern recognition, abstraction, and algorithmic thinking into existing practice, rather than treating coding as an add-on. The framing is practical and the examples are genuinely usable by anyone planning lessons."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Future of Life Institute",
+          "title": "A Buddhist perspective on AI: Cultivating freedom of attention and true diversity in an AI future",
+          "url": "https://futureoflife.org/religion/a-buddhist-perspective-on-ai/",
+          "pitch": "A Buddhist practitioner and AI researcher argues that the real risk isn't that AI becomes conscious — it's that it narrows attention, homogenises perspective, and closes down the open, non-attached awareness that genuine insight requires. The piece connects dependent origination to AI's tendency to crystallise patterns, and asks what it would mean to build systems that support freedom of mind rather than constrain it."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "title": "The Five Eras of the Human Brain",
+          "url": "https://nautil.us/the-five-eras-of-the-human-brain-1250127",
+          "pitch": "A massive lifespan study identified five distinct stages of brain organisation — with transitions at ages 9, 32, 66, and 83 — quietly dismantling the idea that the brain peaks in the mid-20s. The finding suggests the adult brain isn't declining after youth but reorganising. Worth sitting with if you've been measuring yourself by an outdated standard."
+        }
+      ]
+    }
+  ]
+}

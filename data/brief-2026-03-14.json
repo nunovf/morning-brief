@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-14",
+  "day_name": "Saturday",
+  "display_date": "March 14, 2026",
+  "section_count": 4,
+  "item_count": 4,
+  "quote": "Wonder is the beginning of wisdom.",
+  "quote_attr": "Socrates",
+  "through_line": "The metrics are changing. The models of mind are changing. What holds steady across today's pieces — in search analytics, in children's curiosity research, in the Buddhist concept of self-overcoming — is the irreducibility of genuine surprise. You can't optimise your way to wonder.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Destinations International",
+          "title": "Modern SEO KPIs for DMOs & CVBs",
+          "url": "https://destinationsinternational.org/blog/modern-seo-kpis-dmos-cvbs",
+          "pitch": "As AI-driven search reshapes how destination content is discovered, the old KPIs — rankings, traffic, impressions — are increasingly poor proxies for actual visibility and authority. This piece proposes a new measurement framework built for the AI era, with concrete metrics DMOs can start tracking today."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "npj Science of Learning",
+          "source_line2": "Nature Portfolio",
+          "title": "Question-asking practice fosters aspects of curiosity in science content in young children",
+          "url": "https://www.nature.com/articles/s41539-025-00384-5",
+          "pitch": "A 2025 study found that practising question-asking — not just answering questions — measurably increased children's intrinsic motivation to learn new science content. The mechanism is direct: asking questions changes how much children value new information. Practical implications for anyone designing activities that aim to cultivate curiosity rather than just deliver content."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "MDPI Religions",
+          "title": "AI as a Buddhist self-overcoming technique in another medium",
+          "url": "https://www.mdpi.com/2077-1444/16/6/669",
+          "pitch": "An open-access paper argues that Buddhist philosophy — which aims at overcoming fixed self-concepts — finds an unexpected ally in AI, a system unburdened by the organic substrate that generates attachment in the first place. The provocation: the very features that make AI not-quite-conscious may make it uniquely suited to model something the Buddhist path has always sought."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "title": "The most beautiful science of the year",
+          "url": "https://nautil.us/the-most-beautiful-science-of-the-year-4-1256491/",
+          "pitch": "Nautilus editors selected the most striking scientific insights of 2025 — not the most viral, not the most cited, but the ones that opened something up. A piece to read slowly, without an agenda, as a reminder that science at its best is not a production system but a form of attention."
+        }
+      ]
+    }
+  ]
+}
