@@ -1,0 +1,57 @@
+{
+  "date": "2026-03-21",
+  "day_name": "Saturday",
+  "display_date": "March 21, 2026",
+  "section_count": 3,
+  "item_count": 4,
+  "quote": "The details are not the details. They make the design.",
+  "quote_attr": "Charles Eames",
+  "through_line": "CSS is philosophy in miniature today: when you build features that do more with less, you discover something about what design actually is. Data follows. Then: the nonself, the question of whether intelligence has a fixed shape, and the gentle dissolution of both.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "LogRocket",
+          "title": "CSS in 2026: The new features reshaping frontend development",
+          "url": "https://blog.logrocket.com/css-2026-new-features/",
+          "pitch": "New CSS features in 2026 \u2014 customizable selects, sibling-index(), scroll-state queries \u2014 are replacing patterns that once required hundreds of lines of JavaScript. A well-illustrated overview of where the platform is headed and how to start using these features thoughtfully."
+        },
+        {
+          "source_line1": "Sojern",
+          "title": "Data-Driven Decision-Making: The Key to DMO Marketing Success",
+          "url": "https://www.sojern.com/blog/data-driven-decision-making-the-key-to-dmo-marketing-success/",
+          "pitch": "First-party data is not just a cookie-era substitute \u2014 it\u2019s the core asset of DMO marketing in a privacy-first world. Sojern\u2019s piece makes the case clearly: DMOs that build data collection and activation capacity now will be far better positioned in an increasingly cookieless landscape."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Still Water Mindfulness Practice Center",
+          "title": "Getting in Touch with Our Nonself Elements",
+          "url": "https://www.stillwatermpc.org/dharma-topics/getting-in-touch-with-our-nonself-elements/",
+          "pitch": "Interbeing and non-self aren\u2019t abstract Buddhist doctrine \u2014 they\u2019re direct descriptions of what you are, if you look carefully. This Still Water essay offers a contemplative practice: examining which \u2018elements\u2019 \u2014 cosmic, geological, cultural, ancestral \u2014 make up what you call yourself."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "title": "Intelligence Evolved at Least Twice in Vertebrate Animals",
+          "url": "https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/",
+          "pitch": "Birds like crows and ravens solve problems as complex as chimpanzees do, but their brains look completely different. New research confirms the surprising answer: intelligence independently evolved twice in vertebrates, arriving at similar circuits from different starting points. A beautiful piece on convergent cognition."
+        }
+      ]
+    }
+  ]
+}

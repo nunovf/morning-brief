@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-22",
+  "day_name": "Sunday",
+  "display_date": "March 22, 2026",
+  "section_count": 2,
+  "item_count": 2,
+  "quote": "Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
+  "quote_attr": "Rainer Maria Rilke",
+  "through_line": "This week\u2019s last question is the oldest one in this brief: should kids still learn to code when machines can do it? Yes. But the answer beneath the answer is Rilke\u2019s: to make anything worth making, you have to bring everything you\u2019ve lived.",
+  "sections": [
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Fielding University",
+          "title": "AI Doesn\u2019t Change Why Kids Should Learn to Code",
+          "url": "https://www.fielding.edu/ai-doesnt-change-why-kids-should-learn-to-code/",
+          "pitch": "The argument that AI makes coding education obsolete gets the logic of literacy exactly wrong. This short but sharp piece makes the case that coding never was mainly about producing code \u2014 it was about developing the mental models to understand and shape a world increasingly built on them."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Marginalian",
+          "title": "Uncoding Creativity in the Age of AI: What Makes a Great Poem, What Makes a Great Storyteller, and What Makes Us Human",
+          "url": "https://www.themarginalian.org/2025/07/07/suffering-creativity-canetti-rilke/",
+          "pitch": "Maria Popova asked ChatGPT for a poem in Whitman\u2019s style. What she received \u2014 and why it couldn\u2019t move her \u2014 became the starting point for a precise exploration of what makes human creativity irreplaceable: not language, but embodied experience, the transmutation of suffering into meaning."
+        }
+      ]
+    }
+  ]
+}

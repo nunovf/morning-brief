@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-18",
+  "day_name": "Wednesday",
+  "display_date": "March 18, 2026",
+  "section_count": 6,
+  "item_count": 7,
+  "quote": "A problem well stated is a problem half-solved.",
+  "quote_attr": "Charles Kettering",
+  "through_line": "The same thread runs through a classroom, a DMO\u2019s content strategy, and a question about whether insects are conscious: when you break a problem down carefully enough, something surprising emerges. Computational thinking isn\u2019t just a skill \u2014 it\u2019s a posture toward complexity.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "IMF Blog",
+          "title": "New Skills and AI Are Reshaping the Future of Work",
+          "url": "https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work",
+          "pitch": "The IMF\u2019s emerging picture of AI\u2019s labor market impact is nuanced and more urgent than most headlines capture: complementary skills matter enormously, and those who lack them are exposed in ways the top of the distribution rarely sees. Short, evidence-dense, and worth the time."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Madden Media",
+          "title": "Generative Engine Optimization 101: How to Optimize Content that Gets Noticed with Generative AI",
+          "url": "https://maddenmedia.com/generative-engine-optimization-how-to-optimize-content/",
+          "pitch": "GEO \u2014 Generative Engine Optimization \u2014 is what SEO is becoming: structuring content so AI systems surface it, not just crawlers. Madden Media\u2019s primer explains the mechanics and offers DMOs a starting point for thinking about how their content strategy needs to change."
+        },
+        {
+          "source_line1": "Simpleview",
+          "title": "GEO for DMOs: how Generative Engine Optimization changes the SEO game",
+          "url": "https://www.simpleviewinc.com/blog/stories/post/geo-for-dmos-how-generative-engine-optimization-changes-the-seo-game/",
+          "pitch": "Simpleview\u2019s take on GEO goes deeper into the DMO-specific playbook \u2014 what destination content needs to do to appear in AI-generated answers, and how the shift from keyword optimization to authority and structured clarity changes the work."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "KQED MindShift",
+          "title": "Four computational thinking strategies for building problem-solving skills across the curriculum",
+          "url": "https://www.kqed.org/mindshift/59591/four-computational-thinking-strategies-for-building-problem-solving-skills-across-the-curriculum",
+          "pitch": "Decomposition, pattern recognition, abstraction, algorithmic design \u2014 these four strategies show how computational thinking integrates across all subjects, not just tech class. Project Tomorrow\u2019s teachers demonstrate it works as a classroom language, not just a coding exercise."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "title": "If AIs can feel pain, what is our responsibility towards them?",
+          "url": "https://aeon.co/essays/if-ais-can-feel-pain-what-is-our-responsibility-towards-them",
+          "pitch": "As AI systems grow more sophisticated, the question of moral patienthood becomes harder to dismiss. This Aeon essay takes the possibility of machine suffering seriously \u2014 not to resolve it, but to examine what ethical frameworks we\u2019d need if the answer turned out to be yes."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Insight Meditation Center",
+          "source_line2": "Gil Fronsdal",
+          "title": "Impermanence",
+          "url": "https://www.insightmeditationcenter.org/books-articles/impermanence/",
+          "pitch": "Fronsdal\u2019s brief essay on impermanence does what dharma writing at its best does: it moves from doctrine to practice to the felt sense of what it means to actually live alongside change. A steady companion for a midweek practice."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "title": "Insects and Other Animals Have Consciousness, Experts Declare",
+          "url": "https://www.quantamagazine.org/insects-and-other-animals-have-consciousness-experts-declare-20240419/",
+          "pitch": "A group of leading neuroscientists signed the New York Declaration on Animal Consciousness \u2014 a formal acknowledgment that the capacity for experience extends far beyond mammals. Quanta captures the significance of the moment: science cautiously catching up to what many traditions have always held."
+        }
+      ]
+    }
+  ]
+}

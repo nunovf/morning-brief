@@ -1,0 +1,84 @@
+{
+  "date": "2026-03-19",
+  "day_name": "Thursday",
+  "display_date": "March 19, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "The limits of my language mean the limits of my world.",
+  "quote_attr": "Ludwig Wittgenstein",
+  "through_line": "Language shapes what we see \u2014 and what we think AI is. When we call a model a \u2018digital brain\u2019 that \u2018thinks\u2019 and \u2018feels,\u2019 we\u2019re not just simplifying; we\u2019re choosing who gets held accountable. Today\u2019s brief sits with the limits of our metaphors, and with the practice of ethical sensitivity as one antidote.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "MIT Technology Review",
+          "title": "What will AI mean for economic inequality?",
+          "url": "https://www.technologyreview.com/2024/08/27/1096133/ai-economic-inequality-jobs-low-income/",
+          "pitch": "The economic gains from AI are accumulating fastest for workers and firms already advantaged. MIT Technology Review examines the structural dynamics driving this \u2014 why AI acts as a force multiplier that risks widening, not closing, existing income and opportunity gaps."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Destinations International",
+          "title": "Five Practical Questions Every DMO Should Ask When Building an AI Policy",
+          "url": "https://destinationsinternational.org/blog/five-practical-questions-every-dmo-should-ask-when-building-ai-policy",
+          "pitch": "Before deploying any AI tool, every DMO needs clarity on five foundational questions \u2014 about governance, data ownership, transparency, and staff capacity. Destinations International turns policy-building from an abstract obligation into a practical checklist."
+        },
+        {
+          "source_line1": "Watauga Group",
+          "title": "Destination Marketing Trends for 2026: Travel Trends and Shifts Shaping DMOs",
+          "url": "https://wataugagroup.com/blog/destination-marketing-trends-for-2026-travel-trends-and-shifts-shaping-dmos/",
+          "pitch": "Six trends shaping how DMOs need to reposition heading into 2026: Answer Engine Optimization, data-driven storytelling, emotional differentiation, fragmented discovery journeys. Watauga\u2019s annual read is grounded, practitioner-focused, and worth the time."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "The Conversation",
+          "title": "\u2018Digital brains\u2019 that \u2018think\u2019 and \u2018feel\u2019: why do we personify AI models, and are these metaphors actually helpful?",
+          "url": "https://theconversation.com/digital-brains-that-think-and-feel-why-do-we-personify-ai-models-and-are-these-metaphors-actually-helpful-265883",
+          "pitch": "Every time we say a model \u2018understands\u2019 or \u2018feels\u2019 or \u2018cares,\u2019 we\u2019re loading the metaphor with assumptions about accountability. This piece maps the conceptual risks of AI anthropomorphism \u2014 and offers a more precise vocabulary for talking about what systems actually do."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Insight Meditation Center",
+          "source_line2": "Gil Fronsdal",
+          "title": "Ethical Sensitivity",
+          "url": "https://www.insightmeditationcenter.org/2025/02/ethical-sensitivity-essay-by-gil-fronsdal/",
+          "pitch": "Ethical sensitivity \u2014 the ability to feel the moral weight of a situation before deliberating about it \u2014 is something that can be trained. Fronsdal argues it\u2019s the most important foundation of ethical life, and that practice, not rules, is how it deepens."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Psyche",
+          "title": "What your mind\u2019s blank moments reveal about consciousness",
+          "url": "https://psyche.co/ideas/what-your-minds-blank-moments-reveal-about-consciousness",
+          "pitch": "Moments when your mind goes truly blank \u2014 with no content whatsoever \u2014 challenge one of the oldest assumptions about consciousness: that to be conscious is always to be conscious of something. Neuroscientist Thomas Andrillon explores what these silences reveal about the nature of mind."
+        }
+      ]
+    }
+  ]
+}

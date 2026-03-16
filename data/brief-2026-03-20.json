@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-20",
+  "day_name": "Friday",
+  "display_date": "March 20, 2026",
+  "section_count": 5,
+  "item_count": 5,
+  "quote": "Pay attention. Be astonished. Tell about it.",
+  "quote_attr": "Mary Oliver",
+  "through_line": "Being present costs something. The week ends with a reminder that the most irreplaceable thing we bring \u2014 to our work, our classrooms, our relationships, our practice \u2014 is the readiness to be moved.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Greater Good Magazine",
+          "title": "Can artificial intelligence help us become less lonely?",
+          "url": "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_us_become_less_lonely",
+          "pitch": "The loneliness epidemic is real, and AI companions are increasingly marketed as one response. Greater Good examines the evidence honestly \u2014 what AI interaction does and doesn\u2019t offer, and the conditions under which it might genuinely help versus substitute for something harder to build."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Smashing Magazine",
+          "title": "Human Strategy In An AI-Accelerated Workflow",
+          "url": "https://www.smashingmagazine.com/2025/03/human-strategy-ai-accelerated-workflow/",
+          "pitch": "As AI tools accelerate the pace of design and development work, the question shifts from speed to judgment. This Smashing Magazine piece looks at where human strategy becomes essential in an AI-assisted workflow \u2014 and how to hold onto it when the tools encourage you to skip it."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "title": "A Path to Improving Students\u2019 Emotional Intelligence",
+          "url": "https://www.edutopia.org/article/path-improving-students-emotional-intelligence/",
+          "pitch": "Emotional intelligence \u2014 the capacity to recognize and work with feelings in real time \u2014 is both a predictor of academic success and a skill that can be explicitly taught. This piece offers practical frameworks teachers can use today, from the Mood Meter to mood-aligned choice boards."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Still Water Mindfulness Practice Center",
+          "source_line2": "Mitchell Ratner",
+          "title": "Blindsided by Impermanence",
+          "url": "https://www.stillwatermpc.org/dharma-topics/blindsided-by-impermanence/",
+          "pitch": "A family separation, Pema Ch\u00f6dr\u00f6n\u2019s voice, Thich Nhat Hanh\u2019s reminder that impermanence is not a concept but a practice \u2014 Mitchell Ratner\u2019s essay is a quietly moving account of being blindsided by loss and what the teachings actually feel like when applied in that moment."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Berkeley News",
+          "title": "Scientists trick the eye into seeing new color \u2018olo\u2019",
+          "url": "https://news.berkeley.edu/2025/04/22/scientists-trick-the-eye-into-seeing-new-color-olo/",
+          "pitch": "Using micro-precise laser pulses targeted at individual cone cells in the retina, UC Berkeley scientists made five people see a color that doesn\u2019t exist in nature \u2014 a saturated blue-green they named \u2018olo.\u2019 A short, wonderful piece about the edge of human perception."
+        }
+      ]
+    }
+  ]
+}

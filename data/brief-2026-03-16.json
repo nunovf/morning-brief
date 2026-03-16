@@ -1,0 +1,84 @@
+{
+  "date": "2026-03-16",
+  "day_name": "Monday",
+  "display_date": "March 16, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "The future is already here — it\u2019s just not evenly distributed.",
+  "quote_attr": "William Gibson",
+  "through_line": "AI is reshaping both the economics of attention and the toolset of those building for it. Before DMOs can adapt their strategy, they need a clear-eyed view of what\u2019s changing \u2014 and what it means that the skills we teach children today will shape who gets to navigate that change.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "MIT Technology Review",
+          "title": "The State of AI: the economic singularity",
+          "url": "https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/",
+          "pitch": "MIT Technology Review\u2019s annual State of AI report reframes the moment we\u2019re living through: not a disruption, but a singularity \u2014 a point after which economic life won\u2019t return to its previous shape. A dense but essential read for anyone trying to understand what the next few years of work actually look like."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Tempest",
+          "title": "What Destination Website Performance Taught Us in Q1 2025: Organic Trends, AI Impact, and the Road Ahead",
+          "url": "https://www.tempest.im/blog/destination-website-performance-q1-2025/",
+          "pitch": "Organic traffic to destination websites fell in Q1 2025, and the cause isn\u2019t a mystery: AI-powered search is rerouting how travelers discover places. Tempest\u2019s Q1 data lays out the shift in concrete terms \u2014 the kind of numbers that should inform every content and SEO decision DMOs make this year."
+        },
+        {
+          "source_line1": "Tourism Tribe",
+          "title": "AI Search Is Transforming Tourism Marketing",
+          "url": "https://www.tourismtribe.com/ai-search-transforming-tourism-marketing/",
+          "pitch": "Search is no longer about keywords \u2014 it\u2019s about being the answer. Tourism Tribe maps how AI search is changing what destination content needs to do, why traditional SEO thinking is losing ground, and what tourism marketers should build toward instead."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Raspberry Pi Foundation",
+          "title": "Why kids still need to learn to code in the age of AI",
+          "url": "https://www.raspberrypi.org/blog/why-kids-still-need-to-learn-to-code-in-the-age-of-ai/",
+          "pitch": "Five arguments for why the answer is still yes, even as AI tools generate increasingly sophisticated code. The Raspberry Pi Foundation doesn\u2019t hedge: coding is a literacy, not a job skill, and the children who develop it will have agency over a world the rest of us will only consume."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion\u2019s Roar",
+          "source_line2": "Jack Kornfield",
+          "title": "A Mind Like Sky",
+          "url": "https://www.lionsroar.com/a-mind-like-sky/",
+          "pitch": "Kornfield offers one of his most essential teachings: awareness is not a state to achieve but a sky that\u2019s always already present. A short, gentle read to begin the week with \u2014 not a technique, but a reminder of what was here before attention narrowed."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Codrops",
+          "title": "Crafting Generative CSS Worlds",
+          "url": "https://tympanus.net/codrops/2025/11/10/crafting-generative-css-worlds/",
+          "pitch": "What happens when you treat CSS as a canvas rather than a constraint? This tutorial builds generative art systems entirely in CSS \u2014 animated, infinite, genuinely beautiful. A reminder that the web is still a place where you can make something you couldn\u2019t have predicted."
+        }
+      ]
+    }
+  ]
+}

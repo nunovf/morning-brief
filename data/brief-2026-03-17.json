@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-17",
+  "day_name": "Tuesday",
+  "display_date": "March 17, 2026",
+  "section_count": 6,
+  "item_count": 7,
+  "quote": "Not everything that counts can be counted, and not everything that can be counted counts.",
+  "quote_attr": "William Bruce Cameron",
+  "through_line": "The cost of AI is invisible until you look at the data \u2014 in electricity, in organic traffic, in the assumption that machines that \u2018think\u2019 are neutral tools. Today\u2019s brief asks what it means to see clearly: in Q3 traffic benchmarks, in the energy footprint of a data center, and in the layers of consciousness we carry into every moment of attention.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Pew Research",
+          "title": "What we know about energy use at US data centers amid the AI boom",
+          "url": "https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/",
+          "pitch": "For every AI query answered, there\u2019s a data center running somewhere drawing significant power. Pew Research synthesizes the latest research on AI\u2019s energy footprint \u2014 a scale that most conversations about AI\u2019s promise quietly skip past."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Tempest",
+          "title": "Q3 2025 Destination Website Performance: Organic Softens, LLM Traffic Grows, Discovery Diversifies",
+          "url": "https://www.tempest.im/blog/q3-2025-destination-website-performance/",
+          "pitch": "Q3 2025 confirmed a pattern Q1 only suggested: LLM-driven traffic is growing while organic search softens across destination websites. Tempest\u2019s benchmark data is the clearest read available on where DMO web traffic is actually heading \u2014 and why."
+        },
+        {
+          "source_line1": "Madden Media",
+          "title": "AI Overviews on Google: How DMOs Can Adapt and Thrive in the New SEO Era",
+          "url": "https://maddenmedia.com/ai-overviews-on-google-how-dmos-can-adapt-and-thrive-in-the-new-seo-era/",
+          "pitch": "Google\u2019s AI Overviews are answering travel questions before users ever click a link. Madden Media walks through what that means for DMO content strategies, how to optimize for the new answer-first landscape, and what it actually takes to stay visible in the AI search layer."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "title": "Screen-Free Computational Thinking in the Elementary Grades",
+          "url": "https://www.edutopia.org/article/screen-free-computational-thinking/",
+          "pitch": "Computational thinking doesn\u2019t require a computer. This piece gathers physical, unplugged approaches to teaching decomposition, pattern recognition, and algorithmic thinking in elementary classrooms \u2014 and makes a quiet case that the thinking matters more than the tool."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Noema Magazine",
+          "source_line2": "Anil Seth",
+          "title": "The Mythology Of Conscious AI",
+          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+          "pitch": "Neuroscientist Anil Seth argues that most popular discourse about AI consciousness is built on mythologies \u2014 misunderstandings about what experience actually is and what it would take to have it. A philosophically rigorous correction that leaves the question genuinely open in the right way."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion\u2019s Roar",
+          "source_line2": "Thich Nhat Hanh",
+          "title": "The Four Layers of Consciousness",
+          "url": "https://www.lionsroar.com/the-four-layers-of-consciousness/",
+          "pitch": "Thich Nhat Hanh maps the four layers of consciousness in Buddhist teaching \u2014 from the store consciousness where all experience is recorded to the mind consciousness where deliberate thought happens. A framework that changes how you understand your own reactivity and stillness."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "title": "How \u2018nothing\u2019 has inspired art and science for millennia",
+          "url": "https://aeon.co/essays/how-nothing-has-inspired-art-and-science-for-millennia",
+          "pitch": "Nothing \u2014 the void, the vacuum, the empty set \u2014 has been one of the most generative concepts in human thought. This Aeon essay traces zero from the terror it provoked in ancient minds to the way modern physics makes nothing the most interesting substance there is."
+        }
+      ]
+    }
+  ]
+}
