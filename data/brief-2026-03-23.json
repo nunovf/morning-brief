@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-23",
+  "day_name": "Monday",
+  "display_date": "March 23, 2026",
+  "section_count": 6,
+  "item_count": 7,
+  "quote": "Technology is neither good nor bad; nor is it neutral.",
+  "quote_attr": "Melvin Kranzberg",
+  "through_line": "The week opens at the intersection of what we\u2019re building and what we choose to embed in it. Income data and LLM traffic numbers tell the material story \u2014 AI is reshaping the web\u2019s economics and its flows at the same time. But the human skills piece and the compassion piece ask something harder: are the systems we\u2019re building actually designed to reflect what we value? Scrollytelling is a quiet, practical answer to that question: yes, but only if we keep choosing.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Brookings",
+          "title": "AI\u2019s impact on income inequality in the U.S.",
+          "url": "https://www.brookings.edu/articles/ais-impact-on-income-inequality-in-the-us/",
+          "pitch": "A data-driven look at how AI is reshaping income distribution in the United States \u2014 not through dramatic job-elimination headlines, but through the quieter mechanisms of wage polarisation and occupational sorting. Brookings finds the effects are uneven in ways that should shape how we design, deploy, and tax AI systems. Essential grounding for anyone thinking seriously about AI\u2019s long game."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Search Engine",
+          "source_line2": "Land",
+          "title": "What 13 months of data reveals about LLM traffic growth and conversions",
+          "url": "https://searchengineland.com/what-13-months-of-data-reveals-about-llm-traffic-growth-and-conversions-470115",
+          "pitch": "Thirteen months of anonymised traffic data from a real web property reveals how LLM-driven referrals are actually growing \u2014 not in theory, but in numbers. The conversion story is complicated: LLM visitors are fewer but behave differently. Hard data, honestly interpreted, for anyone recalibrating their content strategy in 2025\u20132026."
+        },
+        {
+          "source_line1": "Denis",
+          "source_line2": "Bouquet",
+          "title": "What is Scrollytelling?",
+          "url": "https://www.denisbouquet.com/what-is-scrollytelling/",
+          "pitch": "A clear, well-illustrated primer on scrollytelling \u2014 the technique of using scroll position to drive narrative progression on a webpage. Less a tutorial than a thoughtful framing of when and why this format works, what it asks of the reader, and why it\u2019s one of the formats that genuinely can\u2019t be flattened into a PDF. A useful reference for anyone thinking about the web as a medium rather than a container."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "World Economic",
+          "source_line2": "Forum",
+          "title": "What are the human skills we need in the age of AI?",
+          "url": "https://www.weforum.org/stories/2026/01/ai-and-human-skills/",
+          "pitch": "Published in January 2026, this piece makes the case that the most valuable human capacities \u2014 adaptability, complex communication, ethical reasoning \u2014 are not being made obsolete by AI but are becoming more critical. Practical without being cheerful, it takes the question of what children actually need to develop seriously rather than gesturing at it."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Psychology",
+          "source_line2": "Today",
+          "title": "From Code to Compassion: Designing AI with Empathy",
+          "url": "https://www.psychologytoday.com/us/blog/code-conscience/202505/from-code-to-compassion-designing-ai-with-empathy",
+          "pitch": "Faisal Hoque argues that designing AI with empathy is not a soft add-on but an architectural decision \u2014 that how an AI system responds to human distress, confusion, or vulnerability should be built in from the start, not patched on later. A bridge between AI ethics and the care ethics that practitioners and teachers already know."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "title": "Liberating the Experience of Impermanence",
+          "url": "https://tricycle.org/article/liberating-the-experience-of-impermanence/",
+          "pitch": "This essay doesn\u2019t just describe impermanence as a Buddhist concept \u2014 it asks what it would actually mean to experience it as liberating rather than threatening. The distinction between intellectually accepting change and embodying it as freedom is precise and practitioner-grade. Not introductory, not academic."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta",
+          "source_line2": "Magazine",
+          "title": "How Smell Guides Our Inner World",
+          "url": "https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/",
+          "pitch": "New neuroscience research reveals that the olfactory system doesn\u2019t just detect scent \u2014 it plays a central role in spatial navigation, memory consolidation, and the texture of inner experience. A piece that quietly expands what we think a sense is for, and what it means that humans are losing it to environmental change."
+        }
+      ]
+    }
+  ]
+}

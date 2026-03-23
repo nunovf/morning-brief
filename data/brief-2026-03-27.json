@@ -1,0 +1,54 @@
+{
+  "date": "2026-03-27",
+  "day_name": "Friday",
+  "display_date": "March 27, 2026",
+  "section_count": 3,
+  "item_count": 3,
+  "quote": "In the beginner\u2019s mind there are many possibilities, but in the expert\u2019s mind there are few.",
+  "quote_attr": "Shunryu Suzuki",
+  "through_line": "Friday slows to a different tempo. The Aeon piece on AI doing science is not a warning but a quiet provocation: when a mind radically different from ours generates knowledge, we may not be able to verify it or even fully understand it. The Psyche piece on meditation and mountains asks for the same humility in a different register \u2014 that some territories require careful preparation, not just courage. Smithsonian\u2019s science stories give the week a wide-horizon close.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "When AIs do science, it will be strange and incomprehensible",
+          "url": "https://aeon.co/essays/when-ais-do-science-it-will-be-strange-and-incomprehensible",
+          "pitch": "The essay\u2019s argument is precise: if AI systems begin generating scientific knowledge autonomously, using methods and representations with no human-readable analogue, the verification process breaks down \u2014 not because the knowledge is wrong, but because we may have no way to confirm or understand it. A genuinely unsettling thought experiment about the epistemology of post-human science."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Psyche",
+          "source_line2": "Ideas",
+          "title": "Meditation is like mountaineering: approach it with care",
+          "url": "https://psyche.co/ideas/meditation-is-like-mountaineering-approach-it-with-care",
+          "pitch": "A piece that takes the risks of intensive meditation seriously \u2014 not as a reason to avoid the practice but as a call for the same careful preparation that any serious physical or psychological undertaking requires. The mountaineering analogy is apt without being reductive, and the piece is honest about the range of experiences meditation can produce."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Smithsonian",
+          "source_line2": "Magazine",
+          "title": "The Ten Most Significant Science Stories of 2025, From Medical Breakthroughs to an Interstellar Visitor",
+          "url": "https://www.smithsonianmag.com/science-nature/the-ten-most-significant-science-stories-of-2025-from-medical-breakthroughs-to-an-interstellar-visitor-180987905/",
+          "pitch": "Smithsonian\u2019s editors select the ten science stories that most significantly shaped 2025 \u2014 from medical breakthroughs to an interstellar visitor. Wide-ranging, accessible, and a reminder that the year contained more than its headlines suggested. A good Friday read."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-24",
+  "day_name": "Tuesday",
+  "display_date": "March 24, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "A society grows great when old men plant trees whose shade they know they shall never sit in.",
+  "quote_attr": "Greek proverb",
+  "through_line": "Tuesday asks what grows slowly enough to matter. A new study on AI and creativity surfaces the question of what generative capacity actually means when the output is fluent but the process has no interior. Nieman Lab shows how new storytelling dimensions are opening up on the web; The Conversation grounds it in what children actually need to develop. And the thousand-year-old tree arrives as the week\u2019s most patient image: some things are built not for this generation but for the one that hasn\u2019t arrived yet.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Science",
+          "source_line2": "Daily",
+          "title": "AI exposure affects human creativity, new research finds",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260315004355.htm",
+          "pitch": "Researchers found that sustained exposure to AI-generated creative work affected how humans subsequently approached their own creative tasks \u2014 not by making them less creative, but by subtly shifting what they valued and pursued. The finding complicates the \u2018AI as creative tool\u2019 narrative and raises questions about the longer-term cognitive effects of living in an AI-saturated creative environment."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The Digital",
+          "source_line2": "Bloom",
+          "title": "Gen AI Website Traffic Share: February 2026",
+          "url": "https://thedigitalbloom.com/learn/gen-ai-website-traffic-share-february-2026/",
+          "pitch": "The Digital Bloom\u2019s February 2026 report tracks generative AI\u2019s actual share of referral traffic across a sample of real websites \u2014 with numbers broken down by industry and device. For anyone building or advising on destination websites, this is the clearest current picture of how the traffic landscape is shifting. Recent, specific, and not hiding behind caveats."
+        },
+        {
+          "source_line1": "Nieman",
+          "source_line2": "Lab",
+          "title": "New dimensions for news storytelling",
+          "url": "https://www.niemanlab.org/2024/12/new-dimensions-for-news-storytelling/",
+          "pitch": "A piece from Nieman Lab asking what new storytelling dimensions are becoming available to journalists and web editors \u2014 from scroll-driven narrative to audio-visual hybrids to interfaces that respond to reader behaviour. Not a roundup of trends but a genuine argument about where the expressive possibilities of the web are opening up."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "The",
+          "source_line2": "Conversation",
+          "title": "Kids need soft skills in the age of AI. But what does this mean for schools?",
+          "url": "https://theconversation.com/kids-need-soft-skills-in-the-age-of-ai-but-what-does-this-mean-for-schools-261518",
+          "pitch": "Written for a general audience but grounded in educational research, this piece asks what \u2018soft skills\u2019 actually means when it becomes a policy recommendation \u2014 and whether schools know how to develop the ones that genuinely matter. The authors are honest about the difficulty of teaching adaptability and collaboration as if they were curriculum items."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Mindfulness",
+          "source_line2": "Bell",
+          "title": "Embracing Our Nervous Systems with Plum Village Practice",
+          "url": "https://www.parallax.org/mindfulnessbell/article/embracing-our-nervous-systems-with-plum-village-practice/",
+          "pitch": "A dharma piece from Thich Nhat Hanh\u2019s Plum Village journal on the nervous system as a practice space rather than just a physiological system. The framing is practical: how do we actually work with the body\u2019s alarm systems during difficult moments? Precise and grounded, not motivational."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Noema",
+          "title": "How To Build A Thousand-Year-Old Tree",
+          "url": "https://www.noemamag.com/how-to-build-a-thousand-year-old-tree/",
+          "pitch": "A meditation on what it means to tend something that won\u2019t reach its full form in your lifetime \u2014 using the ecology and culture of ancient trees as a lens on long-term thinking, care, and what we choose to pass on. The science and cultural history of how old trees actually grow carries the weight. One of those pieces that stays with you."
+        }
+      ]
+    }
+  ]
+}

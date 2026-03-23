@@ -1,0 +1,26 @@
+{
+  "date": "2026-03-28",
+  "day_name": "Saturday",
+  "display_date": "March 28, 2026",
+  "section_count": 1,
+  "item_count": 1,
+  "quote": "The universe is under no obligation to make sense to you.",
+  "quote_attr": "Neil deGrasse Tyson",
+  "through_line": "Saturday doesn\u2019t argue. Eleven scientific discoveries from 2025 that are strange enough to make you stop \u2014 not because they\u2019re important but because they\u2019re genuinely weird. The week has been full of questions about what we\u2019re building and why. Today\u2019s reading is about what reality was up to while we were busy asking.",
+  "sections": [
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "BBC",
+          "source_line2": "Science Focus",
+          "title": "The 11 strangest scientific discoveries of 2025",
+          "url": "https://www.sciencefocus.com/news/weirdest-science-2025",
+          "pitch": "BBC Science Focus rounds up the year\u2019s most genuinely strange findings \u2014 the discoveries that didn\u2019t fit neatly into a narrative about progress or utility, but that made scientists and editors stop and think. Eleven items, widely varied in domain, uniformly interesting. Saturday reading."
+        }
+      ]
+    }
+  ]
+}

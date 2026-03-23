@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-26",
+  "day_name": "Thursday",
+  "display_date": "March 26, 2026",
+  "section_count": 4,
+  "item_count": 4,
+  "quote": "The body is not an instrument of the mind; it is the living subject.",
+  "quote_attr": "Maurice Merleau-Ponty",
+  "through_line": "Thursday goes spare and wide. The Aeon piece on embodiment is the week\u2019s most quietly radical argument \u2014 that being human isn\u2019t primarily about cognition but about the whole animal: the gut, the skin, the proprioceptive sense of where you are in space. Impermanence arrives as a companion, asking what it means to see this clearly without despair. The year\u2019s mathematics and the search data run alongside, not competing with the philosophical weight but holding a different kind of clarity.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "Essay",
+          "title": "To be fully human, we must also be fully embodied animal",
+          "url": "https://aeon.co/essays/to-be-fully-human-we-must-also-be-fully-embodied-animal",
+          "pitch": "A philosophical essay arguing that the reduction of human identity to cognitive capacity \u2014 the version of personhood that AI development implicitly promotes \u2014 leaves out most of what it actually means to be alive. Drawing on phenomenology, evolutionary biology, and embodied cognition, the author makes the case that our animality is not incidental but constitutive. One of the week\u2019s harder pieces, and worth it."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Superlines",
+          "title": "AI Search Statistics 2026",
+          "url": "https://www.superlines.io/articles/ai-search-statistics/",
+          "pitch": "A current aggregation of AI search adoption statistics for 2026 \u2014 market share, growth rates, query volumes, and demographic patterns drawn from multiple data sources. Not a think piece, but a useful reference document for anyone who needs numbers to anchor their thinking about where search is actually going."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Still Water",
+          "title": "The Insight of Impermanence",
+          "url": "https://www.stillwatermpc.org/dharma-topics/the-insight-of-impermanence/",
+          "pitch": "A short dharma piece that distinguishes between knowing intellectually that everything changes and actually perceiving impermanence as it happens \u2014 and asks what shifts when you can do the latter. The writing is careful without being academic; the kind of piece that rewards returning to over time."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta",
+          "source_line2": "Magazine",
+          "title": "The Year in Mathematics",
+          "url": "https://www.quantamagazine.org/the-year-in-mathematics-20251218/",
+          "pitch": "Quanta\u2019s annual mathematics retrospective covers the year\u2019s most significant results across number theory, topology, probability, and beyond. What makes it worth reading beyond interest in the problems is the underlying story of how mathematical insight actually moves \u2014 in fits and starts, across disciplines, through unexpected connections."
+        }
+      ]
+    }
+  ]
+}

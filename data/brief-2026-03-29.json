@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-29",
+  "day_name": "Sunday",
+  "display_date": "March 29, 2026",
+  "section_count": 2,
+  "item_count": 2,
+  "quote": "Education is not the filling of a pail but the lighting of a fire.",
+  "quote_attr": "W.B. Yeats",
+  "through_line": "The week ends where it began \u2014 with the question of what we\u2019re building and what we\u2019re passing on. The education studies offer a year\u2019s accumulated evidence about how learning actually works: not as policy but as finding, some of it surprising, some confirming what good teachers already knew. The scientific discoveries that could lead to new inventions are a companion piece in a different key: wonder as prologue to possibility.",
+  "sections": [
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "title": "The 10 Most Significant Education Studies of 2025",
+          "url": "https://www.edutopia.org/visual-essay/the-10-most-significant-education-studies-of-2025",
+          "pitch": "Edutopia\u2019s annual roundup highlights the ten studies that most shifted how researchers and practitioners think about learning in 2025 \u2014 covering memory, motivation, classroom design, social dynamics, and more. Well-curated, accessible, and broad enough that at least half the findings will surprise even well-read educators."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Smithsonian",
+          "source_line2": "Magazine",
+          "title": "Eight Fascinating Scientific Discoveries From 2025 That Could Lead to New Inventions",
+          "url": "https://www.smithsonianmag.com/innovation/eight-fascinating-scientific-discoveries-from-2025-that-could-lead-to-new-inventions-180987916/",
+          "pitch": "Eight discoveries from 2025 \u2014 spanning materials science, biology, and physics \u2014 that didn\u2019t just expand knowledge but opened practical pathways: things that could, with the right development, become genuinely useful. A Sunday-sized piece that balances wonder with possibility."
+        }
+      ]
+    }
+  ]
+}

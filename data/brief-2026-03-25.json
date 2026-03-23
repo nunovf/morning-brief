@@ -1,0 +1,87 @@
+{
+  "date": "2026-03-25",
+  "day_name": "Wednesday",
+  "display_date": "March 25, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "No significant learning occurs without a significant relationship.",
+  "quote_attr": "James Comer",
+  "through_line": "The midweek brief is about proximity \u2014 how close AI is getting to the spaces we thought were distinctly human: companionship, education, emotional attunement. The Ada Lovelace Institute puts concrete shape to what AI companions are doing to people who are lonely or vulnerable. The Issues piece asks whether K\u201312 education has the conceptual vocabulary to respond. Noema\u2019s companion piece argues there is a path to AI that embeds care rather than just compliance. Search and discovery don\u2019t disappear in this picture, but they look different from the inside.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Ada Lovelace",
+          "source_line2": "Institute",
+          "title": "AI companions: what are the risks and opportunities?",
+          "url": "https://www.adalovelaceinstitute.org/blog/ai-companions/",
+          "pitch": "The Ada Lovelace Institute surveys the emerging landscape of AI companion apps \u2014 the tools people use to manage loneliness, mental health, and emotional connection \u2014 and asks what we actually know about their effects. The risks are real and under-researched; the opportunities are also real and often dismissed. A balanced treatment of one of the quieter but more significant social experiments currently underway."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Backlinko",
+          "title": "LLM Visibility: What It Is and How to Build It",
+          "url": "https://backlinko.com/llm-visibility",
+          "pitch": "Backlinko\u2019s guide to LLM visibility makes the case that being cited by AI language models is a distinct challenge from traditional SEO \u2014 one that requires understanding how models are trained and updated, not just how search algorithms rank pages. Practically useful for anyone managing web presence in an environment where ChatGPT and Perplexity are becoming entry points."
+        },
+        {
+          "source_line1": "Think",
+          "source_line2": "Digital",
+          "title": "AI Search and Destination Discovery: What\u2019s Changing",
+          "url": "https://www.thinkdigital.travel/opinion/ai-search-and-destination-discovery-whats-changing",
+          "pitch": "Think Digital Travel and Tourism examines specifically how AI search is affecting the way travellers discover destinations \u2014 which intermediaries are gaining, which are losing, and what it means for a DMO\u2019s content strategy when the old model of search ranking no longer applies. Timely, sector-specific, and grounded in current evidence."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Issues in",
+          "source_line2": "S&T",
+          "title": "K\u201312 Education in the Age of AI",
+          "url": "https://issues.org/k-12-education-ai-shuchi-grover/",
+          "pitch": "Shuchi Grover writes in Issues in Science and Technology that the conversation about AI in K\u201312 education has been happening mostly without a clear picture of what children actually need to learn about AI \u2014 not just to use it, but to understand it. Sharp on the gap between policy aspiration and curriculum reality, with concrete directions for closing it."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Noema",
+          "title": "Human-Compatible AI",
+          "url": "https://www.noemamag.com/human-compatible-ai/",
+          "pitch": "A philosophical piece arguing that the goal of AI alignment should be expanded beyond safety and accuracy to include something like care \u2014 that human-compatible AI is not just AI that doesn\u2019t harm us, but AI oriented toward human flourishing in a richer sense. Less utopian than it sounds; the argument is grounded in the limits of current alignment frameworks."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also\u2026",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Science",
+          "source_line2": "News",
+          "title": "The scientific discoveries that brought us joy in 2025",
+          "url": "https://www.sciencenews.org/article/scientific-discoveries-joy-2025",
+          "pitch": "Science News\u2019s end-of-year collection of discoveries that brought genuine delight \u2014 not the biggest breakthroughs or most consequential findings, but the ones that made researchers stop and feel wonder. A midweek antidote to the density of the other pieces, and a reminder that science is also a practice of astonishment."
+        }
+      ]
+    }
+  ]
+}
