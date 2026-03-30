@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-01",
+  "day_name": "Wednesday",
+  "display_date": "April 1, 2026",
+  "section_count": 6,
+  "item_count": 7,
+  "quote": "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.",
+  "quote_attr": "Richard Feynman",
+  "through_line": "Today’s thread is emergence — the way rich, surprising outcomes arise from simple starting points. A law firm abandons a bloated CMS and builds something faster and freer using minimal components. Children’s creativity unlocks through structured play rather than direct instruction. Self-organizing systems in nature produce staggering complexity from local rules and no blueprint. And music, it turns out, doesn’t just move through your brain — it reorganizes it in real time. The less you control, the more can emerge.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "UN",
+          "source_line2": "News",
+          "title": "Artists face steep income decline due to AI, UNESCO finds",
+          "url": "https://news.un.org/en/story/2026/02/1166989",
+          "pitch": "UNESCO data shows music creators facing a 24% revenue decline and audiovisual workers a 21% drop as AI-generated content displaces human creative work in commercial markets. Beyond the statistics, the piece surfaces a subtler concern: the erosion of the economic base that makes full-time creative practice possible at all."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Bourne",
+          "source_line2": "Law",
+          "title": "Why We Chose Astro Over WordPress for Our Law Firm Website",
+          "url": "https://www.bourne.law/blog/why-we-chose-astro-over-wordpress/",
+          "pitch": "A law firm, not a tech startup, made the decision to rebuild on Astro — and documented exactly why. Sub-second load times, zero maintenance overhead, and a developer experience that didn’t require a plugin ecosystem to manage. The non-technical framing makes the trade-offs unusually legible."
+        },
+        {
+          "source_line1": "Figma",
+          "source_line2": "",
+          "title": "Top Web Design Trends for 2026",
+          "url": "https://www.figma.com/resource-library/web-design-trends/",
+          "pitch": "Figma’s annual design trends report identifies the visual and interaction language emerging across the web in 2026 — from the return of depth and dimensionality to generative UI that restructures itself around user intent. Less a list of things to copy, more a read on where collective sensibility is moving."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "The Power of Play-Based Learning in preschool and elementary school",
+          "url": "https://www.edutopia.org/article/young-kids-power-play-based-learning/",
+          "pitch": "A practitioner-focused look at what the research on play-based learning actually shows — and how to design classroom conditions where structured play produces genuine cognitive gains. The argument isn’t that play is fun (everyone knows that); it’s that play is how children’s executive function, memory, and divergent thinking actually develop."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "npj",
+          "source_line2": "Complexity",
+          "title": "Self-organizing systems: what, how, and why?",
+          "url": "https://www.nature.com/articles/s44260-025-00031-5",
+          "pitch": "A rich survey of self-organization across physics, chemistry, biology, and social systems — examining not just how complexity emerges from simple local interactions but why it does, and what that implies for how we understand causation, purpose, and intelligence. Published in Nature’s open-access complexity journal, written for curious readers rather than specialists."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Scott Mays",
+          "source_line2": "",
+          "title": "noticing what it feels like to notice",
+          "url": "https://www.smays.com/2025/08/awareness-essay/",
+          "pitch": "A short, careful essay about the recursive quality of awareness — what happens when you try to turn attention back on itself, and what that reveals about the nature of noticing. Quiet, precise, and written from genuine practice rather than theory."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also…",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "UConn",
+          "source_line2": "Today",
+          "title": "This Is Your Brain On Music: Groundbreaking UConn-led Study Shows How the Brain Keeps the Beat",
+          "url": "https://today.uconn.edu/2025/05/this-is-your-brain-on-music-groundbreaking-uconn-led-study-shows-how-the-brain-keeps-the-beat/",
+          "pitch": "A new study using cutting-edge imaging reveals exactly how the brain locks onto musical rhythm — and finds that the motor planning networks activate even when you’re sitting completely still. What the brain does with a beat turns out to be far more physical, and far more active, than ‘listening’ implies."
+        }
+      ]
+    }
+  ]
+}

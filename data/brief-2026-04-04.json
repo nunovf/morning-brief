@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-04",
+  "day_name": "Saturday",
+  "display_date": "April 4, 2026",
+  "section_count": 3,
+  "item_count": 3,
+  "quote": "The map is not the territory.",
+  "quote_attr": "Alfred Korzybski",
+  "through_line": "A quieter brief today — three pieces that circle the same subtle idea: that representation is never neutral. A content system maps information onto structure, and the map constrains what you can say and how you can say it. Mindfulness, examined across Buddhist tradition and Western psychology, means something subtly different in each — the model shapes the practice. And a cartographer at Yale shows that drawing a map is always a political act. We are always already inside someone’s model of the world.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Hygraph",
+          "source_line2": "Blog",
+          "title": "10 best CMSs for Next.js in 2026",
+          "url": "https://hygraph.com/blog/nextjs-cms",
+          "pitch": "As the modern stack matures, the CMS choice increasingly determines not just editorial workflow but API flexibility, content modelling depth, and long-term vendor lock-in risk. This comparison covers the leading options with the kind of architectural honesty that most vendor-adjacent content avoids."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Barre Center",
+          "source_line2": "for Buddhist Studies",
+          "title": "Mindfulness in Buddhism & Psychology",
+          "url": "https://www.buddhistinquiry.org/article/mindfulness-in-buddhism-psychology/",
+          "pitch": "A careful examination of how ‘mindfulness’ diverges in meaning between its Buddhist origins — where it involves memory, ethics, and a specific orientation toward liberation — and its Western psychological application, where it tends toward bare attention and stress reduction. Understanding the difference is not academic; it changes the practice."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also…",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Yale",
+          "source_line2": "News",
+          "title": "Radical Cartography: Shaping new narratives through maps",
+          "url": "https://news.yale.edu/2025/12/10/radical-cartography-shaping-new-narratives-through-maps",
+          "pitch": "A Yale scholar’s work on ‘radical cartography’ — mapmaking that refuses the pretence of objectivity, instead foregrounding the overlaps, ambiguities, and political entanglements that conventional maps flatten out. Maps as arguments rather than descriptions. A short, surprisingly rich read."
+        }
+      ]
+    }
+  ]
+}

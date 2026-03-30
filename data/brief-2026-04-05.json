@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-05",
+  "day_name": "Sunday",
+  "display_date": "April 5, 2026",
+  "section_count": 3,
+  "item_count": 3,
+  "quote": "Every act of creation is first an act of destruction.",
+  "quote_attr": "Pablo Picasso",
+  "through_line": "The week closes where it opened — on the question of what survives when systems change. UNCTAD maps the structural displacement of human artists by AI, and surfaces the harder question beneath the income statistics: what human creative work actually is, and why it matters that it be made by humans. A practitioner’s account of leaving WordPress for the JAMstack is quietly about the same thing: stripping away accumulated weight to find what was essential. And archaeology, as always, keeps finding evidence that the past is less gone than we thought.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "UNCTAD",
+          "source_line2": "",
+          "title": "Replacement of human artists by AI systems in creative industries",
+          "url": "https://unctad.org/news/replacement-human-artists-ai-systems-creative-industries",
+          "pitch": "UNCTAD’s structural analysis of how AI is displacing human creative labour across music, visual art, film, and writing — not just as a future risk but as a present reality with measurable economic effects. The piece goes beyond the headline figures to examine which types of creative work are most exposed, and why the trajectory is likely to accelerate."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Unfolding",
+          "source_line2": ".io",
+          "title": "Why I Switched from WordPress to JamStack for Better Performance and SEO",
+          "url": "https://unfolding.io/blog/why-i-switched-from-wordpress-to-jamstack-for-better-performance-and-seo/",
+          "pitch": "A developer’s personal migration account that goes beyond performance benchmarks — examining how the architectural shift changed the way they thought about building for the web, and what they wish they’d known before they started. The honest account of what you give up is as useful as the account of what you gain."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also…",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Archaeology",
+          "source_line2": "Magazine",
+          "title": "Top 10 Discoveries of 2025",
+          "url": "https://archaeology.org/collection/top-10-discoveries-of-2025/",
+          "pitch": "Archaeology Magazine’s annual roundup of the year’s most significant finds — including the first pharaonic tomb discovered in the Valley of the Kings since Tutankhamun’s, a Maya founding king’s burial chamber, and Phoenician DNA that rewrites assumptions about the ancient Mediterranean. A Sunday gift: evidence that the world is still full of things we don’t know."
+        }
+      ]
+    }
+  ]
+}

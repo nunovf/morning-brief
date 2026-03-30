@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-30",
+  "day_name": "Monday",
+  "display_date": "March 30, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.",
+  "quote_attr": "Eric Hoffer",
+  "through_line": "The week opens on a quiet anxiety that runs through very different domains: what happens to tools, trades, and identity when the systems we built around are quietly superseded? The AI precariat aren't just losing jobs — they're losing the identity woven into those jobs. Developers leaving WordPress aren't just switching platforms — they're rethinking what a website is built from. And educators aren't just updating curricula — they're asking which assumptions about learning to keep at all.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "World Economic",
+          "source_line2": "Forum",
+          "title": "The overlooked global risk of the AI precariat",
+          "url": "https://www.weforum.org/stories/2025/08/the-overlooked-global-risk-of-the-ai-precariat/",
+          "pitch": "The economic disruption of AI gets plenty of coverage; the identity disruption gets almost none. This piece names a specific risk being underestimated in global risk planning: the psychological cost of losing a profession — the grief, the civic disengagement, the erosion of self-concept. It argues the challenge isn't just retraining people for new jobs, but helping them through the loss of the old ones."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "sahandsh",
+          "source_line2": ".com",
+          "title": "Ditching WordPress for Astro",
+          "url": "https://sahandsh.com/blog/ditching-wordpress-for-astro/",
+          "pitch": "A developer's first-person account of migrating away from WordPress to Astro — the frustrations that pushed the decision, what the transition actually felt like, and what they found on the other side. The kind of practitioner account that carries more weight than any comparison post."
+        },
+        {
+          "source_line1": "Pagepro",
+          "source_line2": "Blog",
+          "title": "Astro vs Next.js: Which Framework Should You Use in 2026?",
+          "url": "https://pagepro.co/blog/astro-nextjs/",
+          "pitch": "A considered comparison of the two leading modern frameworks for content-driven sites — not a feature list but an honest breakdown of where each excels, who each is for, and what trade-offs get obscured in the hype. Useful for anyone standing at this particular crossroads."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Case Western",
+          "source_line2": "xLab",
+          "title": "Beyond Coding: Why K-12 Education Must Expand Its Focus in the Age of AI",
+          "url": "https://case.edu/weatherhead/xlab/about/news/beyond-coding-why-k-12-education-must-expand-its-focus-age-ai",
+          "pitch": "An argument that teaching coding in isolation misses the point — that what the AI era actually demands is a broader shift toward systems thinking, ethical reasoning, and collaborative problem-solving. Written by practitioners who have thought seriously about what education is actually for, and what AI changes about the answer."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Barre Center",
+          "source_line2": "for Buddhist Studies",
+          "title": "Mind Changing Brain Changing Mind: The Dharma and Neuroscience",
+          "url": "https://www.buddhistinquiry.org/article/mind-changing-brain-changing-mind-the-dharma-and-neuroscience/",
+          "pitch": "A serious exploration of the dialogue between contemplative practice and neuroscience — where they genuinely converge, where the language gets slippery, and what each tradition misunderstands about the other. The Barre Center's characteristic voice: rigorous, non-reductive, practitioner-oriented."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also…",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Genetic Literacy",
+          "source_line2": "Project",
+          "title": "The octopus within us: Cephalopods and humans share genes that began shaping intelligence dating back 518 million years",
+          "url": "https://geneticliteracyproject.org/2025/05/01/the-octopus-within-us-cephalopods-and-humans-share-genes-that-began-shaping-intelligence-dating-back-518-million-years/",
+          "pitch": "New genetic research reveals that the molecular toolkit underlying intelligence in octopuses and humans overlaps far more than expected — tracing back over half a billion years to a common ancestor. What it suggests about the deep evolutionary roots of complex cognition is quietly startling."
+        }
+      ]
+    }
+  ]
+}

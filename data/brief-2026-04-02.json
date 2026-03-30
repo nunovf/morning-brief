@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-02",
+  "day_name": "Thursday",
+  "display_date": "April 2, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "All of humanity’s problems stem from man’s inability to sit quietly in a room alone.",
+  "quote_attr": "Blaise Pascal",
+  "through_line": "What runs through Thursday is patience — the discipline of looking past the immediate signal. The AI labour debate, it turns out, is still in the first inning: aggregate data is inconclusive, and the real effects are uneven, slow-moving, and shaped by institutions more than algorithms. Soft skills quietly outperformed technical skills in 2025 — not dramatically, but measurably. Non-dual awareness is beginning to yield to scientific study, not despite its subtlety but because of it. And interoception — the body’s hidden sixth sense — is drawing serious research investment precisely because we still barely understand it. Careful attention, it turns out, is itself a research method.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "PIIE",
+          "source_line2": "",
+          "title": "Research on AI and the labor market is still in the first inning",
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/research-ai-and-labor-market-still-first-inning",
+          "pitch": "The Peterson Institute for International Economics makes a careful case that the empirical picture of AI’s labour impact remains genuinely murky — not because nothing is happening, but because the observation windows are too short and confounding factors too dense to isolate AI’s contribution. A useful corrective to both the catastrophists and the reassurers."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Zebedee",
+          "source_line2": "Creations",
+          "title": "WordPress in 2026: traditional, headless, static or hybrid?",
+          "url": "https://www.zebedeecreations.com/blog/wordpress-in-2026-traditional-headless-static-or-hybrid/",
+          "pitch": "For practitioners not ready to fully abandon WordPress but feeling the pull of modern architectures, this piece maps the middle ground: what headless WordPress actually looks like in practice, where the hybrid approach makes sense, and which path fits which kind of project. Practical and non-dogmatic."
+        },
+        {
+          "source_line1": "Talent500",
+          "source_line2": "Blog",
+          "title": "Frontend Development Trends 2026: AI, Edge & TypeScript",
+          "url": "https://talent500.com/blog/frontend-development-trends-2026/",
+          "pitch": "A read on where the frontend stack is settling in 2026 — the dominance of TypeScript, the maturation of edge rendering, and AI’s growing role as a development co-pilot rather than a replacement. Less a trends list and more an attempt to identify which shifts are structural and which are noise."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Digital",
+          "source_line2": "Learning",
+          "title": "The 2025 Education Shift: Why Soft Skills Outperformed Technical Skills This Year",
+          "url": "https://digitallearning.eletsonline.com/2025/11/the-2025-education-shift-why-soft-skills-outperformed-technical-skills-this-year/",
+          "pitch": "For the first time, communication, leadership, and collaboration topped LinkedIn’s hardest-to-hire-for skills list — surpassing technical proficiencies. This piece examines what drove the shift and what it means for educators designing curricula that will actually serve students in the world they’re entering."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Glia",
+          "source_line2": ".ca",
+          "title": "Non-Dual Awareness & Science",
+          "url": "https://glia.ca/2025/nondual/",
+          "pitch": "A substantive look at how nondual awareness — the dissolution of subject/object duality at the heart of Advaita Vedanta and Dzogchen — is beginning to be studied scientifically, including its neural correlates and its relationship to wellbeing. Engages the epistemological complications honestly rather than glossing them."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also…",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Science",
+          "source_line2": "Daily",
+          "title": "Scientists launch $14.2 million project to map the body’s ‘hidden sixth sense’",
+          "url": "https://www.sciencedaily.com/releases/2025/10/251025084616.htm",
+          "pitch": "Interoception — the brain’s ongoing read of signals from inside the body — shapes emotion, decision-making, and sense of self in ways that are only beginning to be understood. A major new research initiative aims to create the first comprehensive atlas of the body-brain signalling system, treating it as the frontier of neuroscience it arguably already is."
+        }
+      ]
+    }
+  ]
+}

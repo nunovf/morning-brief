@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-31",
+  "day_name": "Tuesday",
+  "display_date": "March 31, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "Nothing is built on stone; all is built on sand, but we must build as if the sand were stone.",
+  "quote_attr": "Jorge Luis Borges",
+  "through_line": "Tuesday's brief finds a shared preoccupation across unlikely domains: the hidden architecture beneath what we see. A web rebuild that reveals how much the stack was holding things back. A headless CMS comparison that exposes how coupling content to presentation constrains both. A theory proposing consciousness as the foundational layer of reality. And Buddhist psychology mapping the micro-structure of the mind centuries before neuroscience had the tools to look. Different vocabularies, same insight: what you build on determines what you can build.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Kernelics",
+          "source_line2": "Blog",
+          "title": "From WordPress to Jamstack: A Modern Website Rebuild Story",
+          "url": "https://kernelics.com/blog/wordpress-vs-jamstack-for-modern-websites",
+          "pitch": "A grounded, real-world account of migrating a client site from WordPress to the JAMstack — what motivated the move, what the build process looked like, and what the measurable outcomes were. The kind of case study that grounds the abstract framework debate in actual decisions and trade-offs."
+        },
+        {
+          "source_line1": "Digital",
+          "source_line2": "Applied",
+          "title": "Headless CMS 2026: Sanity vs Contentful vs Payload",
+          "url": "https://www.digitalapplied.com/blog/headless-cms-2026-sanity-contentful-payload-comparison",
+          "pitch": "The headless CMS landscape has quietly matured — and the choice between the leading platforms now hinges on specific editorial workflows, team structures, and architectural preferences rather than raw capability. A clear-eyed comparison of where Sanity, Contentful, and Payload each genuinely lead."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "UC San Diego",
+          "source_line2": "Today",
+          "title": "Transforming Computer Science Education in the Age of AI",
+          "url": "https://today.ucsd.edu/story/transforming-computer-science-education-in-the-age-of-ai",
+          "pitch": "UCSD researchers examine how AI tools are reshaping what computer science education should actually teach — and argue that the answer is not less rigor but different rigor: less emphasis on syntax and more on systems thinking, problem decomposition, and computational reasoning that holds value even when the code writes itself."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Phys",
+          "source_line2": ".org",
+          "title": "Consciousness as the foundation: New theory addresses nature of reality",
+          "url": "https://phys.org/news/2025-11-consciousness-foundation-theory-nature-reality.html",
+          "pitch": "A new theoretical framework proposes that consciousness isn't a byproduct of physical processes but the foundational layer from which physical reality emerges — a position that cuts against both mainstream neuroscience and conventional physics. The piece engages seriously with the philosophical implications rather than simply announcing the claim."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Buddhist",
+          "source_line2": "door",
+          "title": "Neuroscience Meets Abhidharma",
+          "url": "https://www.buddhistdoor.net/features/neuroscience-meets-abhidharma/",
+          "pitch": "The Abhidharma tradition maps mental processes into discrete moments of cognition with a granularity that modern neuroscience is only now beginning to match. This piece explores the genuine convergences — and the places where the frameworks talk past each other — with care for both traditions."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also…",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Science",
+          "source_line2": "Alert",
+          "title": "Scientists Complete Schrödinger's Color Theory Over 100 Years Later",
+          "url": "https://www.sciencealert.com/scientists-complete-schrodingers-color-theory-over-100-years-later",
+          "pitch": "Erwin Schrödinger built a geometric theory of color perception in the 1920s but left a critical piece — the neutral axis from black to white — mathematically undefined. A team at Los Alamos has now completed it, using non-Riemannian geometry to account for perceptual effects that straight lines couldn't capture. A hundred-year-old open problem, closed."
+        }
+      ]
+    }
+  ]
+}

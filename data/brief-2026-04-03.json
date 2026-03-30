@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-03",
+  "day_name": "Friday",
+  "display_date": "April 3, 2026",
+  "section_count": 6,
+  "item_count": 6,
+  "quote": "Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.",
+  "quote_attr": "Hal Borland",
+  "through_line": "Friday slows down and asks what actually lasts. Computational thinking is one of those rare skills that holds its value across disruptions — not because it teaches coding but because it teaches how to break problems down. AI’s labour impact, one careful analysis argues, will ultimately be shaped more by institutions than by the technology itself. Creativity in the brain, examined closely, turns out not to be a spark but a slow reconfiguration of neural networks — more like growing a root system than switching on a light. And the trees, meanwhile, have been running their own distributed intelligence network for millions of years.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Truth on the",
+          "source_line2": "Market",
+          "title": "AI’s Labor Impact Will Emerge from the Institutions that Govern Its Use",
+          "url": "https://truthonthemarket.com/2025/12/08/ais-labor-impact-will-emerge-from-the-institutions-that-govern-its-use/",
+          "pitch": "An argument that the long-term labour effects of AI will be determined less by what the technology can do and more by how firms deploy it, how workers are trained to use it, and how policymakers structure the environment around adoption. The technological determinism in most AI-jobs discourse, the piece argues, is analytically wrong and politically convenient."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The BCMS",
+          "source_line2": "Blog",
+          "title": "Top 10 NextJS alternatives in 2026 that are quietly outperforming it",
+          "url": "https://thebcms.com/blog/nextjs-alternatives",
+          "pitch": "Next.js remains dominant, but the ecosystem around it has matured to the point where several alternatives now outperform it in specific contexts — Astro for content-heavy sites, Nuxt for Vue teams, Remix for form-heavy applications. A useful map of where the real differentiation now lies."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing Mindful Thinkers",
+      "articles": [
+        {
+          "source_line1": "Siegel Family",
+          "source_line2": "Endowment",
+          "title": "Computational Thinking: The Durable Skill We’re Overlooking?",
+          "url": "https://www.siegelendowment.org/insights/computational-thinking-the-durable-skill-were-overlooking/",
+          "pitch": "Over 90% of teachers in a recent survey reported that computational thinking improved outcomes not just in computer science but across core subjects. This piece makes the case that CT — the ability to decompose problems, recognize patterns, and think algorithmically — is one of the few skills that holds up across the full range of AI-era disruptions."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Psychology",
+          "source_line2": "Today",
+          "title": "New Research on the Cognitive Science of Creativity",
+          "url": "https://www.psychologytoday.com/us/blog/play-your-way-sane/202512/new-research-on-the-cognitive-science-of-creativity",
+          "pitch": "A synthesis of recent findings on what actually happens in the brain during creative thought — the interplay between the default mode network (spontaneous ideation) and the executive control network (selection and refinement), and why genuine creativity requires both. The research complicates the romantic idea of the spontaneous creative spark."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Inquiring",
+          "source_line2": "Mind",
+          "title": "Your Brain on Dharma: The New Neuroscience & the Path of Awakening",
+          "url": "https://inquiringmind.com/article/2401_13_hanson-mendius_brain-on-dharma/",
+          "pitch": "Rick Hanson and Richard Mendius examine the neurological changes associated with sustained contemplative practice — not as a validation exercise but as a genuine exploration of what the brain science adds to what practitioners already know through direct experience. Grounded in both clinical neuroscience and serious practice."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also…",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Science",
+          "source_line2": "Times",
+          "title": "Tree Communication Explained: How Underground Fungi Networks Connect Entire Forests",
+          "url": "https://www.sciencetimes.com/articles/60932/20251215/tree-communication-explained-how-underground-fungi-networks-connect-entire-forests.htm",
+          "pitch": "The latest research on mycorrhizal networks — the underground fungal web that links trees across a forest — including a 2025 Nature study using an imaging robot to track carbon and nutrient flows in real time. The piece also addresses the scientific caveats around the more dramatic claims, which makes the genuine findings land harder."
+        }
+      ]
+    }
+  ]
+}
