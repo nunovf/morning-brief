@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-09",
+  "day_name": "Thursday",
+  "display_date": "April 9, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "It is not the mountain we conquer but ourselves.",
+  "quote_attr": "— Edmund Hillary",
+  "through_line": "Two kinds of failure show up in today's reading: the quick visible kind — the startup that couldn't find an audience, the local newsroom that missed its window — and the slower, harder-to-see kind: the gap between the person you know you could be and the one who actually shows up. Embodied knowing, the patience of evolution, and the uncomfortable truths indie founders don't post about all point the same direction: persistence that lives in the body, not just the mind.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Poynter",
+          "source_line2": "",
+          "title": "AI is giving local news a second chance. Will it be ready this time?",
+          "url": "https://www.poynter.org/business-work/2025/ai-impact-on-local-newsrooms/",
+          "pitch": "A different angle on AI and journalism: not extinction but potential revival. Local news organizations that failed to adapt to the web era may be better positioned for the AI era — smaller footprint, deeper community knowledge, less legacy infrastructure. Poynter looks at whether that second chance is real and what it would require."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Indie Hackers",
+          "source_line2": "",
+          "title": "Why Indie Founders Fail: The Uncomfortable Truths Beyond 'Build in Public'",
+          "url": "https://www.indiehackers.com/post/why-indie-founders-fail-the-uncomfortable-truths-beyond-build-in-public-b51fd6509b",
+          "pitch": "The post that doesn't get shared as often as the wins. An honest accounting of what actually trips indie founders up — not the strategic mistakes, but the identity-level ones: the inability to tolerate long silence, the self-deception that ships instead of growth. A necessary counterweight to this week's shipper-as-hero narrative."
+        },
+        {
+          "source_line1": "Elementor",
+          "source_line2": "",
+          "title": "Web Design Trends to Expect in 2026",
+          "url": "https://elementor.com/blog/web-design-trends-2026/",
+          "pitch": "A well-rounded survey of what's actually emerging in web design this year — not trend-chasing for its own sake, but a useful map of where visual and interaction language is moving. Relevant for any practitioner trying to calibrate their design intuitions against what's becoming the new baseline."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Somashift",
+          "source_line2": "",
+          "title": "Knowing vs. Embodied Knowing: The Bridge to True Transformation",
+          "url": "https://www.somashift.org/post/knowing-vs-embodied-knowing-the-bridge-to-true-transformation",
+          "pitch": "The distinction this week's Deep section has been building toward: the difference between intellectual knowledge and the kind of knowing that actually reshapes behavior and lived experience. The piece makes the case for somatic or embodied knowledge as the missing link in most self-development approaches — a useful frame whether you're thinking about it therapeutically, pedagogically, or contemplatively."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "The Marginalian",
+          "source_line2": "",
+          "title": "How Evolution Invented Faith: The Patience of the Penguin and the Art of Withstanding Abandonment",
+          "url": "https://www.themarginalian.org/2024/08/17/penguin/",
+          "pitch": "Maria Popova at her best: using the emperor penguin's extraordinary patience — standing through Antarctic winter for months, sustained by nothing but an egg and faith — as a lens into how patience evolved as a biological capacity, not just a moral one. A meditation on endurance as something life itself had to invent."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Rockefeller University",
+          "source_line2": "",
+          "title": "Intriguing science discoveries of 2025",
+          "url": "https://www.rockefeller.edu/news/38720-intriguing-science-discoveries-of-2025/",
+          "pitch": "Rockefeller's own researchers share the findings from 2025 that caught them most off guard — discoveries from their own institution and from the wider scientific community. This is the scientist-curated version of a year-in-review, which means the selection criteria are rigor and genuine surprise rather than media impact."
+        }
+      ]
+    }
+  ]
+}

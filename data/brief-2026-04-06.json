@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-06",
+  "day_name": "Monday",
+  "display_date": "April 6, 2026",
+  "section_count": 5,
+  "item_count": 8,
+  "quote": "Courage is resistance to fear, mastery of fear — not absence of fear.",
+  "quote_attr": "— Mark Twain",
+  "through_line": "Before you can navigate a changing world, you have to resist the instinct to pretend it isn't changing. Today's articles orbit a single thread: what does it take to keep building anyway — an indie maker terrified to ship, a DMO watching organic traffic flatten, a teacher trying to give kids the skills to stay afloat? Patience, it turns out, is not the quiet kind.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Bulletin of the Atomic Scientists",
+          "source_line2": "",
+          "title": "How AI and Surveillance Capitalism Are Undermining Democracy",
+          "url": "https://thebulletin.org/2025/08/how-ai-and-surveillance-capitalism-are-undermining-democracy/",
+          "pitch": "Not a headline about AI taking jobs or generating misinformation — this piece goes deeper, tracing how the structural logic of surveillance capitalism and AI are quietly reshaping the conditions democracy depends on. The Bulletin's analysis is the kind that surfaces the slower-moving damage, the kind that only becomes obvious in hindsight."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Indie Hackers",
+          "source_line2": "",
+          "title": "I'm shipping 30 startups in 2024 and I'm terrified",
+          "url": "https://www.indiehackers.com/post/im-shipping-30-startups-in-2024-and-i-m-terrified-376630f711",
+          "pitch": "Not a productivity post. A maker who committed to shipping thirty projects in a year writes honestly about what that commitment actually feels like — the exposure, the vulnerability of putting named work into the world repeatedly, the particular dread of indifference. The title says it all, and the post earns it."
+        },
+        {
+          "source_line1": "Crawford",
+          "source_line2": "",
+          "title": "The New Rules of Web Design for 2026 (And Why Most Sites Are Already Outdated)",
+          "url": "https://bycrawford.com/blog/the-new-rules-of-web-design-2026",
+          "pitch": "A practitioner's read on what's actually shifting in web design right now — not a trends listicle, but an argument about why the design logic of two years ago is already producing sites that feel stale. Relevant starting point for a week that keeps asking what durability looks like in a fast-moving field."
+        },
+        {
+          "source_line1": "Sojern",
+          "source_line2": "",
+          "title": "Inside the State of Destination Marketing 2026: What Every DMO Needs to Know",
+          "url": "https://www.sojern.com/blog/inside-the-state-of-destination-marketing-2026-what-every-dmo-needs-to-know",
+          "pitch": "A data-heavy but readable state-of-the-industry piece on where destination marketing actually stands heading into 2026 — traveler behavior shifts, platform changes, AI search impact. The kind of grounding document that earns the week's more strategic reads."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Destination Imagination",
+          "source_line2": "",
+          "title": "Teachers Agree: Every Student Needs These 4 Skills",
+          "url": "https://www.destinationimagination.org/blog/teachers-agree-every-student-needs-these-4-skills/",
+          "pitch": "Drawing on educator voices rather than policy papers, this piece makes the case for four capacities — creativity, critical thinking, communication, collaboration — as the foundation that holds regardless of what technology does next. Grounded in practitioner observation rather than theoretical frameworks."
+        },
+        {
+          "source_line1": "Connections Academy",
+          "source_line2": "",
+          "title": "Teaching Adaptability to Help Students Succeed",
+          "url": "https://www.connectionsacademy.com/support/resources/article/teaching-adaptability-helps-students-succeed/",
+          "pitch": "Adaptability is easy to name as a goal and hard to actually teach — this piece takes the concrete version seriously, exploring what it looks like in practice with elementary-age kids. A useful companion to the 4 Skills piece above, focused on one quality worth cultivating deeply."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion's Roar",
+          "source_line2": "",
+          "title": "Lean Into Suffering Through Khanti",
+          "url": "https://www.lionsroar.com/lean-into-suffering-through-khanti/",
+          "pitch": "Khanti — the Pali word for patience, forbearance, endurance — is one of the ten paramitas in Theravada Buddhism, and this piece treats it as what it actually is: a practice, not a personality trait. Starting the week here sets a quiet tone that will ripple through Thursday and Friday."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Yale Environment 360",
+          "source_line2": "",
+          "title": "To Cope With Extreme Heat, Clownfish Shrink",
+          "url": "https://e360.yale.edu/digest/clownfish-shrink-heat-waves",
+          "pitch": "A small, sharp piece of science: clownfish living in warming seas are shrinking their bodies — and doing so faster than expected. It's a vivid example of how adaptation happens at timescales we can actually observe now, and a useful reminder that life's responses to stress are rarely what we'd predict."
+        }
+      ]
+    }
+  ]
+}

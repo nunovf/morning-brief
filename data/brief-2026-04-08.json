@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-08",
+  "day_name": "Wednesday",
+  "display_date": "April 8, 2026",
+  "section_count": 6,
+  "item_count": 8,
+  "quote": "The cave you fear to enter holds the treasure you seek.",
+  "quote_attr": "— Joseph Campbell",
+  "through_line": "The deepest question this week isn't what AI will do to the economy — it's whether the insights we carry about ourselves and our work ever actually change us, or just hang in our heads like decorations. Wednesday opens that question in three registers: a guitarist who had to face his fear of the audience to make music that connects, a Zen teacher describing how dharma has to move from head into body to become real, and a world discovering that white-collar disruption is quieter and more structural than the headlines suggest.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Axios",
+          "source_line2": "",
+          "title": "Behind the Curtain: A white-collar bloodbath",
+          "url": "https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic",
+          "pitch": "Not the usual 'AI will take jobs' frame — this piece goes behind the numbers to document what's actually happening in white-collar employment right now, based on insider accounts and internal data. The disruption isn't future-tense. It's already structural and already quiet."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The Creative Independent",
+          "source_line2": "",
+          "title": "Guitarist, artist, and model Hayden Pedigo on confronting your fear of what the audience thinks",
+          "url": "https://thecreativeindependent.com/people/guitarist-artist-and-model-hayden-pedigo-on-confronting-your-fear-of-what-the-audience-thinks/",
+          "pitch": "Pedigo is the kind of artist who defies clean categorization — guitarist, filmmaker, political agitator — and this interview goes to the heart of what releasing work actually costs. He talks about the specific terror of caring what an audience thinks, and what happened when he stopped letting that fear dictate his creative decisions. The emotional intelligence here is sharp."
+        },
+        {
+          "source_line1": "Drifter.travel",
+          "source_line2": "",
+          "title": "AI in Destination Marketing: Case Studies from DMOs",
+          "url": "https://drifter.travel/dispatches/ai-in-destination-marketing-case-studies-from-dmos",
+          "pitch": "Case-study-driven look at how actual DMOs are using AI in their marketing — not what's possible in theory, but what organizations are doing right now, what worked, and what didn't. The gap between AI-in-principle and AI-in-practice is where the useful learning lives."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Greater Good Magazine",
+          "source_line2": "UC Berkeley",
+          "title": "How One Elementary School Integrates Social-Emotional Skills in the Classroom",
+          "url": "https://greatergood.berkeley.edu/article/item/how_one_elementary_school_integrates_social_emotional_skills_in_the_classro",
+          "pitch": "The hard part of SEL isn't knowing what emotional intelligence is — it's weaving it into a school day that already has too much in it. This piece follows one elementary school that did it successfully, translating the principles into actual classroom practice. Research-backed and practitioner-reported: the best combination."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "San Francisco Zen Center",
+          "source_line2": "",
+          "title": "Bringing Zen Teachings into Your Heart: An Interview with Pam Weiss",
+          "url": "https://blogs.sfzc.org/blog/2026/03/19/bringing-zen-teachings-into-your-heart-an-interview-with-pam-weiss/",
+          "pitch": "Pam Weiss describes something most long-term practitioners recognize: Zen teachings can live in the head for years before they actually move into the body and heart and become a living practice. This interview explores the specific work of that transfer — what it requires, why it's hard, and what changes when it happens. The perfect companion to this week's thread."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "Finding Patience, Inside and Out",
+          "url": "https://tricycle.org/magazine/finding-patience/",
+          "pitch": "A more personal, experiential take on patience than the doctrinal pieces earlier in the week — this piece explores what it actually feels like to cultivate kshanti in daily life, where it breaks down, and how the practice of returning to it again and again is itself the teaching."
+        },
+        {
+          "source_line1": "Temple Buddhist Center",
+          "source_line2": "",
+          "title": "kshanti paramita: the perfection of patience",
+          "url": "https://www.templebuddhistcenter.com/articles-mini-lessons/kshanti-paramita-the-perfection-of-patience",
+          "pitch": "A concise dharma talk on kshanti as paramita — patience not as endurance but as one of the perfections that constitutes the bodhisattva path. Useful for grounding the week's patience theme in its traditional context before Thursday and Friday open into more contemplative territory."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Space.com",
+          "source_line2": "",
+          "title": "How did interstellar comet 3I/ATLAS capture our imagination in 2025?",
+          "url": "https://www.space.com/astronomy/comets/how-interstellar-comet-3i-atlas-went-from-routine-discovery-to-viral-obsession-in-2025",
+          "pitch": "The story of 3I/ATLAS — an object from outside our solar system that went from routine detection to cultural phenomenon in a matter of weeks — is partly a science story and partly a story about how wonder spreads. This piece unpacks both: the object's trajectory, what it tells us about our galactic neighborhood, and why an interstellar visitor hijacked collective attention when it did."
+        }
+      ]
+    }
+  ]
+}

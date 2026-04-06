@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-11",
+  "day_name": "Saturday",
+  "display_date": "April 11, 2026",
+  "section_count": 2,
+  "item_count": 3,
+  "quote": "Look deep into nature, and then you will understand everything better.",
+  "quote_attr": "— Albert Einstein",
+  "through_line": "The web is reorganizing itself around a new logic — one where being clearly understood by AI systems matters as much as being found, and where the developer's job description is quietly shifting toward architecture and judgment. Meanwhile, animals are doing things we never predicted: mice administering first aid, dolphins expressing incredulity, chimps maintaining distinct rhythmic traditions across generations. The gap between how fast the digital world moves and how long life takes to surprise us is worth sitting with.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "LogRocket Blog",
+          "source_line2": "",
+          "title": "The 8 trends that will define web development in 2026",
+          "url": "https://blog.logrocket.com/8-trends-web-dev-2026/",
+          "pitch": "A developer-focused read on what's actually changing in web development this year — AI-first tooling, the shift in what developers spend their time on, and where the field's centre of gravity is moving. Less trends-for-trends-sake and more a map of how the practitioner's role is evolving."
+        },
+        {
+          "source_line1": "Advance Travel and Tourism",
+          "source_line2": "",
+          "title": "The Zero Click Era Is Here",
+          "url": "https://www.advancetravelandtourism.com/insights/the-zero-click-era-is-here/",
+          "pitch": "A concise, honest piece on what zero-click discovery actually means for travel marketers right now — not the traffic loss framing, but the reframe toward brand visibility, AI citation, and the new metrics that actually reflect whether a destination is being discovered. The shift from 'rank and click' to 'be accurately understood' is the real story here."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Week",
+          "source_line2": "",
+          "title": "Seven wild discoveries about animals in 2025",
+          "url": "https://theweek.com/environment/seven-wild-discoveries-about-animals-in-2025",
+          "pitch": "Mice doing first aid on their unconscious friends. Dolphins with a specific whistle researchers have informally called 'the WTF call.' Chimps maintaining distinct rhythmic traditions — swing in East Africa, even beats in the west — passed down across generations. The Week's roundup of 2025's most surprising animal science is exactly what a Saturday morning read should be."
+        }
+      ]
+    }
+  ]
+}

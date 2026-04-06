@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-12",
+  "day_name": "Sunday",
+  "display_date": "April 12, 2026",
+  "section_count": 2,
+  "item_count": 2,
+  "quote": "The most regretful people on earth are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave to it neither power nor time.",
+  "quote_attr": "— Mary Oliver",
+  "through_line": "As AI reshapes how travelers discover destinations — compressing the journey from search to decision before a click ever happens — the same shift quietly raises the stakes for anything made with a genuine point of view. The Marginalian's meditation on the creative process offers a different kind of answer to the week's thread: not a visibility strategy, but stubbornness, patience, and the willingness to show up to the work before you know what it will become.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Untethered Media",
+          "source_line2": "",
+          "title": "AI Search Is Changing Tourism Marketing — Here's What That Means",
+          "url": "https://untethered.media/ai-search-tourism-impact/",
+          "pitch": "A tourism-specific breakdown of how AI-powered tools like ChatGPT and Google's AI Overviews are compressing the traveler's discovery journey — and what that means for destinations trying to remain visible and accurately represented. The shift from 'rank and get clicks' to 'be clearly understood by systems that summarize you' is laid out practically and without panic."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Marginalian",
+          "source_line2": "",
+          "title": "The Work of Art: Inside the Creative Process of Beloved Artists, Poets, Musicians, and Other Makers of Meaning",
+          "url": "https://www.themarginalian.org/2024/05/01/the-work-of-art-adam-moss/",
+          "pitch": "Maria Popova on Adam Moss's book-length investigation into how beloved artists actually make their work — not the mythology, but the mundane, creaturely, doubt-saturated reality of showing up. What emerges across conversations with poets, filmmakers, composers, and chefs is the same thread: patience, stubbornness, and the willingness to stay in the dark until something arrives. The right way to close a week about vulnerability, patience, and non-attachment to outcome."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-07",
+  "day_name": "Tuesday",
+  "display_date": "April 7, 2026",
+  "section_count": 6,
+  "item_count": 8,
+  "quote": "Between stimulus and response there is a space. In that space is our power to choose our response.",
+  "quote_attr": "— Viktor Frankl",
+  "through_line": "Something interesting happens when you place a therapist's insight about integration next to a Buddhist teaching on patience and a creator's advice about sharing work: the same gap appears in all three. The knowing is rarely the problem. What's harder is the closing of the distance between understanding something and becoming someone who actually lives it.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Carbon Brief",
+          "source_line2": "",
+          "title": "AI: Five charts that put data-centre energy use – and emissions – into context",
+          "url": "https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/",
+          "pitch": "The energy cost of AI is frequently cited and rarely visualized in a way that makes it legible. Carbon Brief's five-chart breakdown does the translation work properly — showing what data-centre growth actually means for emissions, grid demand, and the gap between what tech companies promise and what infrastructure data suggests."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The Creative Independent",
+          "source_line2": "",
+          "title": "Ask TCI: How do I get over the anxiety of sharing my work with other people?",
+          "url": "https://thecreativeindependent.com/questions/ask-tci-how-do-i-get-over-the-anxiety-of-sharing-my-work-with-other-people/",
+          "pitch": "A practitioner answers the question that most creative people carry but rarely say out loud. Not a listicle, not a therapy substitute — a thoughtful response to the specific dread that comes before releasing work, from someone who has navigated it. The emotional dimension of craft that rarely makes it into the productivity conversation."
+        },
+        {
+          "source_line1": "Envisionit",
+          "source_line2": "",
+          "title": "Future-proofing your 2026 tourism marketing strategy",
+          "url": "https://envisionitagency.com/blog/2026-tourism-marketing-strategy/",
+          "pitch": "A strategic look at what DMOs need to be doing differently right now — AI search visibility, content structured for extraction, the shift from traffic-as-metric to influence-as-metric. Practical without being listicle-thin, and focused specifically on the destination marketing context."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "eSchool News",
+          "source_line2": "",
+          "title": "Empathy, adaptability, and real-world readiness: Supporting students in 2025",
+          "url": "https://www.eschoolnews.com/innovative-teaching/2025/02/04/supporting-students-in-2025/",
+          "pitch": "A practitioner-oriented piece on the capacities that actually prepare kids for a world in flux — not academic content, but the social and emotional infrastructure that underlies it. Useful for thinking about how Codebloom's curriculum can foreground adaptability and empathy as real learning goals."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Harbor London",
+          "source_line2": "",
+          "title": "Why Insight Without Integration Could Be Unhelpful in Mental Health Therapy",
+          "url": "https://harborlondon.com/why-insight-without-integration-could-be-unhelpful-in-mental-health-therapy/",
+          "pitch": "The clinical version of this week's deeper thread: the gap between understanding something and being changed by it. Therapists know that insight without integration — cognitive awareness without emotional embodiment — can actually create a new form of avoidance. A clean articulation of a phenomenon that applies well beyond the therapy room."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Buddhistdoor Global",
+          "source_line2": "",
+          "title": "Patience is Power",
+          "url": "https://www.buddhistdoor.net/features/patience-is-power/",
+          "pitch": "The first of two pieces this week reframing patience from a passive virtue into an active one. Buddhistdoor's treatment draws on traditional teachings while making the case that kshanti — patience as endurance — is less about waiting and more about the quality of attention you bring to difficulty."
+        },
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "The Power of Patience as Forbearance",
+          "url": "https://tricycle.org/article/patience-as-forbearance/",
+          "pitch": "Forbearance is the specific flavor of patience that meets harm without retaliation — not passive acceptance, but active non-escalation. Tricycle's piece places this in its Mahayana context and makes the distinction between spiritual bypass and genuine practice. Pairs well with the Buddhistdoor piece above."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Chemical & Engineering News",
+          "source_line2": "",
+          "title": "Dire wolf debate raises concerns on scientific overhype",
+          "url": "https://cen.acs.org/biological-chemistry/gene-editing/Dire-wolf-debate-raises-concerns/103/web/2025/04",
+          "pitch": "When Colossal Biosciences announced it had 'de-extincted' the dire wolf, scientists pushed back hard. C&EN's coverage gets into the actual biology — why the animal created isn't really a dire wolf, what that gap reveals about how gene-editing breakthroughs get communicated, and why the hype cycle around de-extinction matters for how science is understood publicly."
+        }
+      ]
+    }
+  ]
+}

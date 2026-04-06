@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-10",
+  "day_name": "Friday",
+  "display_date": "April 10, 2026",
+  "section_count": 4,
+  "item_count": 4,
+  "quote": "Things take the time they take. Don't worry.",
+  "quote_attr": "— Mary Oliver",
+  "through_line": "There's a version of the zero-click problem that has nothing to do with search engines: the gap between where you thought you'd be and where you actually are. Friday is quieter — a web strategist mapping new terrain, a writer on why insight fails to become action, and Lion's Roar on patience as devotion rather than endurance. The thread holding it together is what Oliver meant: not passivity, but a different relationship with time itself.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The Digital Bloom",
+          "source_line2": "",
+          "title": "2025 Organic Traffic Crisis: Zero-Click & AI Impact Analysis Report",
+          "url": "https://thedigitalbloom.com/learn/2025-organic-traffic-crisis-analysis-report/",
+          "pitch": "A data-driven analysis of what actually happened to organic traffic in 2025 — the numbers behind the feeling that something fundamental shifted. Covers zero-click search growth, AI Overview impact, and what the patterns suggest about how to think about web visibility going forward. The kind of grounding read that makes the week's more strategic pieces sharper in hindsight."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Science of Mind & Philosophy",
+      "articles": [
+        {
+          "source_line1": "Heather Shaughnessy",
+          "source_line2": "",
+          "title": "The Knowing–Doing Gap: Why Insight Isn't Enough",
+          "url": "https://heathershaughnessy.com/2026/02/02/knowingdoing-gap/",
+          "pitch": "A direct, plainly written piece on one of the most persistent puzzles in human behavior: why people who understand something intellectually so rarely act on it. The author situates the knowing-doing gap not as a failure of willpower but as a structural feature of how cognition and behavior are differently organized — and what that means for anyone trying to change."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion's Roar",
+          "source_line2": "",
+          "title": "How Patience Helps You Stay Present",
+          "url": "https://www.lionsroar.com/patience-opens-the-heart/",
+          "pitch": "The most beautiful piece on patience in this week's brief, and the right one to end the week with. Allyson Pimentel reframes patience not as endurance but as devotion — a radical shift that changes everything about what the practice actually asks of you. The story of training a large dog at the threshold becomes, gently and without forcing it, a complete teaching on how to inhabit a moment."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Science News",
+          "source_line2": "",
+          "title": "Some of 2025's scientific discoveries broke records",
+          "url": "https://www.sciencenews.org/article/2025-scientific-discoveries-record",
+          "pitch": "A well-edited roundup of 2025's record-breaking findings — the coldest temperatures ever achieved, the oldest fossils, the fastest measurements — written for curious non-specialists. Lighter reading for a Friday, but the kind that reliably produces a moment or two of genuine wonder."
+        }
+      ]
+    }
+  ]
+}
