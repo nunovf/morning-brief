@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-14",
+  "day_name": "Tuesday",
+  "display_date": "April 14, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly.",
+  "quote_attr": "— Anaïs Nin",
+  "through_line": "The JavaScript ecosystem has settled: TypeScript has won, the framework wars are over, 30% of code is already AI-generated. What's stranger is what this stabilisation reveals about authorship and identity — who is doing the coding when AI writes most of it, and what does it mean to be good at something when the thing keeps changing underneath you? The self, like the stack, turns out to be less fixed than it appeared.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "InfoQ",
+          "source_line2": "",
+          "title": "State of JavaScript 2025: Survey Reveals a Maturing Ecosystem with TypeScript Cementing Dominance",
+          "url": "https://www.infoq.com/news/2026/03/state-of-js-survey-2025/",
+          "pitch": "A clean summary of the 2025 State of JavaScript survey, which reveals an ecosystem that has finally stopped churning. TypeScript is now written exclusively by 40% of developers, Vite has displaced Webpack in developer satisfaction, and by year-end nearly a third of all code was AI-generated. The framework wars are declared over — which is interesting less as a technical fact than as a social one: what happens to developer identity when the question of what to use stops mattering?"
+        },
+        {
+          "source_line1": "predict.codes",
+          "source_line2": "",
+          "title": "Programming Language Predictions for 2026: Rust, TypeScript, Python & the Vibe Coding Revolution",
+          "url": "https://predict.codes/blog/programming-predictions-2026",
+          "pitch": "A well-structured look at which languages are positioned to dominate as AI becomes the primary coder — and why. The piece makes a case that languages win not through elegance but through legibility to AI: type safety, consistency, and large training corpora. It also examines \"vibe coding\" — the practice of describing what you want in natural language and letting AI write the implementation — as a shift that is already mainstream, not a future scenario."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Psychology Today",
+          "source_line2": "",
+          "title": "You Are Not Your Project",
+          "url": "https://www.psychologytoday.com/us/blog/code-conscience/202602/you-are-not-your-project",
+          "pitch": "A compact but precise piece on why quitting a project feels existentially threatening when the project has become part of how you define yourself. The entrepreneur who can't stop isn't just protecting an investment — they're protecting a role. The article argues that disentangling personal identity from a venture is the precondition for making a clear-eyed assessment of whether it's worth continuing, and that this separation is a skill, not a betrayal."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "To be true to one's self means changing to become that self",
+          "url": "https://aeon.co/essays/to-be-true-to-ones-self-means-changing-to-become-that-self",
+          "pitch": "A philosopher's careful untangling of what authenticity actually requires — and why it almost always demands change rather than consistency. The essay argues that being true to yourself is not a description of a fixed state but a dynamic commitment that may require abandoning cherished beliefs about who you are. The identity that most needs protecting, the essay quietly suggests, is often the one most in the way."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "The self exists, it's just not as real as you think",
+          "url": "https://tricycle.org/trikedaily/self-exists-its-just-not-real-you-think/",
+          "pitch": "A nuanced entry into the Buddhist teaching on not-self that resists the common misreading. The self isn't a fiction to be deleted — it's a construction to be seen through. This distinction matters practically: it opens space for working with the patterns that make up a sense of self without needing to violently dismantle anything, and without the spiritual bypass of claiming there's no one home who needs to change."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Marginalian",
+          "source_line2": "",
+          "title": "Carl Jung on Creativity",
+          "url": "https://www.themarginalian.org/2025/04/09/carl-jung-creativity/",
+          "pitch": "Maria Popova on Jung's reflections on what it actually takes to create something — and his insistence that every creative act requires bringing everything you are, including every experience, dream, memory, and unconsciously absorbed influence. Jung was deeply suspicious of the idea that creativity could be willed or curated from above; it had to be surrendered into. For a week preoccupied with what identity costs and what it protects, this is a useful counterweight."
+        }
+      ]
+    }
+  ]
+}

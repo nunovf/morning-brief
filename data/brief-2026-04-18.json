@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-18",
+  "day_name": "Saturday",
+  "display_date": "April 18, 2026",
+  "section_count": 3,
+  "item_count": 3,
+  "quote": "The self is not something one finds, it is something one creates.",
+  "quote_attr": "— Thomas Szasz",
+  "through_line": "The JavaScript Rising Stars show which projects developers actually reached for in 2025 — not what was hyped, but what got used. Alongside that pulse-check, a philosopher dismantles the intuition that there is a continuous self doing the reaching in the first place, while a team of archaeologists discovers something 11,000 years old that looks unmistakably like a place to gather and be seen together.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "JavaScript Rising Stars",
+          "source_line2": "2025",
+          "title": "2025 JavaScript Rising Stars",
+          "url": "https://risingstars.js.org/2025/en",
+          "pitch": "The annual ranking of JavaScript projects by GitHub stars gained in 2025 — a reliable signal of where developer attention actually went, as distinct from where the hype went. The year's data shows the consolidation story continuing: fewer experiments, more productive defaults. A useful twenty-minute browse that closes out a week's worth of thinking about which tools survive the AI transition and why."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Philosophy Break",
+          "source_line2": "",
+          "title": "Anātman, the Buddhist Doctrine of No-Self: Why 'You' Do Not Really Exist",
+          "url": "https://philosophybreak.com/articles/anatman-buddhist-doctrine-of-no-self-why-you-do-not-really-exist/",
+          "pitch": "A precise and readable philosophical account of what the Buddhist doctrine of anātman actually claims — and what it doesn't. The writer distinguishes the doctrine from nihilism and from the casual \"there is no self\" misreading, explaining how the teaching functions not as metaphysics but as a practical instruction for loosening the grip of clinging. A good companion to the week's Ground readings for anyone wanting the conceptual scaffolding alongside the experiential."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "National Geographic",
+          "source_line2": "",
+          "title": "6 archaeological discoveries that amazed the world in 2025",
+          "url": "https://www.nationalgeographic.com/history/article/6-archaeology-discoveries-2025",
+          "pitch": "Six finds from 2025 that each required rewriting something previously assumed — from a Neolithic assembly site in Türkiye with banked seating and carved sculptures dating to 9,400 BCE, to a Bronze Age city in Peru that pushes back the timeline of urban life in South America by centuries. What's striking is not just the age of these discoveries but the sociality they reveal: people were building places to gather, perform, and be witnessed long before the historical record suggests. Something worth sitting with on a Saturday."
+        }
+      ]
+    }
+  ]
+}

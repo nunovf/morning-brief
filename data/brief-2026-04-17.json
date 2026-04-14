@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-17",
+  "day_name": "Friday",
+  "display_date": "April 17, 2026",
+  "section_count": 3,
+  "item_count": 3,
+  "quote": "The eye through which I see God is the same eye through which God sees me; my eye and God's eye are one eye, one seeing, one knowing, one love.",
+  "quote_attr": "— Meister Eckhart",
+  "through_line": "AI is entering the therapist's office, and the questions this raises are not primarily technical. Who is doing the witnessing? What changes when reflection is outsourced? Today's brief is lighter by design — three pieces that ask, in different registers, what remains when the usual filters are removed: the AI as therapist, the Buddhist as non-self, and a forest as a record of time that refuses to be rushed.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "APA Monitor",
+          "source_line2": "",
+          "title": "AI in the therapist's office: Uptake increases, caution persists",
+          "url": "https://www.apa.org/monitor/2026/03/ai-reshaping-therapy",
+          "pitch": "The American Psychological Association surveys where AI has actually entered clinical practice — and where psychologists are drawing lines. The piece is careful: uptake is real and growing, but so is the concern that outsourcing emotional reflection to machines may be doing something subtle and irreversible to the human capacity for self-reckoning. Not a scare piece — a genuine attempt to hold the tension between accessibility and something harder to name."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion's Roar",
+          "source_line2": "",
+          "title": "Experience the Truth of No Self",
+          "url": "https://www.lionsroar.com/experience-truth-no-self/",
+          "pitch": "Not a philosophical argument but a practice instruction — how to move from the intellectual understanding of non-self toward the direct experience of it. The piece is grounded in somatic and meditative attention, and resists the common error of treating anattā as a belief to adopt. The shift it describes is from clenching to opening, from defending to allowing — which turns out to be available in any moment, not just in formal practice."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Emergence Magazine",
+          "source_line2": "",
+          "title": "The Fault of Time",
+          "url": "https://emergencemagazine.org/essay/the-fault-of-time/",
+          "pitch": "An essay about why we feel owed a stable wilderness — and why that expectation is a problem of scale, not sentiment. The writer examines how global warming has warped the familiar ecological rhythms we use to calibrate our sense of what is normal, and how the timescales we've inherited make it structurally difficult to see the change happening. A quiet piece about perception, time, and what it costs to hold onto the idea that things should return to how they were."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-19",
+  "day_name": "Sunday",
+  "display_date": "April 19, 2026",
+  "section_count": 2,
+  "item_count": 2,
+  "quote": "Creativity is not the finding of a thing, but the making something out of it after it is found.",
+  "quote_attr": "— James Russell Lowell",
+  "through_line": "A week that moved through the survival logic of languages and frameworks, the cost of the observer position, and the Buddhist undoing of the self that does the observing ends with two quiet pieces. One maps the mechanics of how creative insight actually forms — not as inspiration but as combination, constraint, and surprise. The other asks you to step into a week with no particular obligation to already know who you are.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "DevClass",
+          "source_line2": "",
+          "title": "JavaScript survey reveals gripes against Webpack and Next.js — and that 'TypeScript has won'",
+          "url": "https://www.devclass.com/development/2026/02/10/javascript-survey-reveals-gripes-against-date-handling-webpack-and-nextjs-and-that-typescript-has-won/4090262",
+          "pitch": "A developer-eye view of what the 2025 State of JavaScript survey actually says beneath the headline numbers — including some refreshingly honest gripes. TypeScript's dominance is declared settled, but the survey also surfaces dissatisfaction with Next.js's growing complexity and Webpack's declining appeal. A useful corrective to the narrative that the ecosystem has harmoniously converged: consensus and frustration, as it turns out, can coexist."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Marginalian",
+          "source_line2": "",
+          "title": "Decoding the Mystery of Intuition: AI Prophet Margaret Boden on the Three Elements of Creativity",
+          "url": "https://www.themarginalian.org/2026/04/12/margaret-boden-creativity/",
+          "pitch": "Published yesterday: Maria Popova on cognitive scientist Margaret Boden's three-part theory of creativity — combination, exploration, and transformation — and why the most interesting creative moves are not the ones that fill in gaps but the ones that reshape the conceptual space entirely. A useful frame for a week that has been asking what changes when identity is held lightly rather than defended. Boden's answer, filtered through Popova's characteristic attention, is that transformation requires a willingness to break the rules of the system you're working in — including the ones you wrote."
+        }
+      ]
+    }
+  ]
+}

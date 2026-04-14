@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-16",
+  "day_name": "Thursday",
+  "display_date": "April 16, 2026",
+  "section_count": 4,
+  "item_count": 5,
+  "quote": "The most common form of despair is not being who you are.",
+  "quote_attr": "— Søren Kierkegaard",
+  "through_line": "TypeScript didn't just win the popularity contest — it won by becoming the language AI trusts, which is a different kind of victory. The parallel runs through the rest of today's brief: what we persist in, what resists change, and what finally shifts when we stop explaining to ourselves why the discomfort is fine. Cognitive dissonance, it turns out, is not a bug in the system of self-knowledge — it may be the only reliable signal that something true is trying to get through.",
+  "sections": [
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The GitHub Blog",
+          "source_line2": "Octoverse",
+          "title": "A new developer joins GitHub every second as AI leads TypeScript to #1",
+          "url": "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/",
+          "pitch": "GitHub's annual Octoverse report confirms what's been building for years: TypeScript has officially overtaken Python and JavaScript as the most-used language on GitHub, with over a million new contributors in 2025 alone. The data reveals the mechanism clearly — AI coding assistants generate TypeScript by default because it produces fewer type-related errors, and that reliability compounds adoption. This is what a structural shift looks like from the inside."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "The Paloma Group",
+          "source_line2": "",
+          "title": "Knowing When to Quit: The Art of Letting Go in Entrepreneurship",
+          "url": "https://www.palomagroup.com/articles/knowing-when-to-quit-the-art-of-letting-go-in-entrepreneurship",
+          "pitch": "A thoughtful practitioner's guide to the decision most entrepreneurs avoid making explicitly — when to stop. The piece is careful to distinguish between bad days (normal, not a signal) and a sustained pattern of evidence that the thing isn't working. The cleanest question it offers: if you were starting fresh today — no history, no sunk costs, no identity at stake — would you begin this? If the answer is no, you already know what the answer is."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Psyche",
+          "source_line2": "by Aeon",
+          "title": "Cognitive dissonance might give us the push we need to change",
+          "url": "https://psyche.co/notes-to-self/cognitive-dissonance-might-give-us-the-push-we-need-to-change",
+          "pitch": "The discomfort of holding two conflicting beliefs isn't a failure of rationality — it's a signal that something you already know is trying to become something you live. Psyche's piece reframes cognitive dissonance not as an error to eliminate through rationalisation, but as the productive friction between who you think you are and who the evidence suggests you might actually be. The article is short and precise — exactly the right format for an idea that tends to slip away when examined too directly."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "The Buddhist Review",
+          "title": "Rodney Smith on anatta: No-Self, Not-Self, or Non-Self?",
+          "url": "https://tricycle.org/article/rodney-smith-anatta-no-self-not-self-or-non-self/",
+          "pitch": "A senior meditation teacher unpacks why the translation of anattā matters — and why the difference between \"no-self,\" \"not-self,\" and \"non-self\" isn't just semantic. The Buddha, he points out, refused to answer whether a self exists, because the question itself is a trap. What the teaching actually offers is a practice of not-identifying, which is more precise and less nihilistic than the popular \"there is no self\" reading — and considerably more useful as a working instruction."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Marginalian",
+          "source_line2": "",
+          "title": "The Third Self: Mary Oliver on Creativity and Time",
+          "url": "https://www.themarginalian.org/2026/02/25/mary-oliver-upstream-creativity-power-time/",
+          "pitch": "Mary Oliver, in her essays collected in Upstream, identifies three selves: the childhood self woven into personal identity, the social self \"fettered to a thousand notions of obligation,\" and a third self — the one where creative energy actually lives. This third self is the one most difficult to protect and most easily sacrificed. Popova's reading of Oliver is characteristically attentive, and the timing feels right: a week asking which identities are worth inhabiting finds an unexpected answer in a poet's taxonomy of the self."
+        }
+      ]
+    }
+  ]
+}

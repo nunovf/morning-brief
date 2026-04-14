@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-15",
+  "day_name": "Wednesday",
+  "display_date": "April 15, 2026",
+  "section_count": 5,
+  "item_count": 6,
+  "quote": "To know and not to do is not yet to know.",
+  "quote_attr": "— Zen proverb",
+  "through_line": "AI is built from everything humans have ever produced — and it reflects a version of the self back with uncanny accuracy and subtle distortion. The observer noticing this reflection eventually realizes they are part of what is being observed. Awareness alone doesn't dissolve the problem; it can just become a more sophisticated position to occupy. The writer Robert Musil offers an unlikely exit: the experience of having no fixed self turns out to be more available than it seems.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Psychology Today",
+          "source_line2": "",
+          "title": "How AI Is Reshaping Human Psychology, Identity and Culture",
+          "url": "https://www.psychologytoday.com/us/blog/experimentations/202512/how-ai-is-reshaping-human-psychology-identity-and-culture",
+          "pitch": "A wide-angle survey of what AI is doing to the human sense of self — not just loneliness or dependency, but the more structural shift of having algorithms co-create how we know ourselves. Recommendation systems don't just shape what we consume; they shape how we categorise our own preferences, feelings, and identity. The piece names what this produces: \"cognitive sovereignty\" anxiety — a creeping uncertainty about whether the thoughts you're thinking are really yours."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Builder.io",
+          "source_line2": "",
+          "title": "The React + AI Stack for 2026",
+          "url": "https://www.builder.io/blog/react-ai-stack-2026",
+          "pitch": "A practical rundown of what the React ecosystem looks like when AI becomes your primary collaborator — which libraries, patterns, and tools survive the transition and which become redundant. Beyond the stack choices, the piece illuminates why React's dominance is self-reinforcing in the AI era: more training data means better AI generation quality, which means more adoption, which feeds more training data. A useful map for understanding what you're actually building on."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Freakonomics",
+          "source_line2": "",
+          "title": "How to Succeed at Failing, Part 3: Grit vs. Quit",
+          "url": "https://freakonomics.com/podcast/how-to-succeed-at-failing-part-3-grit-vs-quit-update/",
+          "pitch": "The Freakonomics team revisits one of their most nuanced episodes: the genuine tension between persistence and strategic quitting, featuring economists, psychologists, and people who made both calls. The argument isn't that quitting is underrated — it's that the criteria for quitting and persisting are almost never examined clearly, and that most people rely on feeling instead. When you're in the middle of something, determining whether the answer is grit or quit is genuinely hard — and this episode is honest about that."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Deconstructing Yourself",
+          "source_line2": "",
+          "title": "Escaping the Observer Trap: Free Yourself by Observing the Observer",
+          "url": "https://deconstructingyourself.com/escaping-observer-trap.html",
+          "pitch": "A clean diagnosis of a specific trap that long-term meditators and self-aware people fall into: the observer stance — that calm, watching presence — is not liberation. It's just a smaller, quieter ego. The piece describes what the observer trap actually is, why it feels like progress, and what it takes to go further. The move isn't to observe better; it's to observe the observer. For anyone who has found that self-awareness has become a place to live rather than a doorway to pass through, this is uncomfortably accurate."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "Robert Musil gives confidence to the no-self minority like me",
+          "url": "https://aeon.co/essays/robert-musil-gives-confidence-to-the-no-self-minority-like-me",
+          "pitch": "A philosopher who lacks the strong sense of continuous selfhood most people report — no narrative thread, no central \"I\" — finds unexpected company in the Austrian novelist Robert Musil. The essay is an unusual entry point into non-self: not through meditation or Buddhist doctrine, but through the literary discovery that the experience of selflessness is more common than culture acknowledges, and that its absence from mainstream psychology says more about the mainstream than about the experience."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Print Magazine",
+          "source_line2": "",
+          "title": "2025 Design Trends Year in Review: Craft, Conflict, and Cultural Weight",
+          "url": "https://www.printmag.com/design-culture/2025-year-in-review-craft-conflict-and-cultural-weight/",
+          "pitch": "Print Magazine's designers-only retrospective on what 2025 actually produced — not predictions and trend reports, but a clear-eyed accounting of where design culture went: a return to craft, a suspicion of easy optimism, a renewed seriousness about language, systems, and responsibility. Worth reading as a counterpoint to the tech-driven design conversation — this is the version that cares about meaning over momentum."
+        }
+      ]
+    }
+  ]
+}
