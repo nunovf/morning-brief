@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-25",
+  "day_name": "Saturday",
+  "display_date": "April 25, 2026",
+  "section_count": 6,
+  "item_count": 7,
+  "quote": "“The self is not something ready-made, but something in continuous formation through choice of action.”",
+  "quote_attr": "— John Dewey",
+  "through_line": "Today's brief explores the continuous interplay between technology, education, and our internal worlds. Articles delve into the societal implications of AI ethics, the practical tools for AI-powered app development, how computational thinking fosters creativity in young learners, the psychological challenge of decision paralysis, and the nuanced understanding of contemplative experiences, all leading towards a deeper reflection on self-formation through action and choice.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Milne Publishing",
+          "source_line2": "",
+          "title": "AI Ethics – The Future is Now: Empowering Society Through AI Literacy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoIs3xOM11ySIO3rKB7qiK2KulpmSOYv0CrwIbAU-O-qFn_ujZt3LBIc_vVEJDpd7r7wPCMhdc5mwLiR_jVYhDG8MUvtk2v_rNcvSdqYjKpw66P2Y1MuhmjAVlO3G2Oq0pJWXULup9xnyXFuJUnZwM_1XjHKlL9yQwBQc9T9J-",
+          "pitch": "This article underscores the importance of AI literacy for empowering society and ensuring AI development aligns with human values. It resonates with Nuno's ethical imperative for engagement, focusing on transparency, control, and trust in the AI era."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Medium",
+          "source_line2": "by Apoorv Gehlot",
+          "title": "AI Assistant App Development: Building Smarter Digital Experiences",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeaFJoDc1tA6ji6greCKpfJxvOVUZuDrwWuSKZsFi3wjmVDo5hDYmIodLJaA0RN0OxdwadTaHXSxFwUpPh2TqjX6sDRKcWionieuHJjeFo1iRh7slGnukGWHLauaRCaSzm14ls6C-DFrd08Wrp_QLZh3NrK7gWb3BMLQFqsf4JfcqbFdMCvOfo_q3fwmhhtOSMo0CIY9RRfntqh8kegotSTzZcvM4kASvKgKs=",
+          "pitch": "This piece outlines the step-by-step process of developing AI assistant apps, from defining objectives to continuous improvement. It provides Nuno with practical insights into how AI assists in creating smarter, more efficient digital experiences for non-technical users."
+        },
+        {
+          "source_line1": "Zapier",
+          "source_line2": "",
+          "title": "The 6 best AI app builders in 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXsChaef6a1RBBgxlT84hixQ93L-x-jRBVZpsCTRGT6a-1T8R0sDTcy2rXuRKKWhCKS45zqv4ExgaO2XZhz7WQNmVvgthlzz-BbZoW99Ka1JLk5Xgg7r9PUJrSe5PQacOVWplKycv7",
+          "pitch": "This article provides an updated look at the best AI app builders for 2026, offering Nuno a valuable resource for understanding the latest tools that empower non-technical users to create and deploy applications. It reinforces the practical focus of AI-assisted development."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Community Foundation for Southeast Michigan",
+          "source_line2": "",
+          "title": "Introducing Computational Thinking to Preschoolers",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEmutsM6s1YnyS8aGi0YJ5sCkj-lxB9L7O_4HwPEjha-bT-hSm22qpZnECv_lTDRrOnkE9ihnynWrKvEjaZwYNxsrPRrNB0fwEAiuRy8vj8ar7l-p4nfBRtkDlXjnDhaI185vv2Dn5aU57a2TSL4J3rwumhHleDpUeV0OaG4kTwVrhTudGNra_GSOqTmnF3TSZMLmB_-3YpaAUVK4kwKF7",
+          "pitch": "While targeted at preschoolers, this article highlights how foundational computational thinking skills foster creativity, resilience, and logical reasoning—principles highly relevant to Nuno's elementary-focused academy. It provides insights into nurturing innovative thinkers from a young age."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Procrastination.com",
+          "source_line2": "",
+          "title": "Decision Paralysis: How To Stop Overthinking Your Choices",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkqEGDy3TJrUP5I_xotMpqlsysxpb5Sr_64SnvtZQNV3dNqeBjTsrii16rHzNDOg7h92ws-634_-xODfGT-Qmu_bieF4ANTSxGO8a8V9hH0qHiSVtke-Awnwwo8t01n6WrilvjxzvLnuJ8eXQTqd5EcIFnLgDsGbmsNDmAKIfrwduYtsKB",
+          "pitch": "This article dissects decision paralysis, a state where overthinking hinders action, particularly when faced with complex choices. It resonates deeply with Nuno's 'Arbiter' theme, exploring the psychological barriers that prevent translating discernment into decisive action."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Brown University",
+          "source_line2": "",
+          "title": "The Varieties of Contemplative Experience",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdIIHhFc2U_4-d4TKK8YaHahBAES5DPREerrlgD70MJG6uPLmJ6Bc77hpumKHdQC8Zi575estRwUeyyCzLXJber_TZtPJDssboKt03iiPnY0FfgNzwfJghSLwVGJ59Wqr9QGJ5Vi_BpQYIaKUpInoyNKkPJm0DUiOJgNdZ2_2mlsLCk6Ilz3698Ghpr9RK",
+          "pitch": "This project aims to understand the full spectrum of experiences associated with meditation, including changes in perceptual capabilities and sense of self. It offers a rich exploration of lived contemplative experience, aligning with Nuno's interest in non-duality and perception."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Localize Articles",
+          "source_line2": "",
+          "title": "Cultural Differences: 9 Surprising Customs From Around the World",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgRLajhE8UpAKjfaXOOoAold3CqTaEGYGfrwOapfnejkhwnqUj3ZuhRaOZhdLAMBDz_wElDMUwers97T25NPkV14q-gkN-GIiLNAM2GZIX4kcEvUsSGoBqYwZkAENpLDvViR9yEjWQFGeuQcYvalfnsT5SnInmHTs137biFfqnyv8jUCZ-SQIZQF2hH1sGNOMhDfiJtBjC0aW",
+          "pitch": "This article provides a collection of genuinely surprising and unique cultural customs from various parts of the world. It offers a refreshing and unexpected read, broadening perspectives beyond the usual domains of technology and psychology."
+        }
+      ]
+    }
+  ]
+}

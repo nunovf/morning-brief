@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-24",
+  "day_name": "Friday",
+  "display_date": "April 24, 2026",
+  "section_count": 6,
+  "item_count": 7,
+  "quote": "“The quiet mind is all you need. All else will come naturally.”",
+  "quote_attr": "— Nisargadatta Maharaj",
+  "through_line": "Today's brief invites a contemplative pause, exploring the intricate dance between human and artificial intelligence, the foundations of mindful perception, and the persistent challenge of transforming inner knowledge into outer action. Articles delve into AI's moral complexities, the creative potential of visual coding, the problem-solving mindset fostered by computational thinking, the psychological traps of overthinking, and the varieties of contemplative experience.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Texas A&M Stories",
+          "source_line2": "",
+          "title": "The ethics of AI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCYkiLNaCZrem2fAm0YOuh2Zpt1Vi04RnhdOvdyPxNp9KsWXK0sVC1GSESzRZ4wetu2YuxMcc6Dk09aTcE_ZzypiF1y8txPRAnXUlHjRq67vbQV32M4hfzVTCZJSJ5dqDPSZAcE9NIaF5qyDNGFxPpbLLRE0sjkSdKbaS9xUVmDIWQGUrwTSaIV7EbRou-L6lrQdNPj9rwW-buM6yVcfF4IEgw",
+          "pitch": "This article discusses AI's moral limitations, emphasizing that it acts as a tool that must be aligned with human values rather than a moral agent itself. It prompts reflection on human responsibility in guiding AI, fitting a more contemplative Friday reading."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Opal Experiment",
+          "source_line2": "",
+          "title": "Opal [Experiment]",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmSSinGMbvz9AjkZwGnh0Xir1qPJJRTpBQGp6NFg5DCmxhnS7hU-_TcFCRzcWTnAK9bnCfCxBCttLofUI1KmfDu1E-H21J26ullOPa-dkQ",
+          "pitch": "Highlighting no-code AI for creating mini-apps with intuitive visual editing, this piece speaks to the direct translation of ideas into functional applications. It aligns with Nuno's interest in efficient, creative workflows for web designers and developers."
+        },
+        {
+          "source_line1": "Loopple",
+          "source_line2": "",
+          "title": "5 Low Code Builders: Best Platforms Developers Will Love",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpY-teaYxFl9iMW_wsaycmbM526LgaEwjOlcN1QRGBD2cegcvUG6wXksi_8sS7jVbPZKxi-WMt26gXntsOgISETiSR8gLx4027zw4XRRImh9tRXLEYo88vEBC4os580AYvEyTKLtIBm3Xh2NGOEhFTgw==",
+          "pitch": "This article explores low-code builders that leverage AI to accelerate web design and development, enabling rapid prototyping and customization. It offers a practical look at tools that reduce manual coding and help turn client visions into reality efficiently."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "PBS SoCal",
+          "source_line2": "",
+          "title": "What is Computational Thinking and How Can it Teach Kids Problem-Solving Skills?",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6UB3kKuC8H-tJBlt45iId9OvlG3M24yCA3uMw4jPR7ZmtbJr35Qv_QCrP7KnKM3t6imce9dXg-WwDEIPl4Pgie6n1tzrTA6JjZ269NH0YtP9oQyfUU3XInhjFUoELzEHwRie4spT_4x3DZBeu7-MWF_DmiHAlPYOSDN2zu1yeonHVzxmk8idoiwaCSW6HM5VnzoXufnhS23eXQKZmSOo==",
+          "pitch": "Framing computational thinking as a 'creative problem-solving process,' this piece emphasizes its role in developing critical thinking and innovation in young children. It resonates with Nuno's educational philosophy of nurturing adaptable thinkers."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "MindPeers",
+          "source_line2": "",
+          "title": "The Paralyzing Effect: Navigating Analysis Paralysis",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnvh4XaS04sX76E1lGmsFj9pDAXVpytCeTQ96a00uAtIK9szwjVsz70O9rad-GV8GvnYlF_Szm1RPPxmhTD9_8hAG5__5O7e36CRrC4xFNOmkdRAT0bWMn_u4ngMK4r0IZxlZydyUPdFdbJ6_5D30i5-uHj6k8ZgsYpfIAKw4Q2y-mc5lWw789xFQvqQ==",
+          "pitch": "This article delves into analysis paralysis, where excessive overthinking prevents action, even when the best path is discerned. It provides a relevant psychological lens for Nuno's 'Arbiter' theme, illuminating the internal struggle between knowing and acting."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Barsalou Lab",
+          "source_line2": "",
+          "title": "UNDERSTANDING CONTEMPLATIVE PRACTICES FROM THE PERSPECTIVE OF DUAL-PROCESS THEORIES",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAYo_YPrUgYE2idXRYNcknY22aT-sk2fduiKaaSLMqJ4Qm47i66oNaflEqoRQgIQ1G0YH2OFVWvdaWgSieaU0DyPeAMtAbWOl4MiYeja1-GxPZ-52gozFr2TzJCYrJfBfyXm-83KET49SFvbahuUo1qmtUaLa2lmP73DauxPrX6KSe6tlkAsQLCepYu8LozskWzsTAUUEv7F8Wfqqv",
+          "pitch": "This deeply contemplative piece explores how wisdom practices help practitioners see through illusions, understanding the self and perceived states as constructions of mind. It directly addresses the dynamic between 'knowing' and 'feeling' and the dissipation of dualism into a non-dual state, highly resonant for Nuno."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Studio 24 Online (YouTube)",
+          "source_line2": "",
+          "title": "Overcoming Your Inner Critic: A Guide for Actors",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkX6wtGXcvSj6ZUMg6JD3k4WMqGWgorArRFpPJg-r25HDidM4GtIkvar8nmVFF6weCn1ST1y77bSGX_aBGbOtmF4WJA7t1Eal8-gKgvaH_ciEKmbpgyVMaar8cHyGLVEKswddby3M=",
+          "pitch": "This video, aimed at actors, offers valuable insights into overcoming self-doubt and the 'inner critic' to deliver authentic performances. It's a surprising, yet deeply relatable, exploration of self-judgment and presence, touching on themes relevant to Nuno's mindfulness practice."
+        }
+      ]
+    }
+  ]
+}

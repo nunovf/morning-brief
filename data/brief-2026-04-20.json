@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-20",
+  "day_name": "Monday",
+  "display_date": "April 20, 2026",
+  "section_count": 4,
+  "item_count": 7,
+  "quote": "“The future is already here – it's just not evenly distributed.”",
+  "quote_attr": "— William Gibson",
+  "through_line": "Today's brief explores the practical and ethical dimensions of AI in building the future. From the tools allowing non-technical users to create applications, to how coding fosters creativity in young minds, and the broad ethical considerations of AI's long-term impact on society, the articles highlight both the innovative potential and the inherent responsibilities in shaping the digital landscape.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Milne Publishing",
+          "source_line2": "",
+          "title": "Artificial Intelligence and the Ethics of the Future: How to Think in Centuries",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExgR5ccWIZSrhvyuSRWX-S9SxBZo7UIT8g3P8KU46spmfZ5hc6kXYZR3XINxiMhenxGdGsDoak7DhClZbH9AFyztJIHalzAcPhZSi1-T1p4GbqrcvAAByN1k4g-0_3ZGBBYPuSS4KOWg_LCHLew88htZR3rQSavaOUWXoCHP2sys53LruUjAzZDqdSz2wPA8HbnToPMvw2T3HIG5mO9rQGEAsbaQ==",
+          "pitch": "This article challenges readers to consider AI ethics through a 'noospheric thinking' lens, extending the ethical horizon to centuries and millennia. It resonates with the idea that individuals with moral hesitations must engage to shape AI's foundational cognitive legacy, ensuring it aligns with human values."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "DesignCrowd blog",
+          "source_line2": "",
+          "title": "Top AI Tools for Non-Coders to Build and Launch Web Apps",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4wC0A-8hqSw_4Hl_JYOU7fZtGBSwaZ3F6mv3rkheh4qiKAGOH6fB4smlCFaFcEOs48PN34CwLED8edykMU-3CGL3RbtXrlxuo5Nb-Ed5FcOKPBeczvRUzUUsyVeegalUE9xjB7f5Q7hBa3TCu60zrf5q2px8DvmSw15VtHRcMnDoedeCJVvBsfqKJRQZrKg05OTLRtVh8beqGx5j3",
+          "pitch": "For Nuno, this piece highlights how AI is democratizing web app creation, allowing non-coders to translate ideas into functional products faster. It emphasizes reducing friction between thinking and building, a key interest for creating utility applications efficiently."
+        },
+        {
+          "source_line1": "Bubble",
+          "source_line2": "",
+          "title": "How to Build an App With AI: 2026 Walk-Through",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExKcmojRaO2Vjg253MqDIQlXLlUBUmkyac3VdTSMJqgA4IVZlFYR9jzJ8QdxhZ0qFFoVBpnc3kpLZL_Ej-W_NNLiJepUGx9bXiSNAJHJ8lLsH0Extz4hsCh7XUKAEiW3p0PK0Iujbtylm0OxQGJw==",
+          "pitch": "This step-by-step guide offers a practical look at using AI for app development, from crafting prompts to deploying and iterating. It directly aligns with Nuno's interest in AI assisting the *process* of building mini-apps for specific pain points."
+        },
+        {
+          "source_line1": "WeWeb",
+          "source_line2": "",
+          "title": "WeWeb: Build Web-Apps 10x Faster with AI & No-Code",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrbAdq8givfJDCuociWmC05ECUwgsNtOvkBfj-e-9pIwnFbZ9EOfwPt6NIOLbI0XMuxAHcru3WP3P7o2mqE9WYZBm157mi_zbVp5VD6dWABQ==",
+          "pitch": "Showcasing an AI-driven no-code platform, this article demonstrates how to generate web apps in seconds and fine-tune them visually without coding. It speaks to the efficiency and creative possibilities AI offers web designers and developers."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Empathy School",
+          "source_line2": "",
+          "title": "Programming For Kids: A Fun Way To Build Creativity",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHguGEbXrkZzYogqu4DNHkb4xeIn1eEGf9rRl3XxlWLLFOkyt0yIRcs4ydzSsW1j8SdmIRvTbehpdjvhtpBDJ9cx1vZ-uPiCEmPnA5dEvigOgFw_WLExEGulFfdShjyWhKHoH17-LBqcvAfCgOyMljCJLnCll6LNCzTYfJz-5y8_7F1Ma18",
+          "pitch": "This piece directly addresses how programming can foster creativity in elementary-aged children, moving beyond mere logic to imaginative problem-solving. It's highly relevant to Nuno's academy goal of developing 'grounded innovators.'"
+        },
+        {
+          "source_line1": "SkoolOfCode",
+          "source_line2": "",
+          "title": "Design Thinking for Kids: Unlocking Creativity as Their Superpower",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_gD0QlLdJaB988gAElSx6BChsK-ETEAfCAElcdHKfpNEW6wA5UEkiJkScTmBB0Klhbpj4Sycdbeuf72zHGhVNtNS0-sffiL94JXrFrTsUc-BJFQH9DuQ0Da8JWSg5bdstXQwElMuU3ADaU48cUa3lLYAwL9uYLoCk-6k6B3O7MFq7rxIOTbNTvHCNKOGGHPi30nomGA==",
+          "pitch": "Exploring design thinking as a method for children to unlock creativity and solve problems, this article touches upon how AI tools can amplify imagination, offering valuable insights for Nuno's curriculum development."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Tale of 2 Backpackers",
+          "source_line2": "",
+          "title": "25 Interesting Cultures Around the World with Unique Traditions",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUzJUoJNNQi1Do7X-15ws_rmCnXOQqIoK22wgfMCGBY-4YsH9oxjR2W7viX-ErgeQeuaY4u6Pdv037z6Q0ad-anzjvsqxo2NRjB9J33iqDQ4mVvoEF8bMI5KvYbMmWz_BBoanXlv13OUUZH9feEd2GHmqbQgloXbQ1XIhJmhWXlg==",
+          "pitch": "This piece offers a fascinating journey through diverse cultural customs, providing a delightful and unexpected read. It's a reminder of the rich tapestry of human behavior and thought, far removed from the digital realm."
+        }
+      ]
+    }
+  ]
+}

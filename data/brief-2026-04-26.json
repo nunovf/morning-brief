@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-26",
+  "day_name": "Sunday",
+  "display_date": "April 26, 2026",
+  "section_count": 6,
+  "item_count": 7,
+  "quote": "“The mind is everything. What you think you become.”",
+  "quote_attr": "— Buddha",
+  "through_line": "Concluding the week with reflections on our evolving relationship with AI and the depths of our own consciousness, today's brief weaves together discussions on AI ethics, its role in fostering creative digital experiences, the benefits of creative coding, and the intricate psychology of judgment and perception. The articles invite a final contemplation on the ethical stewardship of technology and the continuous journey of self-knowledge and mindful living.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Forbes",
+          "source_line2": "",
+          "title": "From Curation To Creation: How Ethical AI Can Shape A Responsible Future",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFga8dLc9jOXlSJlJIjj3dRb0qsydIjF6yF4Dlz9iFuXxjA9BSn_42AhcYZ194GIoW8_KhRc6py8zEXaXiK9pTE7bFgq-mu009XxO3OUZVZFb3MOE5O976H_HSZNqm7n4UIDo3zD74yv3_lF0hNg2YZjrpgAcSQfA2ITjj1Jz8aj3-eD1SUYfJZodwamksJbHB-G71aczApNOVBL6Gd2yzcHeYGD1qB2K27e6L5eKl7lbdHmlmmw0XiFHLqIJuOyZMZ",
+          "pitch": "This article discusses the ethical imperative of integrating responsible AI principles as AI transitions from curation to creation. It aligns with Nuno's interest in the ethical stewardship of AI and the profound implications for shaping its future."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The HypeEdge",
+          "source_line2": "",
+          "title": "AI-Powered Website Design with No-Code & Low-Code Tools",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvN2RGEO_WpjgGjiJ_hupm64_GBZHSCyjHL9RHKxW1e7mtRYNMPNswWjTOn16tQ_6wAEtxo9dQZd_oSS-xd3CRUIW_iqbUIMjzD9WAoaTBThZfMOLRa0-f9QUSQSh6hwWYXU_Kq4v9_lXF0hNg2YZjrpgAcSQfA2ITjj1Jz8aj3-eD1SUYfJZodwamksJbHB-G71aczApNOVBL6Gd2yzcHeYGD1qB2K27e6L5eKl7lbdHmlmmw0XiFHLqIJuOyZMZ",
+          "pitch": "This piece offers a comprehensive look at how AI and no-code tools are transforming web design, focusing on automating layouts and personalizing experiences. It directly addresses Nuno's interest in AI's capacity to produce genuinely creative layouts and its impact on DMO sites."
+        },
+        {
+          "source_line1": "Low-Code Website Builder",
+          "source_line2": "",
+          "title": "Low-code Website Builder, Create Custom & Professional Websites",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEobLLSSK517_gQpV3ueQpL0_Y30DTarifGtVnggune92QGgzMZ6CZFJ2wB7rgmAVvRU1CnA9R2euS0CmTeVKN5r3yJgOldcIWwVE4j-aWcuwY=",
+          "pitch": "Highlighting AI's role in creating custom and professional websites through low-code platforms, this article emphasizes how AI can generate initial layouts and structures from simple prompts. It's relevant to Nuno's exploration of AI-assisted creation for web development."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Elementari",
+          "source_line2": "",
+          "title": "Benefits of Creative Coding for Kids",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu3h1AAPv5yeD01DZakLtj3DoQimezES4TGBgF2bp9jhqpn2md4zeZ9bpoC1y9PooqmnHtecLwAn5mjeJ48w2uVhRs6FS59FBOwOuqjPwcBvnFJ4o32b2InB45oeUN3Ub157jQxzY==",
+          "pitch": "This article defines creative coding as the use of programming for self-expression and interactive experiences, fostering intrinsic motivation and creative confidence in children. It's highly relevant to Nuno's academy's goal of developing innovative thinkers through coding."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "JDSupra",
+          "source_line2": "by JAMS",
+          "title": "The Emotionology of Arbitration and Mediation",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAU7QIAy1nIK9CxltjAX9RU_HZhyYg3i1S8gizjq0DWIGkR1ovNGg4ZPISZ205Ur7bYodgOqtIp96ZoR1qWrWgAQm0ZjIciGLp38pZpLYisuyeuPKSi-ZnRz3_U-Ge8QYK4mpUIxbRQpg6VygHany9RJq0_puBTr9Cq2vOKnVvvqWiIrcsjCZZew==",
+          "pitch": "This recent article introduces 'emotionology,' an applied science examining how emotions influence decision-making in arbitration and mediation. It offers a nuanced perspective on the psychology of judgment, directly resonating with Nuno's 'Arbiter' theme."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Mind & Life Institute",
+          "source_line2": "",
+          "title": "The varieties of contemplative experience",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVRlKbjtfB3jKnnGeEZ4p-Ogvz5SVdeKPH_NJOjJiBXq-xNHIwyaqDm9hp4riNHHxhh64gGM16lw0mJQOwI2EIIS0l7bfZIra1R0nPC3My4EiSllMCYI-hEp_B_OgZWbSiIGounj3zGidtrzKGAWGWHyHYvoWmYDJDT0P8JLZ11MOh8zq-Deo==",
+          "pitch": "This piece explores the diverse range of experiences that can arise from meditation, including changes in perceptual capabilities and sense of self. It resonates with Nuno's interest in the non-superficial aspects of mindfulness, particularly the dynamic between intellectual 'knowing' and direct 'feeling.'"
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Backstage",
+          "source_line2": "",
+          "title": "Good Acting vs. Bad Acting: How Can You Tell?",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN20xJs39OCJVQupXhAMLdIKqXd1H3ZmDilNJYh-av-yZWYGjrVHUupYxyMCVMuWvPQSzhJMjsMM99pOJ63QhYpp0hCuPBi_3zMDJ4DdFr_gVB45oNPjOdK1U2q0lqIsVmejPUaEJYvQFRAbsQ4rpDbFBKqNU6_hRu_umT0EygPzx9mAkG",
+          "pitch": "This engaging article delves into the subjective nature of judging 'good' versus 'bad' acting, touching on authenticity, nuance, and audience connection. It's a surprising, yet thought-provoking read that connects to Nuno's interests in perception, systems, and the dynamic between logic and emotion."
+        }
+      ]
+    }
+  ]
+}

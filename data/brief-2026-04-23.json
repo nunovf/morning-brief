@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-23",
+  "day_name": "Thursday",
+  "display_date": "April 23, 2026",
+  "section_count": 5,
+  "item_count": 7,
+  "quote": "“Knowing is not enough; we must apply. Willing is not enough; we must do.”",
+  "quote_attr": "— Johann Wolfgang von Goethe",
+  "through_line": "Today's brief focuses on the practical application of discernment, both in AI development and in our own cognitive processes. From the ethical imperative of active engagement in AI to the tools that empower non-coders in app creation, and how coding builds logical thinking in children, the articles collectively underscore the critical path from understanding to action. The 'Arbiter' theme is further explored through the psychological gap between insight and real-world change.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "PMC",
+          "source_line2": "",
+          "title": "Moral engagement and disengagement in health care AI development",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl_ntS4kejoZdmwO3BusWI-WKk-NflRbxMh6WHcD2b8aC8XllDgsreC_Brmq4Tt2EDzFxf5juTfu2Z9rSEpVYvOH63BWMiEjyPhTISfb6-LzMe5DVp9okPMHVJz1S76Eo_e6yz1lLdsg-FeAUi",
+          "pitch": "This article examines moral engagement in AI development, emphasizing how organizations can foster ethical design beyond technical solutions. It directly speaks to Nuno's interest in the ethical imperative for individuals with moral hesitations to actively engage in shaping AI."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Airtable",
+          "source_line2": "",
+          "title": "The best no-code AI tools for 2026: The ultimate guide",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuyxTezjJ3Zav3gUBBrJEV1QTZ4uXQfb0c6C5mOgoPbMs-4jixL1b94qfw2Se_POIh0qqwAwi2oyGloj6CoLLxVL0Nrfg2HPEZG_8H2ZbtJMdJ90EAd8X_sLcBiUrCkC5dGzmz_vkaNjZDKjpU",
+          "pitch": "This ultimate guide to no-code AI tools for 2026 offers Nuno a comprehensive look at platforms enabling non-technical users to build and launch AI apps. It's highly relevant to his focus on AI's role in creating efficient utility applications."
+        },
+        {
+          "source_line1": "UIdeck",
+          "source_line2": "",
+          "title": "9+ Best No-Code and Low-Code AI Website Builders for 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMSo6219eilIg8ykFLRQvwmd7hGd_dk0kaQPrzKg0A0w1SQdpp9CwhGFZWUMz_cMdwJQdSfxsfjUCtbAKBAaeIB7Yb9WbSC-0e7G38ZLbObWUymsoMtMGckuu9pQ1M7SJXJ8bktcaJyFPu",
+          "pitch": "Providing a review of top AI website builders, this article offers insights into platforms that enable both beginners and more experienced users to create professional sites. It's valuable for Nuno to understand the diverse tools available for AI-assisted web development."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Coding for Kids Blog",
+          "source_line2": "",
+          "title": "Encourage Innovative Thinking with Coding for Kids",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD5tA1PuJHns6JYlwRvM3u7MH_I1dY9Jhhj2x7nvpJasfLsQJoEWUsGTYLDM-E61qH4ubXQOeUyazhxGeUDR5YNIhgigBRxOPk9lHIyHMpvhVRYiZh5Fy6yLIQd7jwXq-dKapId98ZLV-G7umGfJcPkoDLUNPzQhHhBno4pxJdgP_Nf8VgBkhAOQ7ceJlnMNSq5g==",
+          "pitch": "This article provides engaging methods for fostering innovative thinking and creativity through coding for children. It's relevant for Nuno in designing lessons that combine logic with artistic expression, helping kids translate ideas into reality."
+        },
+        {
+          "source_line1": "Growing Stars",
+          "source_line2": "",
+          "title": "How Coding Classes Boost Logical Thinking in Elementary Kids",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7pRjm2-U_u__ZK4Tc1zlsiNQ6YlmeUK41PoJGWi-mMQF1spGCuMudEL_j3eEh5NXwNKuS7dbwnKbiRf3Hen8uD5SEwZ73gtMz_kNCJlrot0wGmFwaEe3FoPdc8DhFvf2wI7hhaUIc_iEEJYfN8QAwSC9eY_f6JV0t_bGP6t_l6gpShloO2VAGBzIL055bxObMgzKptA==",
+          "pitch": "This piece highlights how coding enhances logical thinking, problem-solving, and creativity in elementary students. It supports Nuno's pedagogical approach by emphasizing the fundamental cognitive benefits of early coding education."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Psychology Today",
+          "source_line2": "",
+          "title": "Closing the Gap Between Insight and Action",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw8JEmPQ-ilcCelD6i164il2TVPVRyS3c7ekaxQJGEVmN8IQWYL1cDlYibS_8mvGt9V2nDHgbK-P3dKID95lAN55ETk4_6ZvGXbxQfnDe8hd8Xk7MDjN1gCxgpoi83-rxpZJeqjky9rd14zKQEweram9VIsrjicdkFdvXJMyJfES7fdL6jkSZqmb20MCNmKgz54VY_yWobB9fkvu6KP3pJ8Xtztw==",
+          "pitch": "This article directly addresses the 'discernment-action dilemma,' exploring why intellectual insights often fail to translate into meaningful action. It provides valuable psychological insight for Nuno's 'Arbiter' theme, particularly the internal struggles of knowing but not acting."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "International Lexicon of Aesthetics",
+          "source_line2": "",
+          "title": "Acquired Taste",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjnGOfNR3wCdFy8T_4Yg1hHYL-A4oDvIxE3Zg0w42VUcznQTLJmKMrbFiHV-yWPgJN61V63Z24hwnWpQMoX4tUyeFplQ3SCE4u5Mwsis0yFPfNVyNhNGVOAGr3KfF9lsSdjrHdJbV99eLong-92mc7n8XAdxSJm-g-zm0tfEhnEfZLc8uLTz7rPhSZWXObY61L5Pc6czYrUuejDfk==",
+          "pitch": "A fascinating dive into the philosophical and sociological aspects of 'acquired taste,' this article explores how personal preferences are shaped and how they contribute to identity. It offers a surprising, yet deeply relevant, lens through which to consider judgment and cultural capital."
+        }
+      ]
+    }
+  ]
+}

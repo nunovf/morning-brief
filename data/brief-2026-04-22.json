@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-22",
+  "day_name": "Wednesday",
+  "display_date": "April 22, 2026",
+  "section_count": 5,
+  "item_count": 8,
+  "quote": "“The unexamined life is not worth living.”",
+  "quote_attr": "— Socrates",
+  "through_line": "Today's brief invites a deeper, more philosophical reflection on our interaction with the world, both digital and internal. Articles explore AI's role in ethical decision-making, its creative potential in web design, how design thinking fosters empathy in learning, and a profound dive into the psychology of taste and the challenges of translating insight into action, resonating with the 'Arbiter' theme of judgment and identity.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "RTS Labs",
+          "source_line2": "",
+          "title": "AI as a Moral Partner: A Socio-Techno Utopia Worth Striving For?",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECQf_51wHgFf76A4V8xCVN0_8y5obP2OBWFjk1kxV92UZ4RdKToUVynSvbcGzURKgfe7UKCS9FK6W_zokMFfBPfNx_SGKdQpzvK24gZBLKX0UOpz5uoxXL4lX3ONin34DQi8Ly",
+          "pitch": "This article explores AI's potential as a moral partner, enhancing human decision-making and reducing bias, while emphasizing the need for transparency and human oversight. It's a philosophical look at AI's ethical role, aligning with Nuno's interest in what kind of world AI is building."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The HypeEdge",
+          "source_line2": "",
+          "title": "AI-Powered Website Design with No-Code & Low-Code Tools",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvN2RGEO_WpjgGjiJ_hupm64_GBZHSCyjHL9RHKxW1e7mtRYNMPNswWjTOn16tQ_6wAEtxo9dQZd_oSS-xd3CRUIW_iqbUIMjzD9WAoaTBThZfMOLRa0-f9QUSQSh6hwWYXU_Kq4v9_lXF0hNg2YZjrpgAcSQfA2ITjj1Jz8aj3-eD1SUYfJZodwamksJbHB-G71aczApNOVBL6Gd2yzcHeYGD1qB2K27e6L5eKl7lbdHmlmmw0XiFHLqIJuOyZMZ",
+          "pitch": "This piece delves into how AI and no-code tools are transforming web development, focusing on automated layouts and smart personalization. It addresses Nuno's curiosity about AI's ability to produce creative layouts and streamline the design process."
+        },
+        {
+          "source_line1": "Low-Code Website Builder",
+          "source_line2": "",
+          "title": "Low-code Website Builder, Create Custom & Professional Websites",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEobLLSSK517_gQpV3ueQpL0_Y30DTarifGtVnggune92QGgzMZ6CZFJ2wB7rgmAVvRU1CnA9R2euS0CmTeVKN5r3yJgOldcIWwVE4j-aWcuwY=",
+          "pitch": "This article highlights an AI-powered low-code solution that enables the rapid creation of custom websites from prompts. It resonates with Nuno's interest in efficient, AI-assisted development for non-technical users and the potential for new creative workflows."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "IMACS",
+          "source_line2": "",
+          "title": "Computational Thinking for Kids: A Guide to Fun and Engaging Activities",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw5msZExSr_Ob5INiklTHJV3BWbqypxC8IhaQTD_7omhmC7DHF_mRDhG_YcTHB_7Adbn-Cvh1gkx1124LlSy9ugjaeSXGqHw5ngUn7S9mM7midUYyD9s_klEKE3oq8utIwKFjhK9C-BgZVIAncXOI-6g==",
+          "pitch": "This guide emphasizes developing abstract thinking skills in children through computational thinking, even without coding. It offers Nuno valuable perspectives on nurturing a computational mindset that extends beyond the screen, aligning with his 'grounded innovators' philosophy."
+        },
+        {
+          "source_line1": "Child Care Aware of Kansas",
+          "source_line2": "",
+          "title": "Design Thinking For & With Children",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy2gaxlstxmEsCdlaHF-x1_L0X9bPHY4CRH8JhZprQkdk-PAculYvqOg6UoY_q1e8yqiYPD5R9OKw6jG0d4pzAglq0VrdwKbhGuH1XWYGE57iXC1a08d7a11S0gRZxnmv-u9Nn9Sdk9pM==",
+          "pitch": "This article discusses the principles of design thinking and its importance for fostering creativity, empathy, and problem-solving in children. It resonates with Nuno's approach to education, emphasizing how kids can gain confidence in shaping their world."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "PMC",
+          "source_line2": "",
+          "title": "The Aesthetic Self. The Importance of Aesthetic Taste in Music and Art for Our Perceived Identity",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXj6qnX5libT98ozHzIMvHwJzJG2nZHdxo0DwFfZOYJSzO82jDR1DpJa2pSU4yXJ1-Y2H2MyEmknsjOJNG_4t_BY71hWmgSjCE0xQgzncZ4E9jcBuueiX6t8FqoBQ5OREQaEi887BRj7TgkOg==",
+          "pitch": "This article explores the profound connection between aesthetic taste and perceived identity, suggesting that changes in taste can be seen as significant as changes in religious or political affiliation. It deeply resonates with Nuno's 'Arbiter' theme, particularly on taste as identity."
+        },
+        {
+          "source_line1": "Ahead App Blog",
+          "source_line2": "",
+          "title": "Self Awareness and Critical Thinking: Breaking Analysis Paralysis",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrOfHEfB_NHZbhFmKS25lhHwR8BTvp1kgOupdxcnTWwahFlmk6W12br-bBvCsYPzRuMDhpK_GMTRS92hM-P6uiDZnWm4TIBdO_7wRRwjrQQGzm1NwSU91zdsdHF_LZb2T05mutiyfRM3xakXyPRyxOZrhSAmmigExceRAGk0PQFO8kF7h2zLSf7r1iex25Xn_5bj3ZhvXgFTidsOHHIpcUIMs==",
+          "pitch": "This piece delves into the 'introspection trap,' where self-awareness without critical thinking leads to analysis paralysis and a failure to act despite knowing. It perfectly aligns with Nuno's 'Arbiter' theme and the discernment-action dilemma."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "International Lexicon of Aesthetics",
+          "source_line2": "",
+          "title": "Acquired Taste",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjnGOfNR3wCdFy8T_4Yg1hHYL-A4oDvIxE3Zg0w42VUcznQTLJmKMrbFiHV-yWPgJN61V63Z24hwnWpQMoX4tUyeFplQ3SCE4u5Mwsis0yFPfNVyNhNGVOAGr3KfF9lsSdjrHdJbV99eLong-92mc7n8XAdxSJm-g-zm0tfEhnEfZLc8uLTz7rPhSZWXObY61L5Pc6czYrUuejDfk==",
+          "pitch": "An insightful exploration into the concept of 'acquired taste' from a philosophical and sociological perspective, this article delves into how taste is shaped by upbringing and cultural norms. It offers a surprising, yet deeply relevant, look at judgment and identity."
+        }
+      ]
+    }
+  ]
+}

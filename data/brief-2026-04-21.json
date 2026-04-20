@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-21",
+  "day_name": "Tuesday",
+  "display_date": "April 21, 2026",
+  "section_count": 4,
+  "item_count": 7,
+  "quote": "“The future is shaped by those who show up.”",
+  "quote_attr": "— Unknown",
+  "through_line": "Today's brief delves into the practicalities and responsibilities of engaging with AI. Articles explore how ethical considerations are embedded in AI development, how various platforms facilitate AI-powered app creation for non-technical users, and the foundational role of computational thinking in fostering creativity in young learners. The selection emphasizes active participation in shaping both technology and human potential.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Medium",
+          "source_line2": "by Jacob Grow",
+          "title": "AI's Moral Intelligence: Its Ethics and Our Collective Responsibility",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN2mr5jy58_IlpL3o-ODmRWYxNq8yur1dR2PGwg-BLYb8gS30gqo_eiANC57L_DgV3M71AyoS_6MwKwsquLsUwlh_LzmyTSkG3bD8z0tvTBle6fIUTwBUxGDt8hHflzcKusKeZ6XXhgBzV7f_oz-6SuWNfExPsdofIqal8BXaaKnP4ZG3GoMIlV8JHHclvw1ElEBx4LQkW3N0_Qj4ysxlRRtuOC44",
+          "pitch": "This article highlights the collective responsibility in embedding ethical principles into AI development, arguing that AI's impact is shaped by the ethics we infuse. It reinforces Nuno's interest in the ethical imperative for engagement with AI, ensuring a future guided by human empathy."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Zapier",
+          "source_line2": "",
+          "title": "The 6 best AI app builders in 2026",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXsChaef6a1RBBgxlT84hixQ93L-x-jRBVZpsCTRGT6a-1T8R0sDTcy2rXuRKKWhCKS45zqv4ExgaO2XZhz7WQNmVvgthlzz-BbZoW99Ka1JLk5Xgg7r9PUJrSe5PQacOVWplKycv7",
+          "pitch": "For Nuno, this overview of top AI-powered app builders provides practical insights into platforms that allow non-technical users to create applications. It's relevant to understanding the evolving landscape of AI-assisted development and tools for building mini-apps."
+        },
+        {
+          "source_line1": "App Builder",
+          "source_line2": "",
+          "title": "AI-Powered App Building: Step-by-Step Guide For Faster App Creation",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzhmF63_ZQ5atSenNoU0Ke7Rv8m-7ar679x5EunNCsxT1u9_KqSZlVtKj3r1s2Fc_BJSeRkxvDSnBpF5kQCZDLaA_mY6XHcryY_f04EafuAk6-3MZtmopuc_KnQbZYni03dOe4Jfw26O1i9LCfG_o11NI",
+          "pitch": "This step-by-step guide is highly practical for Nuno, detailing the process of leveraging generative AI tools for faster app creation. It aligns with his interest in AI's role in streamlining the development workflow for utility apps."
+        },
+        {
+          "source_line1": "Stack AI",
+          "source_line2": "",
+          "title": "AI Tools for Non-Technical Users: Top Platforms & Strategies",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtbjAOcuZuIf0mjivb6UmijrBNcjgzEtSuNOMvIqvPTK7yCvtIefouVED07Rn-kmJ4BLCsCHeipWrCeqly5DthaaSxm4-lQZ3-6nase4imSVux0DMfZ0TQYiIPYNzCPL1ucVLT59tay2M1esgLyZrSdiT1OQ==",
+          "pitch": "This article offers a strategic overview of AI tools designed for non-technical users, categorizing platforms and explaining how they democratize access to advanced capabilities. It provides broader context for Nuno's focus on AI-assisted app creation."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "HackerKID",
+          "source_line2": "",
+          "title": "Computational Thinking: A Comprehensive Guide for Kids & Parents",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqeW64NKtwJCaQmw5VuKD-HBqMO5P9mWc8dRIGDolaHmwnGtZIHRb4bWxf1yhhQIzmWc-zLy6R2spduAwWJpr4SaUPp8bBBEt1Zg4chaCnZqitQ5x_kt6ZVr4G5X2U6v3_vPRL2s5TVRBsjHFl0GU5YHShcsKmsnV9Dbi46RXM6G84B5U6PptRXcjFGumowGhqGSq0gnDlbqcnEtw",
+          "pitch": "This guide unpacks computational thinking, highlighting its role in problem-solving, enhancing creativity, and improving logical reasoning for children. It offers Nuno a foundational perspective on the skills cultivated at Codebloom Labs."
+        },
+        {
+          "source_line1": "NCCE",
+          "source_line2": "",
+          "title": "Developing Computational Thinking Skills in Early Childhood Education",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_8-JekipAYV0q-u1bo4NdxEbuKCrH-CYUmYEJrnxYccCNAa9gXKRLSqe6xLlDYIY_i18-f_D5F6dP1XROzyILszncGWE55P0ADdZj74bmLmrkY0BmCwKemzf0uC0pDOBWc0u5YDCnycPXHbLCcQPn-hU2uwLj1taZNXByQ4PDbrFih11Jf3ZMYbZblee9PmpUXQ==",
+          "pitch": "While focused on early childhood, this article provides actionable strategies for fostering computational thinking, emphasizing play-based learning and creativity. It offers Nuno practical ideas for integrating these concepts into his elementary curriculum."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Day Translations Blog",
+          "source_line2": "",
+          "title": "20 Fascinating Cultural Traditions Around the World",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvECfXPe-JMXTy4Oq4sk3eWo85CjKOOl39LbM5sMUyN2-TKySqjBm2Q8S9Lcp6-c-6GINOHuyCCWTLKyx_zaBOzcBTr_VsQMTXpylKyrVtKccr9U1TX7mE2NfeBCrdgXIGJzd96BjMW8QVVsyQ1w9ZL0zN4f1nNslq90f9CvE5",
+          "pitch": "This collection of unique cultural traditions from around the globe provides a fascinating glimpse into diverse human practices. It offers a surprising and enjoyable break from technology-focused content, appealing to Nuno's curious thinking."
+        }
+      ]
+    }
+  ]
+}
