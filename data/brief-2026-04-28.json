@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-28",
+  "day_name": "Monday",
+  "display_date": "April 28, 2026",
+  "quote": "The only way to do great work is to love what you do.",
+  "quote_attr": "— Steve Jobs",
+  "through_line": "Today's brief explores the evolving landscape where human ingenuity meets artificial intelligence, from designing AI with ethical considerations to fostering creativity in children. It also delves into the psychological underpinnings of our pursuit of excellence and the profound impact of our environment on our inner world, highlighting the continuous dialogue between logic and emotion.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "MIT News",
+          "source_line2": "Massachusetts Institute of Technology",
+          "title": "Aligning AI with human values",
+          "url": "https://news.mit.edu/2025/audrey-lorvo-aligning-ai-human-values-0204",
+          "pitch": "This article from MIT News delves into the critical field of AI safety, emphasizing the necessity of aligning increasingly intelligent AI models with human values and ethical principles. It highlights the interdisciplinary approach required to address technical challenges like robustness and societal concerns such as transparency and accountability."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Gartner",
+          "source_line2": "",
+          "title": "How to Build an AI Strategy and Keep It Current",
+          "url": "https://www.gartner.com/en/articles/ai-strategy-for-business",
+          "pitch": "This Gartner piece outlines the essential components of a dynamic AI strategy, stressing the importance of defining a clear AI vision, understanding market drivers, and proactively managing risks. It underscores that AI strategy must evolve alongside business priorities and emerging AI capabilities to realize its full transformative potential."
+        },
+        {
+          "source_line1": "Simpleview Articles",
+          "source_line2": "",
+          "title": "The rise of AI in travel planning: What DMOs need to know",
+          "url": "https://www.simpleviewinc.com/blog/stories/post/the-rise-of-ai-in-travel-planning-what-dmos-need-to-know/",
+          "pitch": "This article addresses the profound impact of AI on destination marketing organizations (DMOs), highlighting the shift from traditional website traffic to 'share of voice' within AI-generated responses. It emphasizes the critical need for DMOs to optimize structured data to remain visible and authoritative in the evolving AI-driven travel planning landscape."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "K5 Learning",
+          "source_line2": "",
+          "title": "How to Teach Kids Computational Thinking Without Screens",
+          "url": "https://www.k5learning.com/blog/computational-thinking",
+          "pitch": "This piece offers practical, screen-free strategies for developing computational thinking in elementary-aged children, focusing on everyday problem-solving, logical reasoning, and breaking down tasks. It provides actionable examples like turning routines into learning opportunities and playing 'Human Robot' to teach clear instructions."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "EBSCO",
+          "source_line2": "Research Starters",
+          "title": "Perfectionism (psychology)",
+          "url": "https://www.ebsco.com/research-starters/health-and-medicine/perfectionism-psychology",
+          "pitch": "This research starter delves into the psychological origins of perfectionism, tracing its roots to childhood experiences, parental expectations, and conditional love. It illuminates how these early influences can shape feelings of self-doubt and a fear of failure, offering insight into the cognitive and emotional patterns that underpin this trait."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "VA.gov",
+          "source_line2": "",
+          "title": "Mindful Awareness Practice in Daily Living",
+          "url": "https://www.va.gov/WHOLEHEALTHLIBRARY/docs/Mindful-Awareness-Practice-in-Daily-Living.pdf",
+          "pitch": "This resource explores the integration of mindful awareness into everyday life, moving beyond formal meditation to a state of continuous, compassionate attention. It offers practical hints and exercises for fostering a 'beginner's mind' and staying grounded in the present moment amidst daily activities."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Smithsonian Magazine",
+          "source_line2": "",
+          "title": "This Russian Family Lived Alone in the Siberian Wilderness for 40 Years, Unaware of World War II or the Moon Landing",
+          "url": "https://www.smithsonianmag.com/history/siberian-family-escaped-communist-persecution-and-lived-alone-40-years-180953043/",
+          "pitch": "This captivating longform piece tells the extraordinary true story of the Lykov family, who fled religious persecution in the 1930s and lived in complete isolation in the Siberian wilderness for 40 years. Their discovery in 1978, unaware of major global events like World War II, offers a profound reflection on human resilience, adaptation, and the nature of connection."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}
