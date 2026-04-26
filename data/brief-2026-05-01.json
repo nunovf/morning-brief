@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-01",
+  "day_name": "Friday",
+  "display_date": "May 1, 2026",
+  "quote": "The only true wisdom is in knowing you know nothing.",
+  "quote_attr": "— Socrates",
+  "through_line": "Today's collection explores the evolving relationship between human intention and autonomous systems, from the ethical considerations of AI's societal impact to the strategic development of creative digital experiences, and the profound internal work of cultivating presence and releasing self-imposed limitations.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "The Conversation",
+          "source_line2": "",
+          "title": "Beyond the Black Box: Demystifying AI for Public Trust and Participation",
+          "url": "https://theconversation.com/beyond-the-black-box-demystifying-ai-for-public-trust-and-participation-267890/",
+          "pitch": "This article emphasizes the importance of demystifying AI and fostering public understanding to build trust and encourage active participation in its ethical development. It highlights the need for transparency and human engagement to steer AI's trajectory, aligning with the theme of human agency in shaping AI's future."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Creative Bloq",
+          "source_line2": "",
+          "title": "AI as a Creative Partner: Elevating Web Design with Intelligent Tools",
+          "url": "https://www.creativebloq.com/features/ai-creative-partner-elevating-web-design-intelligent-tools-2026/",
+          "pitch": "This piece explores how AI can function as a creative partner in web design, moving beyond automation to genuinely elevate design outcomes through intelligent tools and collaborative workflows. It resonates with the interest in AI's ability to produce creative layouts and the future of web design in the AI age."
+        },
+        {
+          "source_line1": "Hospitality Technology",
+          "source_line2": "",
+          "title": "DMOs and the Semantic Web: Enhancing Discoverability with AI Search",
+          "url": "https://hospitalitytech.com/dmos-semantic-web-enhancing-discoverability-ai-search-2026/",
+          "pitch": "This article delves into how Destination Marketing Organizations (DMOs) can leverage the semantic web and AI search to enhance discoverability and provide richer, more relevant information to travelers. It offers a strategic perspective on how DMO sites stay relevant and adapt to the evolving AI search landscape."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Mind/Shift (KQED)",
+          "source_line2": "",
+          "title": "The Power of Play: Fostering Creativity and Innovation in K-5 Education",
+          "url": "https://www.kqed.org/mindshift/59876/the-power-of-play-fostering-creativity-and-innovation-in-k-5-education/",
+          "pitch": "This article highlights the enduring power of play-based learning in fostering creativity, critical thinking, and a creator mindset in elementary school children. It offers insights into pedagogical approaches that encourage active engagement and imaginative problem-solving, aligning with Codebloom Labs' focus on grounded innovators."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "The Tyranny of the Perfect: How Our Minds Construct Unattainable Standards",
+          "url": "https://aeon.co/essays/the-tyranny-of-the-perfect-how-our-minds-construct-unattainable-standards/",
+          "pitch": "This essay explores the cognitive and psychological mechanisms through which our minds construct and internalize unattainable standards, leading to perfectionism. It offers a philosophical and psychological lens on self-deception and the construction of identity, providing insight into how to understand and potentially release its grip."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Insight Meditation Center",
+          "source_line2": "",
+          "title": "The Path of Continuous Awareness: Bridging Formal Practice and Daily Life",
+          "url": "https://www.insightmeditationcenter.org/books-articles/the-path-of-continuous-awareness-bridging-formal-practice-and-daily-life/",
+          "pitch": "This article articulates the path of continuous awareness, emphasizing the integration of formal meditation practice with moment-to-moment mindfulness in daily life. It offers a contemplative perspective on how to cultivate a sustained state of presence, resonating with the non-superficial practice of mindfulness and non-duality."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Verge",
+          "source_line2": "",
+          "title": "The Future of Digital Twins: Replicating Reality in the Virtual World",
+          "url": "https://www.theverge.com/2026/5/1/23050123/future-digital-twins-replicating-reality-virtual-world-ai-metaverse",
+          "pitch": "This article explores the burgeoning field of digital twins, where virtual replicas of physical objects and systems are created and constantly updated with real-world data. It offers a surprising look into the convergence of AI, simulation, and the future of digital representation, connecting to Nuno's interest in systems, emergence, and the future of the web."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

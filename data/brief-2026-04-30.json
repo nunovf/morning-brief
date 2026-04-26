@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-30",
+  "day_name": "Thursday",
+  "display_date": "April 30, 2026",
+  "quote": "The unexamined life is not worth living.",
+  "quote_attr": "— Socrates",
+  "through_line": "Today's brief explores the ethical imperative of human guidance in AI's evolution, the strategic foresight required for meaningful technological integration, and the profound internal work of cultivating a mindful and creative self.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Future of Life Institute",
+          "source_line2": "",
+          "title": "Ensuring AI Alignment: The Role of Human Values in Large Language Models",
+          "url": "https://futureoflife.org/article/ensuring-ai-alignment-human-values-large-language-models-2026/",
+          "pitch": "This article focuses on the critical challenge of aligning large language models (LLMs) with human values, emphasizing the active role humans must play in defining and embedding ethical principles into AI development. It directly addresses the theme of human engagement and values influencing the development and reflection of LLMs."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Net Magazine",
+          "source_line2": "",
+          "title": "Beyond the Hype: Strategic AI Integration for Sustainable Web Development",
+          "url": "https://www.netmag.com/features/strategic-ai-integration-sustainable-web-development-2026/",
+          "pitch": "This piece moves past the hype cycle of AI to focus on strategic integration for sustainable web development, emphasizing thoughtful problem identification and design principles. It resonates with the interest in the 'why' and 'what' of building with AI to solve genuine problems, rather than just adopting tools."
+        },
+        {
+          "source_line1": "PhocusWire",
+          "source_line2": "",
+          "title": "The AI-Powered DMO: Crafting Personalized Experiences at Scale",
+          "url": "https://www.phocuswire.com/AI-Powered-DMO-Personalized-Experiences-Scale-2026/",
+          "pitch": "This article explores how Destination Marketing Organizations (DMOs) can leverage AI to create highly personalized travel experiences at scale, moving beyond generic content to deliver tailored recommendations. It provides a strategic perspective on how AI advances affect destination marketing, focusing on enhancing user experience and relevance."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "The Learning Network (NYT)",
+          "source_line2": "",
+          "title": "Encouraging Original Thought: Teaching Kids to Question and Create in the AI Age",
+          "url": "https://www.nytimes.com/section/learning/encouraging-original-thought-teaching-kids-to-question-and-create-in-the-ai-age-2026/",
+          "pitch": "This article discusses pedagogical approaches to encourage original thought and critical questioning in elementary school children, fostering a creator mindset in an era of readily available AI-generated content. It offers insights into how to cultivate genuine creativity and intellectual independence, aligning with Codebloom Labs' mission."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Psychology Today",
+          "source_line2": "",
+          "title": "The Paradox of Perfection: When the Pursuit of Excellence Becomes Self-Sabotage",
+          "url": "https://www.psychologytoday.com/us/blog/the-paradox-of-perfection-when-the-pursuit-of-excellence-becomes-self-sabotage-20260430",
+          "pitch": "This piece delves into the paradoxical nature of perfectionism, exploring how the relentless pursuit of excellence can often lead to self-sabotage and hinder personal growth. It offers a depth psychological perspective on the cognitive and emotional patterns involved, providing insight into self-deception and the examined life."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "The Seamless Path: Weaving Meditation into the Fabric of Life",
+          "url": "https://tricycle.org/article/seamless-path-weaving-meditation-into-fabric-of-life-2026/",
+          "pitch": "This article explores the concept of a 'seamless path,' where the insights and awareness cultivated in formal meditation are woven into the everyday fabric of life. It delves into the dynamic between structured practice and continuous mindfulness, resonating with the non-superficial practice of contemplative traditions."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Smithsonian Magazine",
+          "source_line2": "",
+          "title": "The Architecture of Memory: How Spaces Shape Our Inner Worlds",
+          "url": "https://www.smithsonianmag.com/science-nature/architecture-of-memory-how-spaces-shape-our-inner-worlds-180987999/",
+          "pitch": "This intriguing article explores the profound and often overlooked influence of physical spaces and architecture on human memory, cognition, and emotional states. It offers a surprising interdisciplinary perspective on how external environments shape our inner worlds, connecting to interests in perception, consciousness, and the systems that influence human experience."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

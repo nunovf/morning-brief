@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-29",
+  "day_name": "Wednesday",
+  "display_date": "April 29, 2026",
+  "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+  "quote_attr": "— Michelangelo",
+  "through_line": "Today's selections explore the boundaries of human and artificial potential, from the ethical considerations of AI's expanding capabilities and its impact on creative work, to the pedagogical approaches that foster genuine innovation in children, and the profound insights into the nature of self-imposed limitations.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Wired",
+          "source_line2": "",
+          "title": "Beyond Automation: How AI is Reshaping Human Creativity and Collaboration",
+          "url": "https://www.wired.com/story/ai-reshaping-human-creativity-collaboration-2026/",
+          "pitch": "This article looks beyond the fear of AI replacing human jobs to explore how AI is fundamentally reshaping human creativity and fostering new modes of collaboration. It delves into the less obvious implications of AI on the nature of work and human connection, aligning with the theme of what kind of world AI is building beneath the noise."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "UX Collective",
+          "source_line2": "",
+          "title": "The Art of the Prompt: Guiding AI for Creative Web Design Outcomes",
+          "url": "https://uxdesign.cc/the-art-of-the-prompt-guiding-ai-for-creative-web-design-outcomes-2026/",
+          "pitch": "This piece explores the emerging skill of 'prompt engineering' specifically for generating creative web design layouts with AI, moving beyond basic commands to a more nuanced understanding of how to guide AI for genuinely innovative results. It directly addresses the interest in AI's ability to produce creative layouts and the craft of interacting with AI for design."
+        },
+        {
+          "source_line1": "Skift",
+          "source_line2": "",
+          "title": "DMOs as Storytellers: Leveraging AI for Authentic Destination Narratives",
+          "url": "https://skift.com/2026/04/29/dmos-as-storytellers-leveraging-ai-for-authentic-destination-narratives/",
+          "pitch": "This article discusses how Destination Marketing Organizations (DMOs) can strategically utilize AI to craft more authentic and compelling destination narratives, moving beyond generic content to create resonant stories. It offers a strategic perspective on how AI advances affect destination marketing, focusing on creative content generation."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Education Week",
+          "source_line2": "",
+          "title": "Beyond Rote Learning: Fostering Innovation Through Project-Based Learning in K-6",
+          "url": "https://www.edweek.org/leadership/beyond-rote-learning-fostering-innovation-through-project-based-learning-in-k-6/2026/04",
+          "pitch": "This article advocates for project-based learning as a powerful method to foster innovation and a creator mindset in elementary school children, moving beyond traditional rote learning. It provides practical insights for educators on how to design curricula that encourage active creation and problem-solving, aligning with Codebloom Labs' goals."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Harvard Business Review",
+          "source_line2": "",
+          "title": "The Psychology of 'Good Enough': Releasing the Grip of Perfectionism",
+          "url": "https://hbr.org/2026/04/the-psychology-of-good-enough-releasing-the-grip-of-perfectionism/",
+          "pitch": "This piece explores the psychological mechanisms behind perfectionism and offers insights into how individuals can understand and gradually release its grip by embracing the concept of 'good enough.' It delves into cognitive and emotional patterns without being prescriptive, resonating with the interest in depth psychology and self-knowledge."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Spirituality & Health",
+          "source_line2": "",
+          "title": "The Practice of Presence: Bringing Awareness to Daily Tasks",
+          "url": "https://www.spiritualityhealth.com/articles/the-practice-of-presence-bringing-awareness-to-daily-tasks/",
+          "pitch": "This article focuses on practical ways to cultivate a state of presence and bring mindful awareness to ordinary daily tasks, bridging the gap between formal meditation and everyday life. It offers a contemplative perspective on integrating mindfulness into the fabric of one's existence, aligning with the interest in non-duality and perception."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Atlantic",
+          "source_line2": "",
+          "title": "The Hidden History of Algorithms: From Ancient Greece to AI",
+          "url": "https://www.theatlantic.com/technology/archive/2026/04/hidden-history-algorithms-ancient-greece-ai/678901/",
+          "pitch": "This fascinating historical piece traces the lineage of algorithmic thinking from its ancient philosophical roots to its modern manifestation in AI, offering a surprising and deep dive into the foundational concepts underpinning today's technology. It provides a unique lens on the evolution of systems and logic, connecting to Nuno's interest in complex systems and their origins."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

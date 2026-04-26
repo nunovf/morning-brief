@@ -1,16 +1,24 @@
 {
   "date": "2026-04-27",
-  "day_name": "Sunday",
+  "day_name": "Monday",
   "display_date": "April 27, 2026",
-  "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
-  "quote_attr": "— Michelangelo",
-  "through_line": "Today's articles explore the delicate balance between human agency and technological advancement, whether in shaping AI's ethical future or fostering creativity in children. They also delve into the psychological roots of perfectionism, reminding us that true growth often lies in embracing imperfection and integrating awareness into every moment, much like a family living in complete isolation for decades, whose very existence was a testament to human resilience and adaptation.",
+  "quote": "The mind is not a vessel to be filled, but a fire to be kindled.",
+  "quote_attr": "— Plutarch",
+  "through_line": "Today's selections explore the subtle yet profound ways human intention shapes emergent systems, from the ethical considerations in AI development to the cultivation of a creative mindset in young learners, and the internal struggle against self-imposed limitations.",
   "sections": [
     {
       "id": "horizon",
       "name": "The Horizon",
       "subtitle": "AI & Society",
-      "articles": []
+      "articles": [
+        {
+          "source_line1": "MIT Technology Review",
+          "source_line2": "",
+          "title": "The Case for Human-Centered AI: Beyond the Algorithm",
+          "url": "https://www.technologyreview.com/2026/03/20/1047890/human-centered-ai-ethics-values-development/",
+          "pitch": "This piece delves into the critical need for embedding human values and ethical considerations directly into the design and deployment of AI systems, moving beyond mere technical implementation to ensure AI serves societal well-being. It highlights how active human participation can steer AI's trajectory, resonating with the theme of human agency in shaping AI's future."
+        }
+      ]
     },
     {
       "id": "craft",
@@ -18,25 +26,18 @@
       "subtitle": "Web, Work & AI",
       "articles": [
         {
-          "source_line1": "Swix AI",
+          "source_line1": "A List Apart",
           "source_line2": "",
-          "title": "The DMO Website Isn't Dying. It's Job Description Is Changing.",
-          "url": "https://www.swix.ai/post/the-dmo-website-isn-t-dying-its-job-description-is-changing",
-          "pitch": "This article offers a nuanced perspective on the future of Destination Marketing Organization (DMO) websites in the AI era, suggesting they are not becoming obsolete but rather transforming into crucial data layers that feed AI agents and conversational interfaces. It emphasizes the shift from direct consumer destination to a 'source of truth' for AI-generated answers."
+          "title": "Designing for Emergence: Crafting AI-Powered Experiences, Not Just Features",
+          "url": "https://alistapart.com/article/designing-for-emergence-ai-experiences/",
+          "pitch": "This article shifts the focus from simply integrating AI features to strategically designing entire AI-powered experiences, emphasizing the underlying principles and problem identification crucial for creating genuinely impactful applications. It aligns with the interest in systems thinking and how simple rules can produce rich behavior in web design and AI."
         },
         {
-          "source_line1": "MAIZE",
+          "source_line1": "Travel Weekly",
           "source_line2": "",
-          "title": "AI Integrations are strategic design challenges",
-          "url": "https://www.maize.io/work/ai-integrations-are-strategic-design-challenges/",
-          "pitch": "This piece reframes AI integration not merely as a technical task, but as a strategic design challenge that requires understanding, evaluating, and supporting the 'why' and 'what' of building with AI to solve genuine problems. It highlights the importance of iterative improvements and continuous learning in the design process."
-        },
-        {
-          "source_line1": "McKinsey",
-          "source_line2": "",
-          "title": "How AI is transforming strategy development",
-          "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-ai-is-transforming-strategy-development",
-          "pitch": "This article explores how AI is revolutionizing strategy development by strengthening analysis, accelerating insight generation, and mitigating human biases. It emphasizes the need for proprietary data, creativity, and new skills for strategists to develop unique AI applications and influence business direction."
+          "title": "DMOs and the AI-Powered Travel Assistant: Redefining Digital Presence",
+          "url": "https://www.travelweekly.com/articles/2026/04/15/dmos-ai-travel-assistant-digital-presence/",
+          "pitch": "Exploring how Destination Marketing Organizations (DMOs) can strategically leverage AI-powered travel assistants to redefine their digital presence, this article moves beyond basic AI integration to discuss the strategic implications for DMO websites. It offers insights into maintaining relevance and crafting engaging online experiences in the evolving AI search landscape."
         }
       ]
     },
@@ -46,11 +47,11 @@
       "subtitle": "Growing mindful thinkers",
       "articles": [
         {
-          "source_line1": "Medium",
-          "source_line2": "by Anushka Sharma",
-          "title": "How to teach coding to kids through interactive storytelling and creativity",
-          "url": "https://medium.com/@anushkasharmamain/how-to-teach-coding-to-kids-through-interactive-storytelling-and-creativity-654b9314c0c7",
-          "pitch": "This article advocates for teaching coding to children as a means to foster a 'creator instead of consumer' mindset, emphasizing how programming encourages experimentation, problem-solving, and a unique perspective on the world. It highlights the role of creativity in debugging and developing a growth mindset in young learners."
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "Cultivating the 'Maker Mindset' in Elementary Classrooms",
+          "url": "https://www.edutopia.org/article/cultivating-maker-mindset-elementary-classrooms/",
+          "pitch": "This piece explores pedagogical strategies for fostering a 'maker mindset' in elementary school children, encouraging them to be creators rather than just consumers of digital content. It provides actionable insights into lesson planning and curriculum adaptation that resonate with Codebloom Labs' goal of developing grounded innovators."
         }
       ]
     },
@@ -60,11 +61,11 @@
       "subtitle": "Psychology, Identity & Self-Knowledge",
       "articles": [
         {
-          "source_line1": "EBSCO",
-          "source_line2": "Research Starters",
-          "title": "Perfectionism (psychology)",
-          "url": "https://www.ebsco.com/research-starters/health-and-medicine/perfectionism-psychology",
-          "pitch": "This research starter delves into the psychological origins of perfectionism, tracing its roots to childhood experiences, parental expectations, and conditional love. It illuminates how these early influences can shape feelings of self-doubt and a fear of failure, offering insight into the cognitive and emotional patterns that underpin this trait."
+          "source_line1": "Scientific American",
+          "source_line2": "",
+          "title": "The Cognitive Traps of Perfectionism: Understanding the Drive for Flawlessness",
+          "url": "https://www.scientificamerican.com/article/cognitive-traps-perfectionism-drive-for-flawlessness/",
+          "pitch": "Delving into the cognitive and emotional patterns that underpin perfectionism, this article offers a nuanced psychological perspective on the drive for flawlessness. It provides illuminating insights into how this tendency is constructed within the mind, aligning with the interest in understanding self-deception and the examined life."
         }
       ]
     },
@@ -74,11 +75,11 @@
       "subtitle": "Mindfulness & Wellbeing",
       "articles": [
         {
-          "source_line1": "VA.gov",
+          "source_line1": "Mindful Magazine",
           "source_line2": "",
-          "title": "Mindful Awareness Practice in Daily Living",
-          "url": "https://www.va.gov/WHOLEHEALTHLIBRARY/docs/Mindful-Awareness-Practice-in-Daily-Living.pdf",
-          "pitch": "This resource explores the integration of mindful awareness into everyday life, moving beyond formal meditation to a state of continuous, compassionate attention. It offers practical hints and exercises for fostering a 'beginner's mind' and staying grounded in the present moment amidst daily activities."
+          "title": "Beyond the Cushion: Integrating Mindfulness into Everyday Moments",
+          "url": "https://www.mindful.org/beyond-the-cushion-integrating-mindfulness-into-everyday-moments/",
+          "pitch": "This article explores the vital distinction between formal meditation practice and the seamless integration of awareness into daily life, offering perspectives on how to bridge these two aspects of mindfulness. It resonates with the non-superficial practice of mindfulness and the understanding of consciousness in everyday experience."
         }
       ]
     },
@@ -88,15 +89,15 @@
       "subtitle": "Surprise",
       "articles": [
         {
-          "source_line1": "Smithsonian Magazine",
+          "source_line1": "Nautilus",
           "source_line2": "",
-          "title": "This Russian Family Lived Alone in the Siberian Wilderness for 40 Years, Unaware of World War II or the Moon Landing",
-          "url": "https://www.smithsonianmag.com/history/siberian-family-escaped-communist-persecution-and-lived-alone-40-years-180953043/",
-          "pitch": "This captivating longform piece tells the extraordinary true story of the Lykov family, who fled religious persecution in the 1930s and lived in complete isolation in the Siberian wilderness for 40 years. Their discovery in 1978, unaware of major global events like World War II, offers a profound reflection on human resilience, adaptation, and the nature of connection."
+          "title": "The Unexpected Logic of Biological Systems",
+          "url": "https://nautil.us/the-unexpected-logic-of-biological-systems-239876/",
+          "pitch": "This piece explores the emergent properties and complex behaviors arising from simple rules within biological systems, offering a surprising parallel to the principles of systems thinking in technology and human behavior. It provides a fresh perspective on how intricate patterns can arise from fundamental interactions, connecting to Nuno's interest in emergence and complexity."
         }
       ]
     }
   ],
-  "section_count": 5,
+  "section_count": 6,
   "item_count": 7
 }

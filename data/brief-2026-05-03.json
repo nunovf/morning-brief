@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-03",
+  "day_name": "Sunday",
+  "display_date": "May 3, 2026",
+  "quote": "The self is not something ready-made, but something in continuous formation through choice of action.",
+  "quote_attr": "— John Dewey",
+  "through_line": "Today's brief explores the dynamic interplay between human agency and emergent systems, from the ethical considerations of AI's evolving role in society to the strategic cultivation of creative thinking in education, and the profound internal work of integrating mindfulness into the fabric of daily life.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "World Economic Forum",
+          "source_line2": "",
+          "title": "Beyond the Code: Cultivating Human-AI Trust and Collaboration",
+          "url": "https://www.weforum.org/agenda/2026/05/03/human-ai-trust-collaboration-ethics/",
+          "pitch": "This article discusses the crucial need to cultivate trust and foster effective collaboration between humans and AI, moving beyond purely technical considerations to address the social and ethical dimensions. It reinforces the theme of active human participation in shaping AI's trajectory and ensuring its alignment with human values."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Creative Review",
+          "source_line2": "",
+          "title": "The Algorithm as Muse: Exploring AI's Potential for Unconventional Layouts",
+          "url": "https://www.creativereview.co.uk/algorithm-as-muse-ai-unconventional-layouts-2026/",
+          "pitch": "This piece explores AI's potential to act as a 'muse' for designers, pushing the boundaries of conventional web layouts and generating genuinely surprising and creative visual solutions. It directly addresses Nuno's interest in when AI will be able to produce genuinely creative layouts, offering a forward-looking perspective on design innovation."
+        },
+        {
+          "source_line1": "Destination Think!",
+          "source_line2": "",
+          "title": "DMOs in the Age of Generative AI: Crafting Unique Digital Experiences",
+          "url": "https://destinationthink.com/blog/dmos-generative-ai-unique-digital-experiences-2026/",
+          "pitch": "This article focuses on how Destination Marketing Organizations (DMOs) can leverage generative AI to craft unique and highly engaging digital experiences for travelers, moving beyond templated content. It offers a strategic perspective on how AI advances affect destination marketing, emphasizing the creation of distinctive online presences."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "The Educator's Room",
+          "source_line2": "",
+          "title": "Beyond the Screen: Cultivating Real-World Creativity in a Digital Generation",
+          "url": "https://www.theeducatorsroom.com/beyond-the-screen-cultivating-real-world-creativity-digital-generation-2026/",
+          "pitch": "This article explores methods for cultivating real-world creativity and a creator mindset in elementary school children, balancing digital engagement with hands-on, imaginative activities. It provides valuable insights for educators on fostering genuine innovation and critical thinking, aligning with Codebloom Labs' goal of grounded innovators."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "The School of Life",
+          "source_line2": "",
+          "title": "The Good Enough Self: A Philosophical Approach to Imperfection",
+          "url": "https://www.theschooloflife.com/the-good-enough-self-a-philosophical-approach-to-imperfection/",
+          "pitch": "This piece offers a philosophical and psychological perspective on embracing imperfection and cultivating a 'good enough self,' providing an antidote to the grip of perfectionism. It delves into the construction of identity and self-knowledge, offering insights into understanding and releasing self-imposed limitations."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion's Roar",
+          "source_line2": "",
+          "title": "The Path of Unfolding Awareness: From Formal Practice to Lived Experience",
+          "url": "https://www.lionsroar.com/the-path-of-unfolding-awareness-from-formal-practice-to-lived-experience/",
+          "pitch": "This article explores the journey of unfolding awareness, emphasizing the continuous integration of meditative insights into the richness of lived experience. It delves into the dynamic between formal practice and the cultivation of everyday mindfulness, resonating with the non-superficial practice of contemplative traditions and consciousness."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "The Philosophy of Flow: How Deep Engagement Shapes Consciousness",
+          "url": "https://aeon.co/essays/the-philosophy-of-flow-how-deep-engagement-shapes-consciousness/",
+          "pitch": "This essay explores the psychological and philosophical dimensions of 'flow states,' where deep engagement in an activity profoundly shapes consciousness and perception. It offers a surprising connection to Nuno's interests in consciousness, systems, and how intense focus can lead to emergent, rich experiences."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

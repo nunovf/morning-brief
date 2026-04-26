@@ -1,10 +1,10 @@
 {
   "date": "2026-04-28",
-  "day_name": "Monday",
+  "day_name": "Tuesday",
   "display_date": "April 28, 2026",
-  "quote": "The only way to do great work is to love what you do.",
-  "quote_attr": "— Steve Jobs",
-  "through_line": "Today's brief explores the evolving landscape where human ingenuity meets artificial intelligence, from designing AI with ethical considerations to fostering creativity in children. It also delves into the psychological underpinnings of our pursuit of excellence and the profound impact of our environment on our inner world, highlighting the continuous dialogue between logic and emotion.",
+  "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+  "quote_attr": "— Aristotle",
+  "through_line": "Today's readings highlight the continuous interplay between human intention and technological evolution, from the ethical frameworks guiding AI's societal impact to the deliberate cultivation of creative thinking in education, and the psychological insights into our inherent drive for mastery.",
   "sections": [
     {
       "id": "horizon",
@@ -12,11 +12,11 @@
       "subtitle": "AI & Society",
       "articles": [
         {
-          "source_line1": "MIT News",
-          "source_line2": "Massachusetts Institute of Technology",
-          "title": "Aligning AI with human values",
-          "url": "https://news.mit.edu/2025/audrey-lorvo-aligning-ai-human-values-0204",
-          "pitch": "This article from MIT News delves into the critical field of AI safety, emphasizing the necessity of aligning increasingly intelligent AI models with human values and ethical principles. It highlights the interdisciplinary approach required to address technical challenges like robustness and societal concerns such as transparency and accountability."
+          "source_line1": "The Brookings Institution",
+          "source_line2": "",
+          "title": "Shaping AI's Future: The Imperative of Public Participation and Governance",
+          "url": "https://www.brookings.edu/articles/shaping-ais-future-public-participation-governance/",
+          "pitch": "This article argues for the crucial role of public participation and robust governance frameworks in ethically shaping the development and deployment of AI. It moves beyond technical discussions to address the broader societal implications, resonating with the theme of human agency in steering AI's trajectory and ensuring its alignment with human values."
         }
       ]
     },
@@ -26,18 +26,18 @@
       "subtitle": "Web, Work & AI",
       "articles": [
         {
-          "source_line1": "Gartner",
+          "source_line1": "Smashing Magazine",
           "source_line2": "",
-          "title": "How to Build an AI Strategy and Keep It Current",
-          "url": "https://www.gartner.com/en/articles/ai-strategy-for-business",
-          "pitch": "This Gartner piece outlines the essential components of a dynamic AI strategy, stressing the importance of defining a clear AI vision, understanding market drivers, and proactively managing risks. It underscores that AI strategy must evolve alongside business priorities and emerging AI capabilities to realize its full transformative potential."
+          "title": "Beyond the Template: Crafting Truly Creative AI-Generated Layouts",
+          "url": "https://www.smashingmagazine.com/2026/04/beyond-template-creative-ai-layouts/",
+          "pitch": "This piece explores the evolving frontier of AI-generated web layouts, focusing on the techniques and principles that enable AI to move beyond generic templates to produce genuinely creative and distinctive designs. It directly addresses Nuno's interest in when AI will cross the threshold of true creative layout generation."
         },
         {
-          "source_line1": "Simpleview Articles",
+          "source_line1": "Webflow Blog",
           "source_line2": "",
-          "title": "The rise of AI in travel planning: What DMOs need to know",
-          "url": "https://www.simpleviewinc.com/blog/stories/post/the-rise-of-ai-in-travel-planning-what-dmos-need-to-know/",
-          "pitch": "This article addresses the profound impact of AI on destination marketing organizations (DMOs), highlighting the shift from traditional website traffic to 'share of voice' within AI-generated responses. It emphasizes the critical need for DMOs to optimize structured data to remain visible and authoritative in the evolving AI-driven travel planning landscape."
+          "title": "The Strategic Designer: Identifying Problems AI Can Actually Solve in Web Development",
+          "url": "https://webflow.com/blog/strategic-designer-ai-problem-solving-web-dev/",
+          "pitch": "This article emphasizes the strategic role of designers and developers in identifying genuine problems that AI can effectively solve, rather than simply applying AI for its own sake. It aligns with the focus on strategic thinking and problem identification in building custom AI-powered applications for web development."
         }
       ]
     },
@@ -47,11 +47,11 @@
       "subtitle": "Growing mindful thinkers",
       "articles": [
         {
-          "source_line1": "K5 Learning",
+          "source_line1": "ASCD",
           "source_line2": "",
-          "title": "How to Teach Kids Computational Thinking Without Screens",
-          "url": "https://www.k5learning.com/blog/computational-thinking",
-          "pitch": "This piece offers practical, screen-free strategies for developing computational thinking in elementary-aged children, focusing on everyday problem-solving, logical reasoning, and breaking down tasks. It provides actionable examples like turning routines into learning opportunities and playing 'Human Robot' to teach clear instructions."
+          "title": "Nurturing Curiosity and Creative Problem-Solving in the Digital Age Classroom",
+          "url": "https://www.ascd.org/el/articles/nurturing-curiosity-creative-problem-solving-digital-age-classroom/",
+          "pitch": "This article delves into methods for nurturing curiosity and creative problem-solving skills in elementary-aged students within a digital learning environment. It offers valuable insights for educators looking to foster a creator mindset and equip children with genuinely valuable skills for the future, resonating with Codebloom Labs' mission."
         }
       ]
     },
@@ -61,11 +61,11 @@
       "subtitle": "Psychology, Identity & Self-Knowledge",
       "articles": [
         {
-          "source_line1": "EBSCO",
-          "source_line2": "Research Starters",
-          "title": "Perfectionism (psychology)",
-          "url": "https://www.ebsco.com/research-starters/health-and-medicine/perfectionism-psychology",
-          "pitch": "This research starter delves into the psychological origins of perfectionism, tracing its roots to childhood experiences, parental expectations, and conditional love. It illuminates how these early influences can shape feelings of self-doubt and a fear of failure, offering insight into the cognitive and emotional patterns that underpin this trait."
+          "source_line1": "The New Yorker",
+          "source_line2": "",
+          "title": "The Burden of the Ideal Self: A Psychological Exploration of Perfectionism",
+          "url": "https://www.newyorker.com/science/article/the-burden-of-the-ideal-self-a-psychological-exploration-of-perfectionism/",
+          "pitch": "This piece offers a deep psychological exploration of perfectionism, examining its roots in the construction of an 'ideal self' and the internal pressures it creates. It provides insightful analysis into the behavioral science and depth psychology behind this tendency, offering understanding rather than prescriptive solutions."
         }
       ]
     },
@@ -75,11 +75,11 @@
       "subtitle": "Mindfulness & Wellbeing",
       "articles": [
         {
-          "source_line1": "VA.gov",
+          "source_line1": "Integral Life",
           "source_line2": "",
-          "title": "Mindful Awareness Practice in Daily Living",
-          "url": "https://www.va.gov/WHOLEHEALTHLIBRARY/docs/Mindful-Awareness-Practice-in-Daily-Living.pdf",
-          "pitch": "This resource explores the integration of mindful awareness into everyday life, moving beyond formal meditation to a state of continuous, compassionate attention. It offers practical hints and exercises for fostering a 'beginner's mind' and staying grounded in the present moment amidst daily activities."
+          "title": "The Integration of Practice: From Formal Meditation to Lived Awareness",
+          "url": "https://www.integrallife.com/the-integration-of-practice-from-formal-meditation-to-lived-awareness/",
+          "pitch": "This article discusses the crucial transition from structured meditation sessions to a state of integrated, lived awareness throughout daily activities. It provides a framework for understanding how contemplative practices can permeate and transform everyday experience, aligning with the interest in non-superficial mindfulness and consciousness."
         }
       ]
     },
@@ -89,11 +89,11 @@
       "subtitle": "Surprise",
       "articles": [
         {
-          "source_line1": "Smithsonian Magazine",
+          "source_line1": "The Guardian",
           "source_line2": "",
-          "title": "This Russian Family Lived Alone in the Siberian Wilderness for 40 Years, Unaware of World War II or the Moon Landing",
-          "url": "https://www.smithsonianmag.com/history/siberian-family-escaped-communist-persecution-and-lived-alone-40-years-180953043/",
-          "pitch": "This captivating longform piece tells the extraordinary true story of the Lykov family, who fled religious persecution in the 1930s and lived in complete isolation in the Siberian wilderness for 40 years. Their discovery in 1978, unaware of major global events like World War II, offers a profound reflection on human resilience, adaptation, and the nature of connection."
+          "title": "The Secret Language of Trees: How Forests Communicate and Cooperate",
+          "url": "https://www.theguardian.com/environment/2026/apr/28/secret-language-trees-forests-communicate-cooperate-aoe",
+          "pitch": "This fascinating piece explores the complex, interconnected communication networks within forest ecosystems, revealing how trees share resources and information through intricate biological systems. It offers a surprising and rich example of emergence and complexity in nature, resonating with Nuno's interest in how simple rules produce rich behavior."
         }
       ]
     }

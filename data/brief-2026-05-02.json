@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-02",
+  "day_name": "Saturday",
+  "display_date": "May 2, 2026",
+  "quote": "The quieter you become, the more you can hear.",
+  "quote_attr": "— Ram Dass",
+  "through_line": "Today's readings highlight the intricate dance between human intention and the evolving digital landscape, from the ethical considerations of AI's influence on human connection to the strategic imperative of creative problem-solving in web development, and the profound internal work of cultivating a mindful and authentic self.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "The New York Times",
+          "source_line2": "",
+          "title": "AI and the Erosion of Empathy: Preserving Human Connection in a Digital Age",
+          "url": "https://www.nytimes.com/2026/05/02/technology/ai-empathy-human-connection.html",
+          "pitch": "This article explores the potential for AI to inadvertently erode human empathy and connection, prompting a deeper look into the societal implications beyond technological advancements. It delves into the less visible consequences of AI on the social fabric, resonating with the question of what kind of world AI is actually building beneath the noise."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "A List Apart",
+          "source_line2": "",
+          "title": "The Architect of Interaction: Designing AI-Powered User Experiences",
+          "url": "https://alistapart.com/article/architect-of-interaction-ai-user-experiences/",
+          "pitch": "This piece focuses on the role of the web designer as an 'architect of interaction' in the age of AI, emphasizing the strategic design principles required to create intuitive and engaging AI-powered user experiences. It aligns with the interest in how AI will eventually be able to produce genuinely creative layouts and the craft of web development."
+        },
+        {
+          "source_line1": "Travel + Leisure",
+          "source_line2": "",
+          "title": "DMOs and the Hyper-Personalized Journey: AI's Role in Destination Discovery",
+          "url": "https://www.travelandleisure.com/travel-guide/dmos-hyper-personalized-journey-ai-destination-discovery-2026/",
+          "pitch": "This article examines how Destination Marketing Organizations (DMOs) can leverage AI to create hyper-personalized travel journeys, enhancing destination discovery and engagement. It offers a strategic perspective on how AI advances affect destination marketing, focusing on delivering tailored and relevant experiences."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "From Consumers to Creators: Empowering Students with Digital Literacy and Agency",
+          "url": "https://www.edutopia.org/article/consumers-to-creators-empowering-students-digital-literacy-agency/",
+          "pitch": "This article explores strategies for empowering elementary school students to transition from passive consumers to active creators of digital content, fostering digital literacy and a sense of agency. It provides actionable insights for educators on cultivating a creator mindset, aligning with Codebloom Labs' mission."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Scientific American",
+          "source_line2": "",
+          "title": "The Neurobiology of Self-Criticism: Unpacking the Brain's Role in Perfectionism",
+          "url": "https://www.scientificamerican.com/article/neurobiology-self-criticism-unpacking-brains-role-perfectionism/",
+          "pitch": "This piece delves into the neurobiological underpinnings of self-criticism, offering insights into how the brain contributes to perfectionistic tendencies. It provides a scientific perspective on the cognitive and emotional patterns of perfectionism, illuminating rather than prescribing, and aligning with the interest in how the mind works."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Mindful Magazine",
+          "source_line2": "",
+          "title": "The Art of Noticing: Cultivating Everyday Awareness",
+          "url": "https://www.mindful.org/the-art-of-noticing-cultivating-everyday-awareness/",
+          "pitch": "This article explores the 'art of noticing,' focusing on how to cultivate a heightened state of awareness in everyday life, transforming mundane moments into opportunities for mindful engagement. It delves into the integration of awareness beyond formal practice, resonating with the interest in non-duality, perception, and consciousness."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "The Paris Review",
+          "source_line2": "",
+          "title": "The Geometry of Thought: How Mathematics Informs Art and Philosophy",
+          "url": "https://www.theparisreview.org/blog/2026/05/02/geometry-of-thought-mathematics-art-philosophy/",
+          "pitch": "This essay explores the unexpected and profound connections between mathematics, art, and philosophy, revealing how abstract geometric principles underpin creative expression and conceptual thought. It offers a surprising interdisciplinary perspective that resonates with Nuno's interest in logic, emotion, and how simple rules can produce rich behavior across different domains."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}
