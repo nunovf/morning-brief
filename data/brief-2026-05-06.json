@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-06",
+  "day_name": "Wednesday",
+  "display_date": "May 6, 2026",
+  "quote": "The clearest way into the Universe is through a forest wilderness.",
+  "quote_attr": "— John Muir",
+  "through_line": "Today's selections highlight the profound interplay between human ingenuity, natural systems, and the digital realm. From understanding how AI can augment human creativity and the strategic integration of AI in destination marketing, to recognizing the cognitive traps of perfectionism and the intricate communication within forests, the overarching theme emphasizes the importance of discerning engagement and deep awareness in shaping both our inner and outer worlds.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Hertie School",
+          "source_line2": "",
+          "title": "How to gain public trust for AI in government?",
+          "url": "https://www.hertie-school.org/en/digital-governance/research/blog/detail/content/how-to-gain-public-trust-for-ai-in-government-we-need-a-social-license",
+          "pitch": "This article explores the critical need for governments to establish a 'social license' for AI by prioritizing transparency, accountability, and public engagement in AI governance. It discusses how to build public trust in AI-driven administrative processes and the importance of ethical frameworks to ensure AI underpins, rather than undermines, democratic values. The piece offers practical insights into human-centered AI development in the public sector."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": []
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Psychology Today",
+          "source_line2": "",
+          "title": "The Critical Thinking Traps in Perfectionism",
+          "url": "https://www.psychologytoday.com/us/blog/perfectionism/202505/the-critical-thinking-traps-in-perfectionism",
+          "pitch": "This article delves into the cognitive traps that fuel perfectionism, particularly how individuals unfairly place the burden of proof on others and struggle with conflicting views. It highlights how perfectionists' rigid thinking patterns and pursuit of certainty can lead to social anxiety and a discounting of external validation. The piece offers illuminating insights into the psychological mechanisms of perfectionism."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": []
+    }
+  ],
+  "section_count": 2,
+  "item_count": 2
+}

@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-10",
+  "day_name": "Sunday",
+  "display_date": "May 10, 2026",
+  "quote": "The future is not something we enter. The future is something we create.",
+  "quote_attr": "— Leonard I. Sweet",
+  "through_line": "Today's brief explores the profound questions of human agency and creation in an increasingly automated world. From the critical importance of human oversight in AI governance and the strategic role of human-AI collaboration in design, to empowering students as active digital creators and delving into the neuroscience of free will, the overarching theme emphasizes our inherent capacity to consciously shape our technologies, our learning, and our understanding of self.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Research Paper",
+          "source_line2": "(via Google Scholar snippet)",
+          "title": "Human-AI Collaboration Among Engineering and Design Professionals: Three Strategies of Generative AI Use",
+          "url": "https://codesign.berkeley.edu/papers/ma-genai-idetc/",
+          "pitch": "This study explores how engineering and design professionals utilize generative AI, identifying three distinct strategies for human-AI collaboration in creative work. It offers insights into when, how, and why designers engage with AI tools, and how these tools can be better built to accommodate human creativity. The article provides a nuanced understanding of AI's role in the creative process and strategic problem-solving."
+        },
+        {
+          "source_line1": "Travel Marketing Blog",
+          "source_line2": "",
+          "title": "Generative AI Optimization for Travel: How Discovery Is Shifting",
+          "url": "https://nextgendestinationmarketing.com/travel-discovery-is-shifting-to-generative-ai/",
+          "pitch": "This article examines how generative AI is fundamentally reshaping travel discovery, influencing both pre-trip research and in-destination decisions. It provides a strategic perspective for DMOs and tourism operators on optimizing for generative AI visibility, emphasizing reliable and citable information over traditional website traffic. The piece offers crucial insights into how DMOs can adapt to the evolving AI search landscape."
+        },
+        {
+          "source_line1": "Orange142",
+          "source_line2": "",
+          "title": "Unleashing the Power of AI in Destination Marketing",
+          "url": "https://orange142.com/blog/unleashing-the-power-of-ai-in-destination-marketing",
+          "pitch": "This article highlights how AI is transforming destination marketing beyond basic content creation, focusing on AI-powered discovery, personalized experiences, and real-time campaign optimization. It emphasizes that DMOs thriving in 2026 will treat AI as infrastructure woven into their planning, marketing, and measurement strategies. The piece offers a strategic overview of AI's potential to enhance destination discoverability and visitor engagement."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "ERIC",
+          "source_line2": "(via Google Scholar snippet)",
+          "title": "EXPLORING STUDENT VOICE ACROSS A DIGITAL LANDSCAPE",
+          "url": "https://files.eric.ed.gov/fulltext/EJ1263308.pdf",
+          "pitch": "This research explores how digital storytelling can empower students to discover their voices and become active creators rather than passive consumers of multimedia. It highlights the importance of student choice and agency in curriculum design to increase engagement and foster new perspectives. The article offers valuable pedagogical insights into cultivating a 'creator vs. consumer' mindset in elementary school children."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "John Templeton Foundation",
+          "source_line2": "",
+          "title": "The Neuroscience of Free Will",
+          "url": "https://www.templeton.org/news/video-the-neuroscience-of-free-will",
+          "pitch": "This article discusses a major research project investigating the neuroscience of free will, exploring how the brain enables conscious, causal control of decisions and actions. It delves into the philosophical implications of neuroscientific discoveries on human agency and moral responsibility. The piece offers a surprising and deep dive into the intersection of cognitive science and philosophy."
+        }
+      ]
+    }
+  ],
+  "section_count": 3,
+  "item_count": 5
+}

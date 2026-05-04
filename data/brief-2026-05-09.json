@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-09",
+  "day_name": "Saturday",
+  "display_date": "May 9, 2026",
+  "quote": "The object of art is not to reproduce reality, but to create a reality of the same intensity.",
+  "quote_attr": "— Alberto Giacometti",
+  "through_line": "Today's selections explore the profound ways humans shape and are shaped by the emergent realities of AI and art. From establishing ethical governance frameworks for artificial intelligence and fostering co-creation in education to understanding the neurological underpinnings of aesthetic experience, the common thread emphasizes the active role of human agency, ethical intention, and the pursuit of deeper understanding in navigating complex systems and creating meaningful realities.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "UNESCO",
+          "source_line2": "",
+          "title": "Ethics of Artificial Intelligence - AI",
+          "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+          "pitch": "This UNESCO document outlines core ethical principles and policy actions for the responsible development and deployment of AI systems, emphasizing human rights, transparency, accountability, and multi-stakeholder governance. It highlights the need to move beyond high-level principles to practical strategies that ensure AI aligns with societal values and benefits. The piece provides a comprehensive framework for ethical human participation in shaping AI's future."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "[x]cube LABS",
+          "source_line2": "",
+          "title": "Human-AI Collaboration: Enhancing Creativity with Generative AI",
+          "url": "https://www.xcubelabs.com/blog/human-ai-collaboration-enhancing-creativity-with-generative-ai/",
+          "pitch": "This article explores the potent union of human-AI collaboration in enhancing creativity, emphasizing how generative AI can provide ideas, inspiration, and new perspectives without replacing human talent. It highlights that AI can serve as a catalyst for novel creative roads, allowing professionals to achieve previously unthinkable levels of innovation. The piece directly addresses how AI can contribute to genuinely creative outputs and human-AI collaboration."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "IDE Corp.",
+          "source_line2": "",
+          "title": "Redefining Student Voice: From Participation to Co-Creation",
+          "url": "https://www.idecorp.com/voice-isnt-volume-its-co-creation/",
+          "pitch": "This article redefines student voice, moving beyond mere participation to emphasizing co-creation where students actively influence decisions about their learning experiences. It highlights how empowering students to make suggestions and propose alternatives fosters deeper engagement and develops critical skills. The piece directly supports cultivating a 'creator vs. consumer' mindset and student agency in education."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": []
+    }
+  ],
+  "section_count": 3,
+  "item_count": 3
+}

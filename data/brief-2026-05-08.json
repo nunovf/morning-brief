@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-08",
+  "day_name": "Friday",
+  "display_date": "May 8, 2026",
+  "quote": "Creativity is just connecting things.",
+  "quote_attr": "— Steve Jobs",
+  "through_line": "Today's brief explores the essential human element in a technologically evolving world, demanding a re-evaluation of trust, creativity, and even reality itself. From the ethical governance of AI and its role as a creative partner in web design to the psychological journey of overcoming perfectionism through self-compassion and the neuroscience of improvisation, the overarching theme emphasizes our inherent capacity to consciously shape our technologies, our learning, and our understanding of self.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Harvard DCE",
+          "source_line2": "",
+          "title": "Ethics in AI: Why It Matters",
+          "url": "https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/",
+          "pitch": "This article from Harvard DCE emphasizes the critical importance of AI ethics for leaders, examining the societal implications of widespread AI usage, including its impact on jobs and the environment. It highlights the need for ethical literacy to protect companies from risks and build a holistic understanding of the AI age. The piece offers a strategic perspective on human values within AI governance."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Learn Tourism",
+          "source_line2": "",
+          "title": "AI Didn't Break Destination Marketing. It Revealed What Matters Most.",
+          "url": "https://blog.learntourism.org/ai-didnt-break-destination-marketing.-it-revealed-what-matters-most",
+          "pitch": "This article offers a critical perspective on AI's impact on destination marketing, arguing that it hasn't broken the industry but rather revealed the enduring importance of authentic connection and strategic storytelling. It discusses the 'discoverability problem' in the AI age and how DMOs must adapt by focusing on brand salience and human expertise. The piece provides strategic insights for DMOs navigating the future of AI search."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": []
+    }
+  ],
+  "section_count": 2,
+  "item_count": 2
+}

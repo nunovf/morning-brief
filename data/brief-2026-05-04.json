@@ -1,0 +1,59 @@
+{
+  "date": "2026-05-04",
+  "day_name": "Monday",
+  "display_date": "May 4, 2026",
+  "quote": "The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday's logic.",
+  "quote_attr": "— Peter Drucker",
+  "through_line": "The articles today explore the critical need for human intentionality in an increasingly complex and AI-driven world. From ensuring public participation in shaping AI's trajectory to strategically designing digital experiences and understanding the emergent properties of living systems, a common thread emerges: conscious engagement with intricate dynamics is paramount for meaningful outcomes.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "HyScaler",
+          "source_line2": "",
+          "title": "Beyond Templates: Creating Custom Web Designs with AI Assistance",
+          "url": "https://hyscaler.com/insights/templates-custom-web-designs-ai/",
+          "pitch": "This article explores how AI is enabling web designers to move beyond the limitations of traditional templates, fostering genuinely custom and creative layouts. It delves into AI's role in streamlining design processes while emphasizing that human creativity remains central to crafting unique digital experiences. The piece resonates with the interest in how AI can cross the threshold into true creative output in web design."
+        },
+        {
+          "source_line1": "Envisionit",
+          "source_line2": "",
+          "title": "How DMOs Can Optimize for Google's AI Search Experience",
+          "url": "https://envisionitagency.com/blog/how-to-elevate-your-dmo-in-the-ai-search-landscape-according-to-google/",
+          "pitch": "This article delves into how Google's evolving AI search features, such as AI Overviews and AI modes, are changing destination discovery and what DMOs need to do to adapt. It emphasizes optimizing content with visuals and structured data to ensure visibility in new AI-driven search experiences. The insights are crucial for DMOs seeking to stay relevant and enhance their digital presence in the AI age."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "The Tender Trap",
+          "source_line2": "",
+          "title": "Perfectionism in Highly Sensitive People: How Depth Psychotherapy Helps You Come Home to Yourself",
+          "url": "https://www.saraouimette.com/blog/2025/10/28/perfectionism-in-highly-sensitive-people-how-depth-psychotherapy-helps-you-come-home-to-yourself",
+          "pitch": "This piece offers a depth psychology perspective on perfectionism, particularly in highly sensitive individuals, framing it as an armor built for safety rather than a pure drive for excellence. It explores the unconscious roots of this tendency and how depth psychotherapy can help individuals cultivate self-acceptance and inhabit their lives more fully. The article provides illuminating insights into the psychological underpinnings of perfectionism."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": []
+    }
+  ],
+  "section_count": 2,
+  "item_count": 3
+}

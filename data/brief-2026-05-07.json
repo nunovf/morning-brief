@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-07",
+  "day_name": "Thursday",
+  "display_date": "May 7, 2026",
+  "quote": "The only true wisdom is in knowing you know nothing.",
+  "quote_attr": "— Socrates",
+  "through_line": "Today's readings explore the evolving landscape where human and artificial intelligence intersect, demanding a re-evaluation of trust, creativity, and even reality itself. From fostering ethical human-AI collaboration and designing genuinely creative digital experiences to understanding the psychological freedom found in embracing \"good enough\" and the philosophical implications of digital twins, the common thread emphasizes a conscious and discerning approach to both technological advancement and self-knowledge.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "SmythOS",
+          "source_line2": "",
+          "title": "Building Trust in Human-AI Collaboration: Key Strategies for Success",
+          "url": "https://smythos.com/developers/agent-development/human-ai-collaboration-and-trust/",
+          "pitch": "This article outlines key strategies for building genuine trust in human-AI collaboration, emphasizing transparency, fairness, and continuous monitoring. It highlights that trust is foundational for AI adoption and success, and requires a methodical approach focused on clear communication and ethical considerations. The piece provides a strategic perspective on fostering human agency and responsible AI integration."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Wix Engineering",
+          "source_line2": "",
+          "title": "Beyond Content Generation: AI-Based Layout Generation for Graphic Design",
+          "url": "https://www.wix.engineering/post/beyond-content-generation-ai-based-layout-generation-for-graphic-design",
+          "pitch": "This article explores Wix's research into AI-based layout generation, moving beyond simple content creation to developing unique and highly personalized website designs. It introduces a framework that offers intuitive control over the design process, aiming to broaden creative options for users. The piece directly addresses the challenge of AI producing genuinely creative layouts."
+        },
+        {
+          "source_line1": "Seeker",
+          "source_line2": "",
+          "title": "AI in the Travel Industry: What DMOs Need to Know in 2026",
+          "url": "https://products.seeker.io/blog/ai-and-the-travel-industry/",
+          "pitch": "This guide provides a comprehensive overview of how AI is transforming the travel industry and what Destination Marketing Organizations (DMOs) need to know to succeed in 2026. It highlights the shift in traveler discovery towards generative AI tools and the importance of optimizing for AI visibility through authoritative and structured content. The article offers strategic insights for DMOs navigating hyper-personalization and AI search."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "The Creativity Project",
+          "source_line2": "",
+          "title": "Our Story — Creativity belongs in classrooms.",
+          "url": "https://the-creativityproject.com/ourstory",
+          "pitch": "This piece advocates for a play-based, creativity-filled curriculum in early elementary education to foster narrative skills, critical thinking, and problem-solving. It emphasizes giving children agency over their choices and creating an environment where they can explore, experiment, and innovate without fear of failure. The article directly supports the goal of cultivating a 'creator vs. consumer' mindset in young learners."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Marsh Psychotherapy",
+          "source_line2": "",
+          "title": "How to Overcome Perfectionism By Embracing “Good Enough”",
+          "url": "https://marshpsychotherapy.org/blog/how-to-overcome-perfectionism-by-embracing-good-enough/",
+          "pitch": "This article explores the psychological roots of perfectionism, framing it as a drive for safety and worthiness rather than excellence, and introduces Winnicott's concept of the 'good enough mother' to understand its origins. It offers insights into how embracing 'good enough' can reduce shame, rebuild self-trust, and create space for authentic growth. The piece provides a deep, non-prescriptive understanding of perfectionism."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Dr. Dan Siegel",
+          "source_line2": "",
+          "title": "Mindfulness As Integration",
+          "url": "https://drdansiegel.com/mindfulness-as-integration/",
+          "pitch": "This article by Dr. Dan Siegel presents mindfulness as a 'way of being' that promotes integration in mind, relationships, and body, rather than merely a 'doing.' It discusses how intentional practice can cultivate an integrated state of mindful awareness that becomes a habitual trait, fostering presence and well-being. The piece offers a deep, non-superficial exploration of mindfulness as a fundamental aspect of consciousness."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Devdiscourse",
+          "source_line2": "",
+          "title": "Are digital twins the new ideals? Plato's ancient philosophy meets AI reality",
+          "url": "https://www.devdiscourse.com/article/technology/3665403-are-digital-twins-the-new-ideals-platos-ancient-philosophy-meets-ai-reality",
+          "pitch": "This study bridges ancient philosophy with cutting-edge technology, arguing that digital twins may represent a modern realization of Plato's theory of Perfect Forms. It explores the profound implications of digital twins for reality, identity, and ethics, questioning what it means to be human when virtual replicas can surpass physical authenticity. The article offers a surprising and deeply philosophical lens on the future of AI."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

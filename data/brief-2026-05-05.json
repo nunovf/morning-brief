@@ -1,0 +1,66 @@
+{
+  "date": "2026-05-05",
+  "day_name": "Tuesday",
+  "display_date": "May 5, 2026",
+  "quote": "The unexamined life is not worth living.",
+  "quote_attr": "— Socrates",
+  "through_line": "Today's articles delve into the intricate dance between human values and technological advancement, particularly within AI. From the critical need to align large language models with diverse human ethics to empowering young minds as digital creators, and understanding the deep psychological roots of perfectionism, the common thread highlights the imperative for conscious design and self-awareness in navigating an increasingly complex world.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "AAAI Publications",
+          "source_line2": "",
+          "title": "Diverse Human Value Alignment for Large Language Models via Ethical Reasoning",
+          "url": "https://ojs.aaai.org/index.php/AIES/article/download/36744/38882/40819",
+          "pitch": "This paper proposes a novel ethical reasoning paradigm for Large Language Models (LLMs) to achieve genuine alignment with diverse human values, moving beyond superficial conformity. It highlights the challenge of integrating complex, context-dependent human values into AI systems and offers a structured, five-step process for deliberative ethical reasoning. The article provides a deep, interdisciplinary perspective on a critical aspect of human agency in shaping AI."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": []
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Dr. Erik Matser",
+          "source_line2": "",
+          "title": "The Neuropsychology of Perfectionism and Self-Worth: The Overlapping Mechanisms in Trauma and Chronic Stress.",
+          "url": "https://neuro-psychologie.nl/the-neuropsychology-of-perfectionism-and-self-worth-the-overlapping-mechanisms-in-trauma-and-chronic-stress/",
+          "pitch": "This clinical lesson explores the neurobiological mechanisms underlying perfectionism, linking it to trauma, chronic stress, and a low sense of self-worth. It delves into how the brain's response to early experiences can lead to hypervigilance and an unrelenting drive for perfection as a coping strategy. The article offers deep psychological insights into the origins and impact of perfectionist tendencies."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "VA.gov",
+          "source_line2": "",
+          "title": "Mindful Awareness Practice in Daily Living",
+          "url": "https://www.va.gov/WHOLEHEALTHLIBRARY/tools/mindful-awareness-practice-daily-living.asp",
+          "pitch": "This resource explores how mindful awareness can evolve from discrete meditation sessions to a seamless state of continuous, compassionate attention in daily life. It emphasizes cultivating a 'beginner's mind' and integrating practices into routine activities to foster presence and connection. The article offers a non-superficial approach to bridging formal mindfulness practice with everyday awareness."
+        }
+      ]
+    }
+  ],
+  "section_count": 3,
+  "item_count": 3
+}
