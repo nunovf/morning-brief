@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Morning Brief — May 10, 2026</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap');
+    :root { --bg: #dce8df; --black: #0e0e0e; --muted: #556055; --rule: #b0c4b4; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Space Grotesk', sans-serif; background: var(--bg); color: var(--black); min-height: 100vh; }
+    .masthead { padding: 52px 56px 44px; border-bottom: 2px solid var(--black); display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+    .masthead-wordmark { font-size: clamp(56px, 11vw, 108px); font-weight: 700; letter-spacing: -0.045em; line-height: 0.88; text-transform: uppercase; }
+    .masthead-wordmark .dim { color: var(--muted); }
+    .masthead-right { text-align: right; padding-bottom: 6px; }
+    .masthead-date { font-family: 'Space Mono', monospace; font-size: 11px; line-height: 2; letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+    .snav { display: flex; overflow-x: auto; scrollbar-width: none; border-bottom: 1px solid var(--rule); }
+    .snav::-webkit-scrollbar { display: none; }
+    .snav a { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); text-decoration: none; padding: 12px 18px; border-right: 1px solid var(--rule); white-space: nowrap; flex-shrink: 0; transition: background 0.12s, color 0.12s; }
+    .snav a:hover { background: rgba(0,0,0,0.06); color: var(--black); }
+    .content { max-width: 1060px; margin: 0 auto; padding: 0 56px 120px; }
+    .section { border-bottom: 1px solid var(--rule); }
+    .section-bar { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; padding: 40px 0 14px; border-bottom: 1px solid var(--black); }
+    .section-bar-label { display: flex; flex-direction: column; gap: 5px; }
+    .section-bar-subtitle { font-family: 'Space Mono', monospace; font-size: 9.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+    .section-bar-name { font-size: clamp(26px, 5vw, 48px); font-weight: 700; letter-spacing: -0.03em; text-transform: uppercase; line-height: 1; color: var(--black); }
+    .section-bar-meta { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); flex-shrink: 0; padding-bottom: 4px; }
+    .articles { padding: 0; }
+    .article-row { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; padding: 36px 0; border-bottom: 1px solid var(--rule); }
+    @media (max-width: 680px) { .article-row { grid-template-columns: 1fr; gap: 16px; } }
+    .article-left { padding-top: 4px; }
+    .article-source { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); line-height: 1.8; }
+    .article-right { display: flex; flex-direction: column; gap: 14px; }
+    .article-title { font-size: clamp(18px, 2.8vw, 26px); font-weight: 700; letter-spacing: -0.025em; line-height: 1.15; }
+    .article-title a { color: var(--black); text-decoration: none; }
+    .article-title a:hover { text-decoration: underline; }
+    .article-pitch { font-family: 'Space Mono', monospace; font-size: 11.5px; line-height: 1.85; color: #2e3d2e; max-width: 72ch; }
+    .through-line { padding: 40px 0 38px; border-bottom: 1px solid var(--rule); }
+    .through-line-inner { display: grid; grid-template-columns: 180px 1fr; gap: 0 48px; }
+    @media (max-width: 680px) { .through-line-inner { grid-template-columns: 1fr; gap: 20px; } }
+    .through-line-quote { font-family: 'Space Mono', monospace; font-size: 10px; line-height: 1.8; color: var(--muted); padding-top: 4px; font-style: italic; }
+    .through-line-label { font-family: 'Space Mono', monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+    .through-line-text { font-size: clamp(15px, 2vw, 18px); font-weight: 500; line-height: 1.65; letter-spacing: -0.01em; color: var(--black); }
+    .footer { border-top: 2px solid var(--black); padding: 26px 56px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .footer-l { font-weight: 700; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .footer-r { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); letter-spacing: 0.04em; }
+    @media (max-width: 680px) { .masthead { padding: 32px 24px 28px; } .content { padding: 0 24px 80px; } .section-bar { padding-top: 28px; } .footer { padding: 22px 24px; } }
+  </style>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-wordmark">Morning<br><span class="dim">Brief</span></div>
+  <div class="masthead-right">
+    <div class="masthead-date">SUNDAY<br>MAY 10, 2026<br>3 SECTIONS<br>3 ITEMS</div>
+  </div>
+</header>
+<nav class="snav">
+  <a href="#deep">The Deep</a>
+  <a href="#ground">The Ground</a>
+  <a href="#craft">The Craft</a>
+</nav>
+<div class="content">
+  <div class="through-line">
+    <div class="through-line-inner">
+      <div class="through-line-quote">"To integrate contemplative practice into daily life requires more than becoming proficient in meditation techniques; it involves cultivating mindfulness, curiosity, understanding, collectedness, compassion, equanimity, and care."<br>— Secular Buddhist Network</div>
+      <div>
+        <div class="through-line-label">Today's thread</div>
+        <div class="through-line-text">A week of themes converges: human values shape AI, attention is finite, the body knows what the mind overlooks, mistakes are how we learn. The Sunday question is: what do we actually want to build — in systems, in classrooms, in ourselves?</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" id="deep">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Psychology, Identity & Self-Knowledge</div>
+        <div class="section-bar-name">The Deep</div>
+      </div>
+      <div class="section-bar-meta">1 ITEM</div>
+    </div>
+    <div class="articles">
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">TED<br>Ideas</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://ideas.ted.com/the-two-kinds-of-stories-we-tell-about-ourselves/">The two kinds of stories we tell about ourselves</a></div>
+          <div class="article-pitch">Narrative identity: how we construct a coherent self from memory and meaning-making. The psychological mechanism underlying how we process change, challenge, and growth — foundational to understanding what education and AI each do to a developing sense of self.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" id="ground">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Mindfulness & Wellbeing</div>
+        <div class="section-bar-name">The Ground</div>
+      </div>
+      <div class="section-bar-meta">1 ITEM</div>
+    </div>
+    <div class="articles">
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">PMC /<br>NCBI</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2944261/">Buddha's Brain: Neuroplasticity and Meditation</a></div>
+          <div class="article-pitch">Meditation produces not metaphorical but structural brain change. A neuroscience summary grounded in contemplative understanding — closing the loop between practice and mechanism, and between this week's themes of embodiment and formal practice.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" id="craft">
+    <div class="section-bar">
+      <div class="section-bar-label">
+        <div class="section-bar-subtitle">Web, Work & AI</div>
+        <div class="section-bar-name">The Craft</div>
+      </div>
+      <div class="section-bar-meta">1 ITEM</div>
+    </div>
+    <div class="articles">
+      <div class="article-row">
+        <div class="article-left">
+          <div class="article-source">Crescendo<br>AI</div>
+        </div>
+        <div class="article-right">
+          <div class="article-title"><a href="https://www.crescendo.ai/blog/human-centered-ai">Human-Centered AI: Meaning and Real-Life Examples (2026)</a></div>
+          <div class="article-pitch">Not a buzzword but a design philosophy: AI that augments rather than replaces, respects autonomy, and remains interpretable. The counterpoint to extractive, agency-erasing systems — and a useful frame for thinking about what any designed system is actually for.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="footer">
+  <div class="footer-l">Morning Brief — May 10, 2026</div>
+  <div class="footer-r">Curated by Claude &nbsp;·&nbsp; Feedback shapes next week's brief</div>
+</footer>
+</body>
+</html>
