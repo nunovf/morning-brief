@@ -1,0 +1,87 @@
+{
+  "date": "2026-05-15",
+  "day_name": "Friday",
+  "display_date": "May 15, 2026",
+  "quote": "Be the first critical reviewer of your code. Only submit work once it passes self-review.",
+  "quote_attr": "— Smashing Magazine",
+  "through_line": "Authorship is harder to maintain than it looks. In AI-assisted development, in content built for AI readers, and in maker education for children — the same risk appears: the tool does more, the person does less, and the creative intelligence that was supposed to be supported quietly recedes. Responsibility is not a setting; it is a practice.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Smashing Magazine",
+          "source_line2": "",
+          "title": "Practical Use Of AI Coding Tools For The Responsible Developer",
+          "url": "https://www.smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/",
+          "pitch": "A practitioner's honest account of two years integrating AI coding tools at a professional web agency — Copilot, Cursor, Claude, and ChatGPT. The piece is useful precisely because it doesn't evangelise: AI can hallucinate, the developer must review line by line, and the real gain is cognitive bandwidth for higher-level planning, not a reduction in accountability. A grounded, practice-level take on what AI-assisted development looks like when someone is actually responsible for shipping real work."
+        },
+        {
+          "source_line1": "Off Madison Ave",
+          "source_line2": "",
+          "title": "Your Destination Is Already in AI Search Results. Here's How to Shape What It Says.",
+          "url": "https://www.offmadisonave.com/insights/destination-ai-search-results-geo-strategy/",
+          "pitch": "Off Madison Ave's piece focuses on the practical response DMO teams need now: AI is already citing destination content, but citations are shaped by structure, authority, and schema — not design aesthetics. The article moves from diagnosis to tactics: write content that answers questions no one else has answered, structure data for machine readability, and audit what AI actually says about the destination today. Practitioner-level specificity on an urgent problem."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Behavioral Scientist",
+          "source_line2": "",
+          "title": "Saving Lives By Closing the Intention-Action Gap",
+          "url": "https://behavioralscientist.org/saving-lives-by-closing-the-intention-action-gap/",
+          "pitch": "Behavioral Scientist's piece on the intention-behaviour gap — the persistent phenomenon where knowing what to do and actually doing it diverge — examines what structural conditions close that gap rather than just describing it. The research context here is public health, but the mechanism is universal: knowing and doing are governed by different systems, and understanding alone rarely activates the second. A grounded complement to this week's Deep arc on the limits of insight as a change agent."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "Seeing with Grandmother's Eyes",
+          "url": "https://tricycle.org/magazine/margaret-cullen-equanimity/",
+          "pitch": "Adapted from Margaret Cullen's book Quiet Strength, this Tricycle piece focuses on the near enemies of equanimity — indifference, numbness, emotional flatness — and how to distinguish them from the real thing. The \"grandmother's eyes\" metaphor frames equanimity as seeing everything with warmth and without preference: not detachment, but full presence without being swept away by what is present. Cullen holds both sides of the shadow-and-clarity theme together without collapsing either into the other."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "Science in Flux: Is a Revolution Brewing in Evolutionary Theory?",
+          "url": "https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory",
+          "pitch": "A 2026 Aeon essay surveying pressure building at the edges of orthodox evolutionary theory — from genomics, epigenetics, and developmental biology. Most evolutionists now agree the field is in flux; some call for an Extended Evolutionary Synthesis that gives developmental processes a causal role they have long been denied. A rich piece for anyone interested in how scientific paradigms resist anomalies until they can no longer afford to, and what happens when the cracks become structural."
+        }
+      ]
+    }
+  ],
+  "section_count": 4,
+  "item_count": 5
+}

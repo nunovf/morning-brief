@@ -1,0 +1,87 @@
+{
+  "date": "2026-05-14",
+  "day_name": "Thursday",
+  "display_date": "May 14, 2026",
+  "quote": "Flow engineering — designing the control flow, state transitions, and decision boundaries around LLM calls — has emerged as the highest-leverage work, overtaking prompt optimisation.",
+  "quote_attr": "— Augment Code",
+  "through_line": "Specialisation and integration are in constant tension. The agent that only does one thing well needs an orchestrator to make it useful. The practitioner who understands deeply but cannot act on that understanding needs something different from more understanding. Capability that stays local never becomes the system.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "philschmid.de",
+          "source_line2": "",
+          "title": "Context Engineering for AI Agents: Part 2",
+          "url": "https://www.philschmid.de/context-engineering-part-2",
+          "pitch": "Schmid's follow-up on context engineering focuses on the practical challenge of managing what goes into an agent's context window — and what gets left out. The piece covers context compaction, how agents decide which information to carry forward, and why context curation has become as important as prompt design. Directly relevant to building subagent systems where context must be scoped tightly to avoid quality degradation as tasks grow in complexity."
+        },
+        {
+          "source_line1": "Digital Tourism Think Tank",
+          "source_line2": "",
+          "title": "2025 Future Destination Trends: The Rise of Delegated Discovery",
+          "url": "https://www.thinkdigital.travel/opinion/2025-future-destination-trends-the-rise-of-delegated-discovery",
+          "pitch": "Digital Tourism Think Tank's analysis of how AI trip-planning changes the DMO role from inspiration platform to delegated discovery engine. When travellers outsource destination choice to AI agents, the question shifts from capturing attention to becoming the authoritative source AI trusts. The piece puts a name to the structural shift DMOs are navigating — and frames the strategic response for organisations that want to stay relevant rather than just visible."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Professor RJ Starr",
+          "source_line2": "",
+          "title": "Insight vs Integration: Why Understanding Yourself Rarely Changes Behaviour",
+          "url": "https://profrjstarr.com/essays/insight-is-cheap-integration-is-rare",
+          "pitch": "Where Wednesday's piece made the diagnosis, this essay presses toward what is actually required: integration, not insight. Understanding is cognitive; integration is embodied — it requires exposure, experience, and time. The essay names the pattern precisely: insight is cheap, widely available, and feels like progress. Integration is rare, slow, and often uncomfortable. A corrective to treating self-knowledge as an endpoint rather than the beginning of actual work."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Integral Becoming",
+          "source_line2": "",
+          "title": "Meditation, the Dark Night, and the Uncharted Depths of Consciousness",
+          "url": "https://www.integralbecoming.com/blog/meditation-the-dark-night-and-the-uncharted-depths-of-consciousness",
+          "pitch": "This essay takes seriously the disorientation that can accompany deepening practice — not as failure of technique, but as a structural feature of insight. The Dark Night is framed as the mind encountering impermanence, unsatisfactoriness, and non-self directly, rather than conceptually — and finding its habitual strategies of grasping no longer operative. The essay holds both sides: fear exposes grasping; misery weakens resistance; equanimity is what the practice builds toward, not what it starts from."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "The Sudden Surges That Forge Evolutionary Trees",
+          "url": "https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/",
+          "pitch": "Quanta profiles a new mathematical model showing evolution does not proceed smoothly but in explosive bursts — rapid change punctuated by long stasis. The model has implications for how change works in any complex system: it is threshold-triggered, and the conditions for a burst are often invisible until after it happens. An unexpected frame for anyone who thinks about emergence and how simple dynamics produce sudden structural shifts."
+        }
+      ]
+    }
+  ],
+  "section_count": 4,
+  "item_count": 5
+}

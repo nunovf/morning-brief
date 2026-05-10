@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-17",
+  "day_name": "Sunday",
+  "display_date": "May 17, 2026",
+  "quote": "Constructionism assumes constructing one's own knowledge through making — not by using it, but by building it.",
+  "quote_attr": "— Seymour Papert",
+  "through_line": "Everything that has been looked at this week — who shapes AI, how agents specialise and integrate, what children need from creative technology, why knowing is not enough for growth, what equanimity actually is — converges on one question: what does it mean to build something that serves others rather than simply reflecting the builder? That question requires not more understanding but a different quality of presence.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Google Developers Blog",
+          "source_line2": "",
+          "title": "Developer's Guide to Multi-Agent Patterns in ADK",
+          "url": "https://developers.googleblog.com/developers-guide-to-multi-agent-patterns-in-adk/",
+          "pitch": "Google's engineering blog on multi-agent patterns in the Agent Development Kit — covering how agents delegate to subagents via a Task tool, how an Agent Registry (a catalogue of subagent names and descriptions) lets the orchestrator decide when to delegate automatically, and how communication protocols like MCP and Agent-to-Agent (A2A) shape coordination. A useful synthesis from a different implementation perspective than the Anthropic/Spring-centred pieces earlier in the week."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "The Integral Dojo",
+          "source_line2": "",
+          "title": "Meditation and the Dark Night of the Soul",
+          "url": "https://theintegraldojo.com/meditation-and-the-dark-night-of-the-soul/",
+          "pitch": "The Integral Dojo's treatment of the Dark Night as a structural stage in the Vipassana progress of insight — not a pathology or a failure, but the natural consequence of the practice working as intended. The essay covers what the classic stages feel like from the inside (fear, misery, disgust, desire for deliverance) and why there is no shortcut through them — only a way forward into equanimity. A grounded, non-alarmist account of what serious practice can surface, and what it opens."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "The Year in Computer Science",
+          "url": "https://www.quantamagazine.org/the-year-in-computer-science-20251216/",
+          "pitch": "Quanta's annual computer science review for 2025 surfaces the year's most surprising computational results: a new fundamental relationship between time and space, an undergraduate who overturned a 40-year-old conjecture, and the unexpectedly simple triggers that can destabilise AI systems. A dense, beautifully written roundup that treats computer science as a living intellectual tradition rather than a technology update — the kind of piece that stays interesting long after the specifics date."
+        }
+      ]
+    }
+  ],
+  "section_count": 3,
+  "item_count": 3
+}

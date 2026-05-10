@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-12",
+  "day_name": "Tuesday",
+  "display_date": "May 12, 2026",
+  "quote": "RLHF aggregates the preferences of many labellers, which can impart a collective bias — considered by some a form of collective epistemic vice.",
+  "quote_attr": "— Philosophy & Technology",
+  "through_line": "Feedback shapes systems — but only the feedback that actually reaches the system. Whether in AI training, in how destination organisations position themselves to AI search engines, or in how children are taught to think about technology, the question of who and what gets heard is the upstream question everything else follows from.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Philosophy & Technology",
+          "source_line2": "",
+          "title": "AI's Epistemic Harm: Reinforcement Learning, Collective Bias, and the New AI Culture War",
+          "url": "https://link.springer.com/article/10.1007/s13347-025-00928-y",
+          "pitch": "This essay traces a specific harm in large language models: aggregating labeller preferences through RLHF produces a \"bias of crowds\" — not random noise, but systematic tilt toward the values of whoever does the rating. The piece connects this technical process to the emerging cultural politics of AI, arguing that what people call \"AI culture wars\" are downstream of who gets to define what a helpful response looks like. Dense but essential for the week's participation-gap theme."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Simon Willison's Weblog",
+          "source_line2": "",
+          "title": "Subagents — Agentic Engineering Patterns",
+          "url": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/",
+          "pitch": "Part of Willison's Agentic Engineering Patterns guide, this page gives a precise technical definition of subagents and how coding agents like Claude Code deploy them. A subagent is a dispatched copy of the main agent with a fresh context window and a focused prompt — Willison unpacks the performance logic (parallel execution, cheaper models, scoped context) and the cost/benefit tradeoffs of deep specialisation. Foundation reading before designing any subagent system."
+        },
+        {
+          "source_line1": "PhocusWire",
+          "source_line2": "",
+          "title": "DMOs Shift Toward Destination-as-a-Service Model in AI Era",
+          "url": "https://www.phocuswire.com/news/technology/dmo-destination-as-a-service-ai",
+          "pitch": "PhocusWire reports on the structural shift confronting destination marketing organisations: AI has turned them into infrastructure, not just marketers. ChatGPT is already making millions of requests to DMO websites — reading schema, not design. The piece makes the case that DMOs who thrive will position themselves as structured data providers to the AI ecosystem, not just storytellers for human readers. A sharp strategic reframe for the DMO web practitioner."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "EdSurge",
+          "source_line2": "",
+          "title": "Coding, Creativity and the New Digital Fluency",
+          "url": "https://www.edsurge.com/news/2025-06-11-coding-creativity-and-the-new-digital-fluency",
+          "pitch": "EdSurge's piece draws on OECD data showing a consistent global decline in creativity and curiosity between ages 10 and 15 — and argues the response is to reframe coding as a creative instrument rather than a technical skillset. Positioning code as a tool for storytelling and game design taps intrinsic motivation while building computational thinking. The article is specific about why this matters now: AI has made syntax-drilling obsolete, but creative authorship has not."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Insight Meditation Center",
+          "source_line2": "",
+          "title": "Equanimity",
+          "url": "https://www.insightmeditationcenter.org/books-articles/equanimity/",
+          "pitch": "Gil Fronsdal's concise essay on equanimity at IMC draws the essential distinction: upekkha, often translated as equanimity, literally means \"to look over\" — to observe without being caught by what is seen. The piece traces how equanimity emerges not from suppressing experience but from the power of clear observation cultivated through practice. A compact, precise treatment of why equanimity is the ground for wisdom rather than a retreat from feeling."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "How Xenobots Reshape Our Understanding of Genetics",
+          "url": "https://aeon.co/essays/how-xenobots-reshape-our-understanding-of-genetics",
+          "pitch": "When frog cells are freed from their normal organismal context, they form entirely different biological structures — despite carrying the same genome. This Aeon essay uses xenobots to argue that cells are not passive executors of a genetic programme but contingent, constructional entities that respond to their environment. The implications for what \"design\" means in biology — and what \"output\" means in any complex system governed by simple rules — are genuinely disorienting."
+        }
+      ]
+    }
+  ],
+  "section_count": 5,
+  "item_count": 6
+}

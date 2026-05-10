@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-13",
+  "day_name": "Wednesday",
+  "display_date": "May 13, 2026",
+  "quote": "Insight lives in cognition. Change lives in capacity.",
+  "quote_attr": "— Institute for Human Psychology",
+  "through_line": "Knowing how something works and being able to build it are different things — and building it requires more than understanding the pattern. This runs through agent skill design, maker education, and the psychology of change: comprehension is a starting condition, not a finishing line.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Simon Willison's Weblog",
+          "source_line2": "",
+          "title": "Agent Skills",
+          "url": "https://simonwillison.net/2025/Dec/19/agent-skills/",
+          "pitch": "Willison examines Anthropic's skills mechanism — the emerging standard for giving agents a defined, reusable portfolio of capabilities. Skills are effectively subagent specifications: structured definitions that tell an orchestrator what a given agent can do and when to delegate to it. The piece connects this to broader questions of how to organise multi-agent systems around bounded, composable competencies — directly relevant to folder and context organisation for per-client agent setups."
+        },
+        {
+          "source_line1": "Spring.io",
+          "source_line2": "",
+          "title": "Spring AI Agentic Patterns (Part 4): Subagent Orchestration",
+          "url": "https://spring.io/blog/2026/01/27/spring-ai-agentic-patterns-4-task-subagents/",
+          "pitch": "Spring's engineering blog walks through a concrete implementation of subagent orchestration using a Task tool inspired by Claude Code's subagent design. Each subagent is defined as a Markdown file in an `agents/` folder, specifying name, description, allowed tools, preferred model, and system prompt. This is the level of structural specificity — actual folders, files, formats — that turns conceptual architecture into something buildable. The most implementation-grounded piece in this week's Craft reading."
+        },
+        {
+          "source_line1": "Search Engine Land",
+          "source_line2": "",
+          "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
+          "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+          "pitch": "Search Engine Land's full GEO guide is the practitioner's entry point into what's replacing traditional SEO for destination websites. The shift to answer-engine optimisation is now mainstream, but this guide gets specific: schema markup, authoritative question-answering formats, and how AI systems decide what to cite. Essential structure for any DMO web team rethinking content architecture for AI discoverability."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "FabLearn Fellows / Stanford",
+          "source_line2": "",
+          "title": "Constructionism: A Learning Theory and a Model for Maker Education",
+          "url": "https://fablearn.stanford.edu/fellows/archive/fellows/blog/constructionism-learning-theory-and-model-maker-education.html",
+          "pitch": "This piece from Stanford's FabLearn Fellows traces Papert's constructionism — learning is most effective when the learner constructs something external, not just receives information — and extends it to maker education. The creator-vs-consumer distinction is made explicit: children making games and tools learn more than children using them. A strong intellectual foundation for positioning a coding academy around intentional making, and for articulating that positioning to parents who see technology as threat rather than tool."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Institute for Human Psychology",
+          "source_line2": "",
+          "title": "Why Psychological Insight Doesn't Change People",
+          "url": "https://medium.com/@IHPeditorialstaff/why-psychological-insight-doesnt-change-people-887cd4af556c",
+          "pitch": "What most therapy and self-examination produces is not change but narrative fluency — better explanations for why we are the way we are, not a reorganisation of how we actually respond. The essay's core distinction is quiet but devastating: knowing why you do something is not the same as being able to do otherwise. Insight operates in cognition; change lives in capacity. A precise dissection of why understanding can function as a stopping point rather than a beginning."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "source_line2": "",
+          "title": "The Surprising Benefits of Giving Up",
+          "url": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362",
+          "pitch": "Drawing on a recent meta-analysis, this Nautilus essay finds that disengaging from goals in the face of real adversity is not failure but adaptive intelligence — and is often associated with better psychological outcomes than continued persistence. A quietly subversive piece for a culture that treats effort and continuation as unconditional virtues. Particularly resonant alongside this week's Deep reading on the limits of knowing as a path to growth."
+        }
+      ]
+    }
+  ],
+  "section_count": 4,
+  "item_count": 6
+}

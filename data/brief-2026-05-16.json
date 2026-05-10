@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-16",
+  "day_name": "Saturday",
+  "display_date": "May 16, 2026",
+  "quote": "When we see clearly, seeing is the same as stopping — we can find rest in the midst of activity.",
+  "quote_attr": "— Insight Meditation Center",
+  "through_line": "Clear seeing and difficult seeing are the same act. What meditation reveals about the self, what an AI systems audit reveals about a DMO's content gaps, and what deep agents reveal about the limits of shallow loops — all involve the same move: looking at what is actually there, not what was expected. That is where the real work begins.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Augment Code",
+          "source_line2": "",
+          "title": "Swarm vs. Supervisor: Multi-Agent Architecture Guide",
+          "url": "https://www.augmentcode.com/guides/swarm-vs-supervisor",
+          "pitch": "Augment Code's guide to the two dominant multi-agent topologies: swarm patterns, where routing logic is embedded in each task and agents hand off sequentially through distributed control; and supervisor patterns, where a central coordinator manages dynamic routing, ordered execution, and conflict resolution. The decision between them reduces to task interdependency. A useful capstone to the week's Craft arc, naming the architectural choice that sits above all the implementation details."
+        },
+        {
+          "source_line1": "Spring.io",
+          "source_line2": "",
+          "title": "Spring AI Agentic Patterns (Part 1): Agent Skills — Modular, Reusable Capabilities",
+          "url": "https://spring.io/blog/2026/01/13/spring-ai-generic-agent-skills/",
+          "pitch": "The first entry in Spring's agentic patterns series focuses on skills as the primitive unit of agent capability — modular, reusable functions that can be composed across different agent configurations. The piece makes the design case for skills-first architecture: by defining what an agent can do before defining what it is, the system stays flexible and the skill library becomes a shared resource. Connects directly to the Agent Registry / subagent-specialisation design pattern covered earlier in the week."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Insight Meditation Center",
+          "source_line2": "",
+          "title": "Stopping & Seeing",
+          "url": "https://www.insightmeditationcenter.org/books-articles/stopping-seeing/",
+          "pitch": "Gil Fronsdal's essay at IMC on the paired movements of meditation practice: stopping (samatha) and seeing (vipassana) are not sequential but mutually constitutive. Seeing clearly is not just a result of calm — it is what produces a different kind of calm: not the absence of experience but the capacity to be present with it without being disturbed. An accessible treatment of the non-dual quality of awareness that emerges in serious practice, written from within the tradition rather than about it."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "source_line2": "",
+          "title": "The Thrill of Science in 2042",
+          "url": "https://nautil.us/the-thrill-of-science-in-2042-1270684",
+          "pitch": "A speculative essay from Nautilus that projects forward from 2026 — a moment when science was under attack from denial and political turbulence — to imagine what the field looks like when it recovers its momentum. Written as a kind of time-travel dispatch, it holds the present moment's fragility and the longer arc of human curiosity in productive tension. An unusual piece of science writing: part historical, part speculative, genuinely moving."
+        }
+      ]
+    }
+  ],
+  "section_count": 3,
+  "item_count": 4
+}

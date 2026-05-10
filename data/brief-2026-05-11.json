@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-11",
+  "day_name": "Monday",
+  "display_date": "May 11, 2026",
+  "quote": "Every RLHF run involves choosing whose judgments shape an AI that might interact with millions.",
+  "quote_attr": "— Philosophy & Technology, Springer Nature",
+  "through_line": "The systems we shape end up shaping us back. In AI, the people most likely to ask careful questions are the least likely to be in the room where preferences get aggregated — and that asymmetry is already baked into the outputs. Awareness without participation is itself a form of absence.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Philosophy & Technology",
+          "source_line2": "",
+          "title": "Reinforcement Learning from Human Feedback in LLMs: Whose Culture, Whose Values, Whose Perspectives?",
+          "url": "https://link.springer.com/article/10.1007/s13347-025-00861-0",
+          "pitch": "Published in Springer's Philosophy & Technology journal, this essay asks the question most RLHF coverage refuses to ask: whose preferences are actually doing the aligning? Annotators, even when recruited globally, are incentivised to rate outputs in ways that reflect their employers' largely Western expectations — meaning the \"human\" in human feedback is a very specific human indeed. A philosophical grounding for the week's core Horizon theme on who shapes AI values."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "philschmid.de",
+          "source_line2": "",
+          "title": "How Agents Manage Other Agents: Four Subagents Patterns in 2026",
+          "url": "https://www.philschmid.de/subagent-patterns-2026",
+          "pitch": "Philipp Schmid maps four distinct patterns for how a main orchestrator agent can spawn and manage subagents — from a simple tool call that returns a result, to persistent message-based agents that remain alive across interactions. The framing is precise: patterns are ordered by the level of control the orchestrator retains over the subagent lifecycle. Directly useful for anyone designing hierarchical agent systems where specialisation and delegation are the central concerns."
+        },
+        {
+          "source_line1": "Augment Code",
+          "source_line2": "",
+          "title": "Multi-Agent Orchestration: A Practical Architecture Without the Buzzwords",
+          "url": "https://www.augmentcode.com/guides/multi-agent-orchestration-architecture-guide",
+          "pitch": "Augment Code names the four primitives that define multi-agent orchestration in production: decomposition, routing, state, and recovery. The piece is honest about where latency accumulates and failure cascades, and the framing — orchestrator on top, subagents in scoped context windows below — is one of the clearer practitioner-level treatments of what production multi-agent systems actually look like day-to-day."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "KQED MindShift",
+          "source_line2": "",
+          "title": "Engage Kids With Coding By Letting Them Design, Create, and Tell Stories",
+          "url": "https://www.kqed.org/mindshift/43097/engage-kids-with-coding-by-letting-them-design-create-and-tell-stories",
+          "pitch": "Rather than coding-as-skill, this piece frames code as a creative language — a tool for organising, expressing, and sharing ideas. The argument that children shifting from consuming to designing digital objects changes their whole relationship to technology goes well beyond any computer science curriculum. Useful for thinking through how to position a coding academy around intentional creativity rather than technical competency, and for articulating that positioning to parents."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "The Uses of Equanimity",
+          "url": "https://tricycle.org/article/the-uses-of-equanimity/",
+          "pitch": "This Tricycle essay examines equanimity as one of the four immeasurables and names its near enemies carefully: the false calm of indifference, the numbness of detachment, the absence of feeling that masquerades as peace. Real equanimity involves what Jon Kabat-Zinn calls an \"orthogonal rotation of consciousness\" — a slight change in angle that changes everything. A nuanced treatment that holds both the opening and the challenge of clear seeing."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Noema",
+          "source_line2": "",
+          "title": "The Clash Between Technology & Ecology",
+          "url": "https://www.noemamag.com/the-clash-between-technology-ecology/",
+          "pitch": "Dan Zimmer's essay in Noema introduces a new political axis — not left vs. right, but \"Up\" (AI-driven acceleration) vs. \"Down\" (ecological balance and planetary care). This is a rare piece of structural framing that captures something genuinely new about the current moment without reducing it to either techno-optimism or alarmism. A useful orientation for anyone trying to think clearly about where AI's long-term trajectory actually intersects with the physical world."
+        }
+      ]
+    }
+  ],
+  "section_count": 5,
+  "item_count": 6
+}
