@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-18",
+  "day_name": "Monday",
+  "display_date": "May 18, 2026",
+  "quote": "The public is concerned about rising electricity rates caused by data centers, the enormous water use that data centers require, public handouts in the form of tax breaks going to data center developers, and that data centers don't bring meaningful economic development.",
+  "quote_attr": "— Ben Green, University of Michigan, Harvard Gazette",
+  "through_line": "When a system grows faster than the governance structures around it, the first casualties are the communities least equipped to push back. Data centres are remaking rural America at a pace that leaves locals discovering the damage after the fact — and the same dynamic runs through writing: rules that travel without the principles behind them lose their authority in proportion to how far they travel.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Harvard Gazette",
+          "source_line2": "",
+          "title": "Why Are Communities Pushing Back Against Data Centers?",
+          "url": "https://news.harvard.edu/gazette/story/2026/04/why-are-communities-pushing-back-against-data-centers/",
+          "pitch": "An April 2026 Harvard Gazette piece that cuts through the noise by letting researchers — including a University of Michigan public-policy scholar — examine both sides of the community-versus-tech-giant standoff. The piece documents $98 billion in projects blocked or delayed between March and June 2025, while also presenting the infrastructure-and-jobs argument developers make. A rare piece that genuinely tries to hold both sides without settling the question."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Addy Osmani",
+          "source_line2": "",
+          "title": "How to Write a Good Spec for AI Agents",
+          "url": "https://addyosmani.com/blog/good-spec/",
+          "pitch": "Osmani's framework for writing agent specifications treats the spec as a living architecture document, not a loose instructions file. The insight beneath the surface rules: agents fail primarily because of context failures, not model failures — so the spec's job is to manage information, not just issue commands. Directly applicable to building writing and visual guidelines for AI agentic workflows."
+        },
+        {
+          "source_line1": "The Missouri Review",
+          "source_line2": "",
+          "title": "Writing Beyond Good: Creating Emotional Resonance",
+          "url": "https://missourireview.com/writing-beyond-good-creating-emotional-resonance/",
+          "pitch": "A Missouri Review craft essay that argues emotional resonance is not a feeling you add to prose — it is what concrete, precisely selected details do automatically when adjectives fail. The three-to-one principle (three physical details per abstraction) is the kind of underlying structural rule that can be encoded into agent writing guidelines at a principled level, rather than as a stylistic preference."
+        },
+        {
+          "source_line1": "Travel Weekly",
+          "source_line2": "",
+          "title": "Destinations Are in a High-Stakes Game with AI",
+          "url": "https://www.travelweekly.com/Travel-News/Travel-Technology/Destinations-high-stakes-game-with-AI",
+          "pitch": "A sober Travel Weekly report documenting how 40% of searches on one AI travel platform now begin without a destination — up from 12% at launch — and what that shift means for DMOs whose entire digital strategy was built around people knowing where they wanted to go. The stakes are existential and the data is specific enough to act on."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "A Critical Thinking Framework for Elementary School",
+          "url": "https://www.edutopia.org/article/critical-thinking-framework-for-elementary-school/",
+          "pitch": "Edutopia makes the case that critical thinking doesn't emerge from exercises labelled 'critical thinking' — it forms through structured dialogue and the deliberate cultivation of questioning skills across the curriculum. The framework is concrete enough to apply to a coding or mindfulness lesson without modification, and grounded in how questioning actually develops in children aged 6–12."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "PsyPost",
+          "source_line2": "",
+          "title": "Strong ADHD Symptoms May Boost Creative Problem-Solving Through Sudden Insight",
+          "url": "https://www.psypost.org/strong-adhd-symptoms-may-boost-creative-problem-solving-through-sudden-insight/",
+          "pitch": "A February 2026 study from Drexel University finds that people with strong ADHD symptoms solve creative puzzles more often through sudden insight — the 'Aha!' moment — than through analytic reasoning, while those with moderate symptoms score lowest. The cognitive mechanism is associative processing that bypasses conscious logic, making this directly relevant to understanding imaginative, pattern-connecting minds."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Psyche",
+          "source_line2": "",
+          "title": "What If We Learned Contemplation Like We Do Arts or Sports?",
+          "url": "https://psyche.co/ideas/what-if-we-learned-contemplation-like-we-do-arts-or-sports",
+          "pitch": "Michael R. Sheehy's August 2025 Psyche essay argues that contemplative practice suffers not from a lack of credibility but from a lack of institutional support — the same infrastructure that produces skilled athletes or musicians. The piece reframes contemplation as a learnable suite of transferable skills, not a mystical attainment, which is precisely the move needed to bring inquiry-as-practice into formal settings."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "A Treasure Trove of Cambrian Fossils Rewrites the Story of Early Life",
+          "url": "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
+          "pitch": "Paleontologists in southern China have uncovered 8,681 fossils spanning 153 species — half of them new to science — from the end of the Cambrian explosion, a period that followed a mass extinction. The site suggests deep-water environments served as refuges for marine life, quietly contradicting what was thought to be a story of collapse. An extraordinary find that arrived with almost no fanfare."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 8
+}

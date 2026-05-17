@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-20",
+  "day_name": "Wednesday",
+  "display_date": "May 20, 2026",
+  "quote": "By the time officials identified the problem, QTS had consumed more than 29 million gallons — the equivalent of 44 Olympic-sized swimming pools.",
+  "quote_attr": "— Fortune",
+  "through_line": "Specificity is not a stylistic preference — it is how meaning arrives. Whether the subject is water pressure dropping in a Georgia subdivision because a data centre was secretly drawing tens of millions of gallons, or a sentence that names the exact make of car rather than just 'a car,' the principle is the same: the particular detail carries the weight that abstractions cannot. Today's brief is about what gets lost at scale, and what only the particular can recover.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Fortune",
+          "source_line2": "",
+          "title": "America's Data Centers Are Thirsty. Rural Towns Are Paying the Price.",
+          "url": "https://fortune.com/2026/05/13/data-center-georgia-arizona-water-wars/",
+          "pitch": "A May 2026 Fortune report that follows two specific incidents — a Georgia subdivision where residents noticed falling water pressure, eventually tracing it to a Blackstone-owned data centre drawing 29 million unauthorised gallons; and an Arizona contractor transporting city water to a remote site without permission. Both cases share a structure: consumption happened before detection, and residents discovered it after the fact. The specificity makes the systemic argument land."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "Machine Writing Is Closer to Literature's History Than You Know",
+          "url": "https://aeon.co/essays/machine-writing-is-closer-to-literatures-history-than-you-know",
+          "pitch": "A January 2026 Aeon essay arguing that before Romanticism, most writing was as formulaic as AI-generated text — and that what changed was not the technology but the cultural expectation of originality. This reframes the 'AI writing is flat' complaint as a problem of defaults, not capability, and opens up the question of what structural principles — information control, rhythm, register — actually differentiate memorable prose from averaged prose."
+        },
+        {
+          "source_line1": "Nielsen Norman Group",
+          "source_line2": "",
+          "title": "5 Principles of Visual Design in UX",
+          "url": "https://www.nngroup.com/articles/principles-visual-design/",
+          "pitch": "NN/G's foundational treatment of scale, visual hierarchy, balance, contrast, and Gestalt as the five principles underlying all visual design decisions. Not trend-dependent, not medium-specific — grounded in how human perception works. An essential reference for building visual guidelines for AI agents that produce coherent, communicative outputs regardless of the current aesthetic moment."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "How to Do Philosophy For — and With — Children",
+          "url": "https://aeon.co/essays/how-to-do-philosophy-for-and-with-children",
+          "pitch": "A richly grounded Aeon essay on what happens when elementary-age children are invited into genuine philosophical dialogue — not with pre-answered questions, but with the kind that keep adults up at night too. The argument is that children's 'beginner's mind' gives them advantages that adult reasoning often loses: openness, fearlessness, and genuine curiosity about the foundations of ordinary experience."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Drexel University",
+          "source_line2": "",
+          "title": "ADHD Symptoms Predict Distinct Creative Problem-Solving Styles and Superior Solving Ability",
+          "url": "https://drexel.edu/news/archive/2026/February/Kounios-ADHD-Creativity",
+          "pitch": "The February 2026 Drexel study in primary form — looking at how individuals with strong ADHD symptoms outperform both moderate and low-symptom groups on creative problem-solving, through a distinctive reliance on unconscious associative processing. The inverted-U finding (strongest and weakest symptoms outperform the middle) challenges deficit-only narratives while remaining rigorously empirical."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "What Causes Lightning? The Answer Keeps Getting More Interesting.",
+          "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+          "pitch": "A May 2026 Quanta piece reporting that storm clouds are seething with violent and unexpected phenomena — physicists equipped with new instruments are discovering gamma rays, previously associated only with dying stars, emanating from ordinary thunderclouds. A story about how the ordinary turns out to be stranger than anyone thought, which is always the best kind of science writing."
+        }
+      ]
+    }
+  ],
+  "section_count": 5,
+  "item_count": 6
+}

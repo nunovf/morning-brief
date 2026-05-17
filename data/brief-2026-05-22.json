@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-22",
+  "day_name": "Friday",
+  "display_date": "May 22, 2026",
+  "quote": "Philosophical inquiry isn't about converging upon correct answers; it's about asking generous questions and exploring varied perspectives.",
+  "quote_attr": "— Edutopia",
+  "through_line": "The week closes on a question about what inquiry actually does — not as a method, not as a technique, but as a way of being present to experience. Whether that inquiry is philosophical, contemplative, or scientific, the structure is the same: a willingness to hold the question open longer than is comfortable, and to let what emerges shape the next question.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Brookings Institution",
+          "source_line2": "",
+          "title": "Turning the Data Center Boom into Long-Term, Local Prosperity",
+          "url": "https://www.brookings.edu/articles/turning-the-data-center-boom-into-long-term-local-prosperity/",
+          "pitch": "Brookings' constructive counterpart to its critical analysis — a framework for what community benefit agreements could look like, how transparency requirements could be built into permitting, and what co-investment in workforce and R&D would need to look like for data centre presence to generate durable local value. Not boosterism — a policy argument with specifics."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "The Missouri Review",
+          "source_line2": "",
+          "title": "Writing Beyond Good: Creating Emotional Resonance, Part 2",
+          "url": "https://missourireview.com/writing-beyond-good-creating-emotional-resonance-part-2/",
+          "pitch": "The second part of the Missouri Review's craft series pushes further into the mechanism: the difference between rendering the external shell of a scene and dipping beneath it to the internal experience that makes events matter. The structural principle — that emotional resonance is produced by the selection of detail, not by the description of feeling — is directly encodable as a writing guideline for AI agents."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Psyche",
+          "source_line2": "",
+          "title": "How to Talk About Philosophy with Kids So You Think Together",
+          "url": "https://psyche.co/guides/how-to-talk-about-philosophy-with-kids-so-you-think-together",
+          "pitch": "A June 2025 Psyche guide by a philosopher who argues that children are natural philosophers precisely because they are new to the world and not yet afraid of being wrong. The practical advice — choose moments, respond to their interests, use bedtime as a natural contemplative window — is grounded enough to be adopted immediately by an educator or parent. The piece models the inquiry-as-relationship stance rather than inquiry-as-technique."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Nature Mental Health",
+          "source_line2": "",
+          "title": "Neurodiversity-Informed Inclusive Understanding of Neurological Differences",
+          "url": "https://www.nature.com/articles/s44220-025-00398-3",
+          "pitch": "A March 2025 Nature Mental Health article that proposes a 'big tent' approach to neurodiversity — one that embraces a broad spectrum of neurodevelopmental and mental health conditions rather than drawing narrow categorical boundaries. If neurological difference is a continuum rather than a set of discrete types, then the cognitive gifts associated with specific profiles are better understood as expressions of variation, not exceptions."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "NOEMA",
+          "source_line2": "",
+          "title": "We May Be Entering a Second Axial Age",
+          "url": "https://www.noemamag.com/we-may-be-entering-a-second-axial-age/",
+          "pitch": "Otto Scharmer's May 2026 NOEMA essay draws a structural parallel between the first Axial Age — when civilisational crisis produced Socrates, Buddha, Confucius, and the Hebrew prophets — and the current planetary polycrisis. His argument is not prophetic but analytical: the first Axial Age required a shift in the structure of consciousness, from mythic immediacy to interior reflection. He thinks that's what is being asked of us again. A genuinely large claim, made carefully."
+        }
+      ]
+    }
+  ],
+  "section_count": 5,
+  "item_count": 5
+}

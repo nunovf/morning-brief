@@ -1,0 +1,56 @@
+{
+  "date": "2026-05-24",
+  "day_name": "Sunday",
+  "display_date": "May 24, 2026",
+  "quote": "Physicists rarely invent anything without first getting permission from a philosopher.",
+  "quote_attr": "— Carlo Rovelli, NOEMA",
+  "through_line": "Rest and re-entry. The week's questions — about what systems owe to communities, what great writing does beneath the surface, how different minds perceive differently, and what happens when inquiry becomes a practice rather than a method — don't resolve on Sunday. They settle into the background, where they continue to work.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": []
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "The Jellies That Evolved a Different Way to Keep Time",
+          "url": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
+          "pitch": "A March 2026 Quanta piece about a pea-sized jellyfish off the coast of Japan whose circadian clock runs on a 20-hour cycle — and which belongs to a class of animals that lost the genes that run circadian clocks in every other animal. Evolution found another path. A beautiful piece about the diversity of solutions to the same problem, which is also, quietly, a piece about neurodiversity."
+        }
+      ]
+    }
+  ],
+  "section_count": 1,
+  "item_count": 1
+}

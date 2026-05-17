@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-23",
+  "day_name": "Saturday",
+  "display_date": "May 23, 2026",
+  "quote": "Half of the species uncovered at the Huayuan site are new to science.",
+  "quote_attr": "— Quanta Magazine",
+  "through_line": "Weekends are for the long view. The data centre story, the neurodiversity research, and the question of what consciousness actually is all share a structure: the most important things were happening before anyone was looking. What matters is not when the observation begins, but what you bring to it.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Lincoln Institute of Land Policy",
+          "source_line2": "",
+          "title": "Data Drain: The Land and Water Impacts of the AI Boom",
+          "url": "https://www.lincolninst.edu/publications/land-lines-magazine/articles/land-water-impacts-data-centers/",
+          "pitch": "The Lincoln Institute's long-form treatment of data centre land, water, and energy impacts is the most comprehensive single piece available on the infrastructure side of the story. The framing is explicitly policy-oriented — what local decision-makers need to know before a developer arrives with a zoning proposal — and the data is documented and sourced. A weekend read that repays the time."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": []
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "You Know What Consciousness Is: You Live in Soul Land",
+          "url": "https://aeon.co/essays/you-know-what-consciousness-is-you-live-in-soul-land",
+          "pitch": "A 2026 Aeon essay arguing that humans did not receive souls — they made them, through language, by turning sentience into something sacred and shared. The essay places philosophical inquiry into consciousness inside a specifically human cultural history, which is both grounding and unsettling for any practitioner who works with awareness as a first-person phenomenon."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "The Hidden Mathematical Dance Inside Plant Cells",
+          "url": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+          "pitch": "A May 2026 Quanta piece reporting that chloroplasts — the sunlight-collecting organelles inside plant cells — solve a packing optimisation problem: how to maximise photosynthesis without sustaining damage from intense light. Research that began expecting small chloroplasts to be more agile found that the natural size is already optimal. Nature, having had several hundred million years to run the experiment, already knew."
+        }
+      ]
+    }
+  ],
+  "section_count": 3,
+  "item_count": 3
+}

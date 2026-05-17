@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-19",
+  "day_name": "Tuesday",
+  "display_date": "May 19, 2026",
+  "quote": "Naive estimates that fail to account for preexisting growth trends overstate the job creation effect by a factor of three.",
+  "quote_attr": "— Brookings Institution",
+  "through_line": "The gap between what a system promises and what it actually delivers at the local level is where the most important questions live. Data centre economics turn out to work the same way as good design: the value is not in the immediate surface but in what the relationships underneath are doing. Both require understanding the mechanism, not just the output.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Brookings Institution",
+          "source_line2": "",
+          "title": "The Local Implications of Data Centers for Rural Communities in the US",
+          "url": "https://www.brookings.edu/articles/local-implications-data-centers-rural-communities-us/",
+          "pitch": "Brookings unpacks the economics that tech firms pitch to rural communities against what the data actually shows: permanent jobs are few (most large centres employ fewer than 150 full-time staff), fiscal arrangements are complex, and environmental risks are immediate and real. The analysis is dispassionate and empirical — exactly the kind of grounded counterweight to both alarmism and boosterism."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Smashing Magazine",
+          "source_line2": "",
+          "title": "A Practical Guide to Design Principles",
+          "url": "https://www.smashingmagazine.com/2026/04/practical-guide-design-principles/",
+          "pitch": "An April 2026 Smashing Magazine piece that treats design principles not as aesthetic preferences but as organisational tools for decision-making. The key insight: good principles have a point of view, and they explain what a design does not do as much as what it does. For anyone building visual guidelines for AI agents, this is the scaffolding that makes rules instructable rather than arbitrary."
+        },
+        {
+          "source_line1": "NextTown",
+          "source_line2": "",
+          "title": "GEO for Destination Marketing: How to Get Your DMO Cited by ChatGPT and Perplexity",
+          "url": "https://www.nexttownai.com/blog/geo-for-destination-marketing",
+          "pitch": "A practitioner-level breakdown of how generative search actually decides which destinations to cite — it starts with community-validated content (Reddit, TripAdvisor, Quora), then editorial guides, then earned media. The implication for DMOs is a fundamental shift from keyword optimisation to authority-building across platforms that AI models treat as credible."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "Promoting Critical Thinking in the Early Elementary Grades",
+          "url": "https://www.edutopia.org/article/critical-thinking-early-elementary/",
+          "pitch": "Focuses on the K–2 window specifically, arguing that investigative conversation — structured talk around genuine questions — is the primary vehicle for building critical thinking at this age, before formal argumentation is developmentally appropriate. A useful corrective to programmes that jump to logic and evidence before the conversational foundations are in place."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Scientific Reports",
+          "source_line2": "Nature Portfolio",
+          "title": "Neurodiversity in Mental Simulation: Conceptual but Not Visual Imagery Priming Modulates Perception Across the Imagery Vividness Spectrum",
+          "url": "https://www.nature.com/articles/s41598-025-05100-2",
+          "pitch": "A 2025 Nature Scientific Reports study finds that across the imagery vividness spectrum — from aphantasia to hyperphantasia — conceptual priming works for everyone, while visual imagery priming only works for those with vivid inner imagery. This demonstrates that neurodiverse minds are not deficient visualisers but may operate through different representational channels that are equally capable of modulating perception."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "Robert Musil Gives Confidence to the No-Self Minority Like Me",
+          "url": "https://aeon.co/essays/robert-musil-gives-confidence-to-the-no-self-minority-like-me",
+          "pitch": "An April 2026 Aeon essay by a meditation teacher and philosophy guide who argues that Musil's The Man Without Qualities does not depict an identity crisis but an identity ideal — the Buddhist anattā view that consciousness has no stable centre, only arising and passing experience. The essay treats literature as a contemplative technology alongside sitting practice, arriving at non-duality through narrative rather than instruction."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "NOEMA",
+          "source_line2": "",
+          "title": "Emergence Is Not Engineering",
+          "url": "https://www.noemamag.com/emergence-is-not-engineering/",
+          "pitch": "Stuart Kauffman's April 2026 NOEMA essay on autocatalytic processes and the adjacent possible — arguing that life and complexity do not arise by design but by conditions that allow novelty to surface. What gives the piece its current charge is the implicit challenge to the engineering logic behind large AI systems. A piece that rewards slow reading."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

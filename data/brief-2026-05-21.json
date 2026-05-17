@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-21",
+  "day_name": "Thursday",
+  "display_date": "May 21, 2026",
+  "quote": "The central question is not whether data centers are 'good' or 'bad,' but how benefits and risks get allocated and what forms of governance, local authority, and transparency can help leaders maximize local benefits while protecting community interests.",
+  "quote_attr": "— Brookings Institution",
+  "through_line": "Balance does not mean splitting the difference — it means holding the real costs and the real benefits in the same frame without letting either collapse into the other. The data centre debate, the question of what makes an agent specification actually work, and what it means to hold the conditions for genuine inquiry all share this structure: the useful answer is not on either pole.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "World Resources Institute",
+          "source_line2": "",
+          "title": "From Energy Use to Air Quality, the Many Ways Data Centers Affect US Communities",
+          "url": "https://www.wri.org/insights/us-data-center-growth-impacts",
+          "pitch": "WRI's February 2026 analysis covers seven distinct impact categories — energy demand, water use, air quality from diesel generators, land use change, economic effects, noise, and environmental justice — with specific data on each. The Memphis xAI case (30+ natural gas turbines for daily use, NAACP lawsuit) sits alongside examples of facilities adopting battery storage instead. The balance is structural, not rhetorical."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "O'Reilly Radar",
+          "source_line2": "",
+          "title": "How to Write a Good Spec for AI Agents",
+          "url": "https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/",
+          "pitch": "O'Reilly's treatment of the agent spec framework — emphasising that a spec is not a prompt but a persistent architecture document that manages context across sessions. The structural principle: start with what and why, not how; encode boundaries as three tiers (always / ask first / never); treat the spec as the source of truth the agent returns to, not a one-time instruction. Essential reading for any agentic workflow that produces writing or visual output."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Psyche",
+          "source_line2": "",
+          "title": "Why I Shut Down an Argument in My Philosophy for Children Class",
+          "url": "https://psyche.co/ideas/why-i-shut-down-an-argument-in-my-philosophy-for-children-class",
+          "pitch": "A Psyche essay by Amy Reed-Sandoval, who teaches philosophy to 10–12-year-olds in Oaxaca, about the moment she ended a logically valid argument because it had crossed a line the inquiry space needed to hold. The tension — between the formal rules of philosophical argument and the relational conditions that make genuine inquiry possible — is exactly the kind of pedagogical complexity an educator working with mindfulness and critical thinking needs to think through."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Frontiers in Human Neuroscience",
+          "source_line2": "",
+          "title": "Precision Neurodiversity: Personalized Brain Network Architecture as a Window into Cognitive Variability",
+          "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1669431/full",
+          "pitch": "A 2025 review that frames neurodiversity not as a collection of diagnoses but as a continuum of individual brain network architectures — each with its own pattern of connectivity, topological signatures, and cognitive style. The shift from pathological to variation-based models is the intellectual backdrop for all the more specific claims about associative thinking and creative cognition."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "NOEMA",
+          "source_line2": "",
+          "title": "How Philosophy Influences Quantum Physics",
+          "url": "https://www.noemamag.com/quantum-existentialism/",
+          "pitch": "An April 2026 NOEMA piece in which Carlo Rovelli traces how Niels Bohr's foundational quantum intuitions were likely shaped by Kierkegaard's existentialist philosophy — specifically the idea that truth is constituted in relation, not discovered independently. 'Physicists rarely invent anything without first getting permission from a philosopher.' An elegant piece about invisible intellectual debt."
+        }
+      ]
+    }
+  ],
+  "section_count": 5,
+  "item_count": 5
+}
