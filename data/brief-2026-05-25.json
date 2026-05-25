@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-25",
+  "day_name": "Monday",
+  "display_date": "May 25, 2026",
+  "quote": "All intelligent life depends on its environment's support; take away the support and intelligence crumbles.",
+  "quote_attr": "— John Dewey, Experience and Education",
+  "through_line": "Every general-purpose technology — electricity, roads, the internet — eventually became infrastructure, and infrastructure is never neutral: it distributes power along the grooves already carved by wealth. AI is beginning to travel that same arc. The pieces today ask what it means to build feedback loops that actually improve systems over time, and what gets lost when children lose the space to pause before making — which is another way of asking who gets to learn the discipline of iteration at all.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Brookings Institution",
+          "source_line2": "",
+          "title": "The Next Great Divergence: How AI Could Split the World Again If We Don't Intervene",
+          "url": "https://www.brookings.edu/articles/next-great-divergence-how-ai-could-split-the-world/",
+          "pitch": "A December 2025 UNDP-backed analysis that reaches for the Industrial Revolution as its reference point: the \"Great Divergence\" of the 19th century, in which industrialised powers leaped ahead of everyone else, is the template for what AI may now repeat at planetary scale. The argument is structural and empirical, not dystopian — the risk is not that AI is dangerous but that it will be unequally accessible in a world where unequal access already compounds itself across generations."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Eugene Yan",
+          "source_line2": "",
+          "title": "An LLM-as-Judge Won't Save The Product — Fixing Your Process Will",
+          "url": "https://eugeneyan.com/writing/eval-process/",
+          "pitch": "Eugene Yan's April 2025 piece reframes evaluation as a scientific practice rather than a technical artifact: the cycle of examining data, annotating outputs, running experiments, and repeating is eval-driven development, applied to AI products. The key diagnostic observation — that teams who skip the manual 20-to-50-output review step consistently diagnose the wrong problems — is the most actionable single insight in the piece."
+        },
+        {
+          "source_line1": "Skift",
+          "source_line2": "",
+          "title": "Destination Marketing Is Now AI Marketing: Brand USA and Spain's Playbook for 2026",
+          "url": "https://skift.com/2026/04/21/destination-marketing-is-now-ai-marketing-brand-usa-and-spains-playbook-for-2026/",
+          "pitch": "A Skift conversation with Brand USA and Turespaña that maps the strategic pivot in destination marketing: from buying ads to influencing the training and surface layer of AI recommendation models. The practical corollary — that overtourism is now as much an AI-narrative problem as a physical-capacity problem — reframes what DMOs are actually in the business of doing."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "Encouraging Creativity With Picture Books in Kindergarten",
+          "url": "https://www.edutopia.org/article/encouraging-creativity-picture-books-kindergarten/",
+          "pitch": "A June 2025 Edutopia piece built around a key structural observation: kindergarteners don't need to be taught creativity — they need structured space to practise it with intention. The Creative Problem Solving framework it uses is simple enough to adapt directly to a coding or making session, turning the \"just make something\" instruction into a deliberate sequence of diverging, converging, and evaluating before the hands start moving."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "The Intention of Spiritual Practice",
+          "url": "https://tricycle.org/article/the-intention-of-spiritual-practice/",
+          "pitch": "An excerpt from Kazu Haga's 2025 book Fierce Vulnerability that argues spiritual practice has no instrumental endpoint — its intention is to cultivate the courage to face reality as it is. This is a careful distinction from practice-as-self-improvement or practice-as-productivity: intention here is foundational not because it precedes action but because it orients the entire quality of engagement."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "source_line2": "",
+          "title": "The Psychedelic Scientist",
+          "url": "https://nautil.us/the-psychedelic-scientist-1254733",
+          "pitch": "A Nautilus longform on Bruce Damer, the computer scientist and NASA collaborator whose ayahuasca sessions in the 2010s unlocked a breakthrough theory of life's origins — the hot spring hypothesis, now widely cited and peer-reviewed. The piece is not a story about psychedelics but about the relationship between altered states and the capacity to hold an abstract question with patient, non-linear attention until an answer surfaces."
+        }
+      ]
+    }
+  ],
+  "section_count": 5,
+  "item_count": 6
+}

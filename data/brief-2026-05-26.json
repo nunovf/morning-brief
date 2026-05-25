@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-26",
+  "day_name": "Tuesday",
+  "display_date": "May 26, 2026",
+  "quote": "The function of education is to teach one to think intensively and to think critically. Intelligence plus character — that is the goal of true education.",
+  "quote_attr": "— Martin Luther King Jr., The Maroon Tiger, 1947",
+  "through_line": "The question of who gets to use AI well — who gets the teacher, the scaffold, the feedback loop — is the same question that has always shaped educational outcomes. But a new dimension is arriving: the cognitive style that struggles most in standardised classrooms may be exactly the style that navigates AI-augmented work most fluidly. The tools that seem neutral never are; neither is the assumption that struggle is the same as inability.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "Brookings Institution",
+          "source_line2": "",
+          "title": "AI and the Next Digital Divide in Education",
+          "url": "https://www.brookings.edu/articles/ai-and-the-next-digital-divide-in-education/",
+          "pitch": "A Brookings analysis that names the specific new dimensions the AI divide introduces beyond simple access: algorithmic literacy, susceptibility to manipulation, and divergent patterns of use between students who engage AI as a tutor and those who use it only as an answer generator. The argument that unequal access to quality AI interaction may ultimately matter more than unequal access to AI itself is the structural insight that separates this from generic digital-divide discourse."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Hamel Husain",
+          "source_line2": "",
+          "title": "A Field Guide to Rapidly Improving AI Products",
+          "url": "https://hamel.dev/blog/posts/field-guide/",
+          "pitch": "Hamel Husain's practitioner handbook for closing the gap between an AI product that kind-of-works and one that measurably improves. The core discipline: error analysis before infrastructure — spend 30 minutes reviewing 20 to 50 outputs by hand before touching the tooling. The field guide is grounded in the premise that most AI product failure is a data and process failure, not a model failure."
+        },
+        {
+          "source_line1": "Cameron R. Wolfe, Ph.D.",
+          "source_line2": "",
+          "title": "RLAIF: Reinforcement Learning from AI Feedback",
+          "url": "https://cameronrwolfe.substack.com/p/rlaif-reinforcement-learning-from",
+          "pitch": "A rigorous but accessible walkthrough of how AI systems can use another AI model — rather than human annotators — to generate the preference signals that drive alignment. The piece covers Constitutional AI's RLAIF pipeline, its relationship to RLHF, and why this approach opens a path toward AI systems that participate in their own improvement without requiring human labelling at every step."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "Edutopia",
+          "source_line2": "",
+          "title": "Visible Thinking in Elementary School",
+          "url": "https://www.edutopia.org/article/visible-thinking-elementary-school/",
+          "pitch": "A November 2024 Edutopia piece on Harvard's Project Zero \"Visible Thinking\" routines for early elementary — structured protocols that make the process of thinking observable and discussable rather than invisible. The relevance for intentionality before creation: these routines interrupt the default move from stimulus to output by inserting a deliberate reflective step that young children can actually practise and develop."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "Inclusive Education Is a Disservice to Neurodivergent Pupils",
+          "url": "https://aeon.co/essays/inclusive-education-is-a-disservice-to-neurodivergent-pupils",
+          "pitch": "A May 2025 Aeon essay that takes an uncomfortable position — arguing that the standard inclusion model, designed to normalise neurodivergent students into neurotypical classrooms, often withholds the very conditions that allow neurodiverse cognition to flourish. The key move: rather than accommodating the \"attention tunnel\" (intense monotropic focus), many classrooms systematically fight it. The essay frames this focus not as a deficit to manage but as a cognitive mode that, properly supported, produces distinctive outputs."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion's Roar",
+          "source_line2": "",
+          "title": "How to Practice Wise Intention",
+          "url": "https://www.lionsroar.com/how-to-practice-wise-intention/",
+          "pitch": "Sylvia Boorstein's November 2025 Lion's Roar piece on wise intention as the second factor of the Noble Eightfold Path — and the one most directly concerned with the motivation that precedes action. The practical instruction is about regularly naming intention before moving into the day: not as goal-setting, but as a form of orientation that keeps action connected to what actually matters."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Nautilus",
+          "source_line2": "",
+          "title": "What Would Richard Feynman Make of AI Today?",
+          "url": "https://nautil.us/what-would-richard-feynman-make-of-ai-today-1262875",
+          "pitch": "A January 2026 Nautilus piece that inhabits Feynman's distinctive epistemology — his distrust of claims that can't be operationalised, his joy in what can't yet be explained — and holds it up against AI systems that \"understand language,\" \"reason about the world,\" and \"discover new knowledge.\" The piece is not a hatchet job but a genuinely productive confrontation between two very different models of what understanding means."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

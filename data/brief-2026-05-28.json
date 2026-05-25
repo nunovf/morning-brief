@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-28",
+  "day_name": "Thursday",
+  "display_date": "May 28, 2026",
+  "quote": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
+  "quote_attr": "— George Bernard Shaw",
+  "through_line": "The week's questions about feedback loops and improvement are also questions about access — who gets to iterate, who receives the productive difficulty, whose cognitive style the signal was calibrated for. The AI divide is at its core a question about who participates in the feedback process; the science of neurodiversity is a reminder that the loop can only improve toward what it can measure, and what it measures depends on whose mind designed it.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "UNICEF Digital Impact",
+          "source_line2": "",
+          "title": "AI Divide: A New Fault Line We Cannot Ignore",
+          "url": "https://www.unicef.org/digitalimpact/blog/ai-divide-new-fault-line-we-cannot-ignore",
+          "pitch": "A January 2026 UNICEF analysis that reframes AI access as a child rights and intergenerational equity issue: when AI adoption accelerates faster than inclusion, existing inequities are amplified for the populations least equipped to push back. The argument cuts through both techno-optimism and techno-pessimism to ask the structural question: who gets to be included in the feedback loop that shapes these systems?"
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Decode the Future",
+          "source_line2": "",
+          "title": "RLHF Explained: How Human Feedback Trains AI Models in 2026",
+          "url": "https://decodethefuture.org/en/rlhf-explained/",
+          "pitch": "An April 2026 explainer that covers the full pipeline — supervised fine-tuning, reward modelling, policy optimisation — and maps how the field has moved since 2022: from PPO to DPO, GRPO, and DAPO as practitioners discovered that simpler preference-learning methods often outperform the original reinforcement learning approach. The piece is technical but readable, and situates RLHF historically within the alignment research that produced it."
+        },
+        {
+          "source_line1": "Psyche",
+          "source_line2": "",
+          "title": "We'll Soon Find Out What Is Truly Special About Human Writing",
+          "url": "https://psyche.co/ideas/well-soon-find-out-what-is-truly-special-about-human-writing",
+          "pitch": "An April 2026 Psyche essay by a writer and critic who argues that generative AI has severed the covenant between writer and reader — the implicit assumption that a consciousness selected these words, deliberated over them, and can be held accountable for them. The piece is less a lament than a diagnostic: as AI-generated text floods the zone, what was always distinctive about human writing will have to become explicit."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "KQED MindShift",
+          "source_line2": "",
+          "title": "Project-Based Learning Can Make Students Anxious (And That's Not Always a Bad Thing)",
+          "url": "https://www.kqed.org/mindshift/60603/project-based-learning-can-make-students-anxious-and-thats-not-always-a-bad-thing",
+          "pitch": "A KQED MindShift piece examining research on productive struggle in project-based learning — arguing that the anxiety students feel when a project matters and the outcome is genuinely uncertain is a signal that real learning is underway, not a problem to eliminate. The key pedagogical move is teaching students to articulate their intention for the project before the discomfort begins: purpose gives the anxiety somewhere to go."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Science (AAAS)",
+          "source_line2": "",
+          "title": "Science Needs Neurodiversity",
+          "url": "https://www.science.org/doi/10.1126/science.adq0060",
+          "pitch": "A 2024 editorial in Science by an autistic researcher arguing that behavioral and cognitive traits typically seen as unusual can be \"catalytic to the scientific quest.\" Written from the inside — the author received their diagnosis in adult life — the piece makes the case that the scientific community systematically filters out the cognitive styles most likely to generate the unconventional hypotheses science most needs. Not a superpower argument: a structural one."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Lion's Roar",
+          "source_line2": "",
+          "title": "One Simple Practice That Changes Everything",
+          "url": "https://www.lionsroar.com/one-simple-practice-that-changes-everything/",
+          "pitch": "Sylvia Boorstein on right intention as the factor in the Eightfold Path that keeps the whole structure oriented — not the goal, but the vector. The practice she describes is specific: naming intention before beginning rather than reflecting on outcome afterward. This temporal placement — intention as preparatory rather than retrospective — is what distinguishes it from evaluation and makes it foundational to practice."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "What Can We Gain by Losing Infinity?",
+          "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+          "pitch": "An April 2026 Quanta piece on ultrafinitism — the mathematical philosophy that rejects actual infinity as a legitimate object — and what happens when mathematicians take it seriously rather than treating it as heresy. Researchers are finding that working within strict finite bounds produces new kinds of constraints that generate previously invisible insights. A genuinely strange piece about what you find when you agree to work with less."
+        }
+      ]
+    }
+  ],
+  "section_count": 6,
+  "item_count": 7
+}

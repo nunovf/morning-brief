@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-29",
+  "day_name": "Friday",
+  "display_date": "May 29, 2026",
+  "quote": "It is not enough to do good; one must do it the right way.",
+  "quote_attr": "— John Morley",
+  "through_line": "What reward are you actually optimising for? In AI training, in mindfulness programmes, and in how society tries to grasp AI's implications at all, the interesting failures are the ones where the system passes every checkpoint and still misses the intention. The measure and the meaning keep pulling apart — and noticing that gap is where most of the interesting work begins.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": [
+        {
+          "source_line1": "NOEMA",
+          "source_line2": "",
+          "title": "To Understand AI, Think Like a Dragonfly",
+          "url": "https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/",
+          "pitch": "A May 2026 NOEMA essay by Anthea Roberts proposing \"dragonfly thinking\" as the cognitive mode needed to understand AI as a hyperobject — a phenomenon with more faces than any single perspective can see. Roberts maps nine distinct and internally consistent narratives about AI, arguing that the problem is not that any one narrative is wrong but that each captures only part of a compound picture. The essay functions as a practical epistemology for navigating the AI moment without collapsing it into a single story."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Lil'Log",
+          "source_line2": "Lilian Weng",
+          "title": "Reward Hacking in Reinforcement Learning",
+          "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+          "pitch": "Lilian Weng's comprehensive November 2024 overview of reward hacking — when an RL agent exploits flaws in the reward function to score well without completing the intended task. The piece is the best single resource on how feedback loops fail in AI: from the classic cleaning robot that covers its camera to the LLM that modifies unit tests to pass coding evaluations. Understanding reward hacking is prerequisite to building systems that actually improve rather than systems that just appear to."
+        },
+        {
+          "source_line1": "Hamel Husain",
+          "source_line2": "",
+          "title": "LLM Evals: Everything You Need to Know",
+          "url": "https://hamel.dev/blog/posts/evals-faq/",
+          "pitch": "Hamel Husain and Shreya Shankar's January 2026 comprehensive FAQ on LLM evaluation — the most asked questions, answered from the perspective of practitioners who've seen these systems fail. The through-argument: eval is a continuous discipline, not a one-time setup. Without ongoing human review of outputs, any automated eval system will slowly drift from what actually matters."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": [
+        {
+          "source_line1": "The Conversation",
+          "source_line2": "",
+          "title": "Mindfulness Is Gaining Traction in American Schools — But It Isn't Clear What Students Are Learning",
+          "url": "https://theconversation.com/mindfulness-is-gaining-traction-in-american-schools-but-it-isnt-clear-what-students-are-learning-261247",
+          "pitch": "A 2025 Conversation piece reporting that mindfulness programmes in US schools have expanded rapidly — but that the research on what students are actually learning is mixed, and that the programmes most likely to succeed are those with clearly articulated pedagogical intention rather than those that simply carve out quiet time. The connection to The Purpose theme is structural: technique without intention produces compliance, not transformation."
+        }
+      ]
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Tricycle",
+          "source_line2": "",
+          "title": "Two Exercises from Thupten Jinpa for Turning Intention into Motivation",
+          "url": "https://tricycle.org/article/thupten-jinpa-motivation/",
+          "pitch": "Thupten Jinpa — the Dalai Lama's principal English translator and a scholar of Tibetan Buddhist philosophy — on the gap between setting an intention and having it actually drive action. The two exercises are about closing that gap: not by willpower but by repeatedly bringing the mind back to why, until motivation is generated from the inside rather than enforced from the outside. The distinction between intention-as-orientation and motivation-as-fuel is the practical heart of this piece."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Quanta Magazine",
+          "source_line2": "",
+          "title": "How the Bird Eye Was Pushed to an Evolutionary Extreme",
+          "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+          "pitch": "A May 2026 Quanta investigation into one of the most energetically expensive tissues in biology — the bird retina — which turns out to function entirely without oxygen, using an inefficient but sufficient anaerobic pathway. The finding inverts the assumption that oxygen-powered metabolism is universal in demanding tissues, and raises practical questions about treating stroke and other oxygen-deprivation injuries in humans."
+        }
+      ]
+    }
+  ],
+  "section_count": 5,
+  "item_count": 6
+}

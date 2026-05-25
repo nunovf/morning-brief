@@ -1,0 +1,87 @@
+{
+  "date": "2026-05-27",
+  "day_name": "Wednesday",
+  "display_date": "May 27, 2026",
+  "quote": "A mind that is stretched by a new experience can never go back to its old dimensions.",
+  "quote_attr": "— Oliver Wendell Holmes Jr.",
+  "through_line": "Feedback is only useful if you trust the signal — and trust is harder to build than the loop itself. The pieces today converge on a structural tension: in AI systems, in neurodivergent cognition, in contemplative practice, and in how cultures actually spread across history, the thing that looks like an error from one frame is precisely the mechanism that makes the system more interesting from another.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": [
+        {
+          "source_line1": "Eugene Yan",
+          "source_line2": "",
+          "title": "Product Evals in Three Simple Steps",
+          "url": "https://eugeneyan.com/writing/product-evals/",
+          "pitch": "Eugene Yan's November 2025 companion to his earlier process piece — a deliberately minimal protocol: label a small dataset, align LLM evaluators against those labels, run the experiment-plus-evaluation harness with each configuration change. The \"three steps\" framing conceals a deeper argument: that the feedback loop that makes AI products better is organisational as much as technical, and discipline in annotation is where most of the value lives."
+        },
+        {
+          "source_line1": "Skift",
+          "source_line2": "",
+          "title": "B2A? AI Agents Are Travel's New Audience — And They Don't Care About Brands",
+          "url": "https://skift.com/2026/05/22/b2a-ai-agents-are-travels-new-audience-and-they-dont-care-about-brands/",
+          "pitch": "A May 2026 Skift analysis of Expedia's emerging \"business-to-agent\" marketing function — a dedicated effort to influence AI agents rather than human travellers. The core insight: brand recognition, which is a cognitive shortcut for humans, means nothing to an agent that can reason through every option every time. Competitive advantage shifts from familiarity to structured data legibility, with significant implications for DMO content architecture."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "Fast Company",
+          "source_line2": "",
+          "title": "Dyslexia Doesn't Disqualify Leaders — It Creates Them",
+          "url": "https://www.fastcompany.com/91526024/dyslexia-doesnt-disqualify-leaders-it-creates-them",
+          "pitch": "An April 2026 Fast Company piece drawing on a 2025 Neurodiversity at Work study to examine how dyslexic cognitive processing — visual pattern-matching, systems thinking, high-level abstraction — translates into leadership and innovation outcomes in environments that reward those abilities. The piece names specific individuals and traces the specific cognitive mechanism rather than asserting a general \"superpower.\" Governor Gavin Newsom is among those featured."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Psyche",
+          "source_line2": "",
+          "title": "Here's What to Know About Using Meditation to Be a Better Person",
+          "url": "https://psyche.co/ideas/heres-what-to-know-about-using-meditation-to-be-a-better-person",
+          "pitch": "A December 2025 Psyche essay on the relationship between meditation practice and moral development — arguing that the contemplative traditions have always understood these as inseparable, while Western secular programmes have split them apart. The key tension: meditating more does not automatically make you more ethical, and the missing variable appears to be the nature of the intention with which you practise."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Aeon",
+          "source_line2": "",
+          "title": "There Are No Pure Cultures — We Have Always Been Global",
+          "url": "https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global",
+          "pitch": "A January 2026 Aeon essay that uses the 1493 discovery of the Americas, the 17th-century global crisis, and the spread of the potato to argue that cultural exchange is not a modern phenomenon but the baseline condition of human history. The contemporary relevance is pointed: every discourse about protecting \"pure\" national or cultural identity is making a claim with no historical basis whatsoever."
+        }
+      ]
+    }
+  ],
+  "section_count": 4,
+  "item_count": 5
+}

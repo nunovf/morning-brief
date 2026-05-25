@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-31",
+  "day_name": "Sunday",
+  "display_date": "May 31, 2026",
+  "quote": "The sea is the same sea always.",
+  "quote_attr": "— Roald Dahl, Danny the Champion of the World",
+  "through_line": "Who we are is, in part, what we have consistently intended. The Franklin Expedition sailor found in clothes not his own, at the end of the world, poses the question of identity from the outside — DNA, uniform, circumstance. The dharma answer approaches it from the inside: the deepest answer to who a person is lives in what they repeatedly chose to set in motion.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": []
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": []
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": [
+        {
+          "source_line1": "Insight Meditation Center",
+          "source_line2": "",
+          "title": "Karma and Intention",
+          "url": "https://www.insightmeditationcenter.org/transcribed-talks/karma-and-intention/",
+          "pitch": "A transcribed dharma talk by Gil Fronsdal at IMC on intention as the engine of karma — arguing that the Buddhist understanding of karma is not about fate or cosmic accounting but about the simple principle that the quality of our intentions shapes the quality of our experience over time. The world of our inner peace is primarily a product of our intentions: not because of metaphysics, but because intention is how we direct attention, and attention is how we meet everything."
+        }
+      ]
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Smithsonian Magazine",
+          "source_line2": "",
+          "title": "This Sailor From the Franklin Expedition Died in the Arctic in a Uniform That Didn't Belong to Him. Now, DNA Has Revealed His Identity",
+          "url": "https://www.smithsonianmag.com/smart-news/this-franklin-expedition-officer-died-in-the-arctic-in-uniform-that-didnt-belong-to-him-now-dna-has-revealed-his-identity-180988702/",
+          "pitch": "A May 2026 Smithsonian piece on the DNA identification of Henry Peglar, captain of the foretop on HMS Terror, who was found dead in 1859 wearing clothing far below his rank — a detail that puzzled historians for 166 years. The DNA analysis finally resolves the mystery while opening a stranger new one: why was a senior Royal Navy officer dressed as a servant at the end of the world? The answer is still unknown."
+        }
+      ]
+    }
+  ],
+  "section_count": 2,
+  "item_count": 2
+}

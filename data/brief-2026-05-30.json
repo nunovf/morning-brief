@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-30",
+  "day_name": "Saturday",
+  "display_date": "May 30, 2026",
+  "quote": "The universe is under no obligation to make sense to you.",
+  "quote_attr": "— Neil deGrasse Tyson",
+  "through_line": "The smallest organisms and the systems that contain them — bioluminescent algae and autistic joy alike — operate by principles invisible from the outside. What the organism generates when disturbed, what the neurodiverse mind produces when given space to be itself: these mechanisms were always working, just unlighted by the frameworks that usually look for them.",
+  "sections": [
+    {
+      "id": "horizon",
+      "name": "The Horizon",
+      "subtitle": "AI & Society",
+      "articles": []
+    },
+    {
+      "id": "craft",
+      "name": "The Craft",
+      "subtitle": "Web, Work & AI",
+      "articles": []
+    },
+    {
+      "id": "purpose",
+      "name": "The Purpose",
+      "subtitle": "Growing mindful thinkers",
+      "articles": []
+    },
+    {
+      "id": "deep",
+      "name": "The Deep",
+      "subtitle": "Psychology, Identity & Self-Knowledge",
+      "articles": [
+        {
+          "source_line1": "The Conversation",
+          "source_line2": "",
+          "title": "Autistic People Seem to Feel Joy Differently — Here's What It Can Tell Us About Neurodivergence",
+          "url": "https://theconversation.com/autistic-people-seem-to-feel-joy-differently-heres-what-it-can-tell-us-about-neurodivergence-273403",
+          "pitch": "A February 2026 Conversation piece reporting that autistic people experience joy with a distinct phenomenology — often more intense, more sensory, more narrowly focused, and expressed in ways that neurotypical frameworks misread as flat affect or absence of feeling. The piece reframes autistic emotional experience not as diminished but as differently calibrated — and asks what other cognitive and affective processes might be running on a different substrate than assumed."
+        }
+      ]
+    },
+    {
+      "id": "ground",
+      "name": "The Ground",
+      "subtitle": "Mindfulness & Wellbeing",
+      "articles": []
+    },
+    {
+      "id": "andalso",
+      "name": "And also...",
+      "subtitle": "Surprise",
+      "articles": [
+        {
+          "source_line1": "Smithsonian Magazine",
+          "source_line2": "",
+          "title": "These Marine Algae Glow When Waves Disturb Them. Their Bioluminescence Could Power Electricity-Free Lamps of the Future",
+          "url": "https://www.smithsonianmag.com/smart-news/these-marine-algae-glow-when-waves-disturb-them-their-bioluminescence-could-power-electricity-free-lamps-of-the-future-180988721/",
+          "pitch": "A May 2026 Smithsonian brief on researchers who have 3D-printed lights powered by bioluminescent dinoflagellates — single-celled marine organisms that produce light when mechanically disturbed. A story that sits at the improbable intersection of physics, marine biology, and product design, and carries the quiet implication that electricity may not be the only substrate for illumination."
+        }
+      ]
+    }
+  ],
+  "section_count": 2,
+  "item_count": 2
+}
